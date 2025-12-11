@@ -8,7 +8,7 @@ import os
 import re
 import html
 from html.parser import HTMLParser
-from news_config import IMPORTANCE_RULES, EXCLUDE_KEYWORDS, MIN_IMPORTANCE_SCORE, RSS_SOURCES, SIMILARITY_THRESHOLD
+from news_config import IMPORTANCE_RULES, EXCLUDE_KEYWORDS, MIN_IMPORTANCE_SCORE, RSS_SOURCES, SIMILARITY_THRESHOLD, SOURCE_PRIORITY
 
 
 # HTML Stripper для очистки summary от тегов
@@ -244,20 +244,33 @@ def titles_are_similar(title1, title2):
 
 
 def filter_duplicates(news_items):
-    """Убираем дубликаты по схожести заголовков"""
+    """Убираем дубликаты по схожести заголовков с учетом приоритета источников"""
     unique_news = []
     
     for item in news_items:
-        is_duplicate = False
+        duplicate_index = -1
         
         # Сравниваем с уже добавленными новостями
-        for existing in unique_news:
+        for i, existing in enumerate(unique_news):
             if titles_are_similar(item['title'], existing['title']):
-                print(f"  ⚠ Duplicate detected: {item['title'][:50]}...")
-                is_duplicate = True
+                duplicate_index = i
                 break
         
-        if not is_duplicate:
+        if duplicate_index >= 0:
+            # Нашли дубликат - проверяем приоритет источника
+            existing = unique_news[duplicate_index]
+            item_priority = SOURCE_PRIORITY.get(item['source'], 999)
+            existing_priority = SOURCE_PRIORITY.get(existing['source'], 999)
+            
+            if item_priority < existing_priority:
+                # Новый источник приоритетнее - заменяем
+                print(f"  ⚠ Duplicate: replacing {existing['source']} with {item['source']}: {item['title'][:50]}...")
+                unique_news[duplicate_index] = item
+            else:
+                # Существующий приоритетнее - оставляем как есть
+                print(f"  ⚠ Duplicate: keeping {existing['source']} over {item['source']}: {item['title'][:50]}...")
+        else:
+            # Не дубликат - добавляем
             unique_news.append(item)
     
     return unique_news
