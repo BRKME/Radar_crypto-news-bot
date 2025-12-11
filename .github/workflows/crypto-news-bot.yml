@@ -2,22 +2,25 @@ name: Crypto News Bot
 
 on:
   schedule:
-    - cron: '0 */4 * * *'  # Каждые 4 часа (00:00, 04:00, 08:00, 12:00, 16:00, 20:00 UTC)
-  workflow_dispatch:  # Ручной запуск для тестирования
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   post-news:
     runs-on: ubuntu-latest
-    timeout-minutes: 15  # Защита от зависания
+    timeout-minutes: 15
     
     steps:
     - name: Checkout code
-      uses: actions/checkout@v4  # Updated to v4
+      uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Set up Python
-      uses: actions/setup-python@v5  # Updated to v5
+      uses: actions/setup-python@v5
       with:
         python-version: '3.11'
     
@@ -30,7 +33,7 @@ jobs:
         TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
       run: python news_parser.py
-      continue-on-error: false  # Fail job if parser crashes
+      continue-on-error: false
     
     - name: Commit changes
       run: |
@@ -39,9 +42,38 @@ jobs:
         git add published_news.json
         if ! git diff --quiet --staged; then
           git commit -m "📰 Update published news [skip ci]"
-          # Pull с автоматическим merge strategy для JSON
           git pull --rebase=false --no-edit origin main || git pull --rebase=false --no-edit origin master
           git push
         else
           echo "No changes to commit"
         fi
+```
+
+---
+
+## 🚀 После исправления:
+
+1. **Запусти workflow снова:**
+   - Actions → Crypto News Bot → Run workflow
+
+2. **Смотри логи - должно быть:**
+```
+   ✅ [main 850740e] 📰 Update published news [skip ci]
+   ✅ Already up to date.
+   ✅ To https://github.com/BRKME/crypto-news-bot.git  ← Push успешный!
+```
+
+3. **Проверь файл `published_news.json`:**
+   - Он должен обновиться в репозитории
+   - Будет новый commit от github-actions[bot]
+
+---
+
+## 📋 Чек-лист:
+```
+☐ Settings → Actions → General
+☐ Workflow permissions → Read and write permissions
+☐ Галочка: Allow GitHub Actions to create and approve pull requests
+☐ Save
+☐ Запустить workflow снова
+☐ Проверить что push прошел успешно
