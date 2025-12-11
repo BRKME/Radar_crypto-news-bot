@@ -1,0 +1,333 @@
+"""Парсер крипто новостей с умной фильтрацией"""
+
+import feedparser
+import requests
+from datetime import datetime, timedelta
+import json
+import os
+import re
+from news_config import IMPORTANCE_RULES, EXCLUDE_KEYWORDS, MIN_IMPORTANCE_SCORE, RSS_SOURCES
+
+
+def parse_all_feeds():
+    """Парсим все RSS источники"""
+    all_news = []
+    
+    for source_name, config in RSS_SOURCES.items():
+        try:
+            # Добавляем timeout для RSS парсинга (30 секунд)
+            feed = feedparser.parse(config['url'], timeout=30)
+            
+            # Проверяем что feed валидный
+            if hasattr(feed, 'bozo') and feed.bozo and not feed.entries:
+                print(f"✗ {source_name}: Invalid RSS feed")
+                continue
+                
+            print(f"✓ Parsed {source_name}: {len(feed.entries)} entries")
+            
+            for entry in feed.entries[:10]:  # Последние 10 из каждого источника
+                try:
+                    # Парсим время с проверкой
+                    if not hasattr(entry, 'published_parsed') or entry.published_parsed is None:
+                        # Используем текущее время если нет метки времени
+                        published = datetime.now()
+                    else:
+                        published = datetime(*entry.published_parsed[:6])
+                    
+                    # Пропускаем старые новости (>12 часов)
+                    if datetime.now() - published > timedelta(hours=12):
+                        continue
+                    
+                    # Проверяем обязательные поля
+                    if not hasattr(entry, 'title') or not hasattr(entry, 'link'):
+                        continue
+                    
+                    # Проверяем что title не пустой
+                    if not entry.title or not entry.title.strip():
+                        continue
+                    
+                    all_news.append({
+                        'title': entry.title.strip(),
+                        'link': entry.link,
+                        'published': published.isoformat(),
+                        'source': source_name,
+                        'source_weight': config['weight_multiplier']
+                    })
+                except Exception as e:
+                    print(f"  ⚠ Skipping entry from {source_name}: {e}")
+                    continue
+                    
+        except Exception as e:
+            print(f"✗ Error parsing {source_name}: {e}")
+    
+    return all_news
+
+
+def calculate_importance(news_item):
+    """Рассчитываем важность новости"""
+    title = news_item['title'].lower()
+    score = 0
+    matched_categories = []
+    
+    # Проверяем исключения
+    for exclude in EXCLUDE_KEYWORDS:
+        if exclude in title:
+            return 0, ['EXCLUDED']
+    
+    # Считаем баллы по категориям
+    for category, rules in IMPORTANCE_RULES.items():
+        category_matched = False
+        for keyword in rules['keywords']:
+            if keyword.lower() in title:
+                score += rules['weight']
+                if category not in matched_categories:
+                    matched_categories.append(category)
+                category_matched = True
+                break  # Одно совпадение на категорию
+    
+    # Дополнительная проверка для SEC (может быть в разных формах)
+    if 'sec' in title and 'CRITICAL' not in matched_categories and 'HIGH' not in matched_categories:
+        score += 50
+        matched_categories.append('HIGH')
+    
+    # Бонус за упоминание Bitcoin
+    if 'bitcoin' in title or re.search(r'\bbtc\b', title):
+        score *= 1.3
+    
+    # Бонус за цифры (конкретика) - улучшенный regex
+    # Ловит: $100M, $1.5B, 50%, $100 million, $1,234,567
+    if re.search(r'\$\s*[\d,]+\.?\d*\s*[mbk]?|\$\s*[\d,]+|\d+\.?\d*%', title, re.IGNORECASE):
+        score *= 1.2
+    
+    # Применяем вес источника
+    score *= news_item['source_weight']
+    
+    return round(score), matched_categories
+
+
+def filter_duplicates(news_items):
+    """Убираем дубликаты по схожести заголовков"""
+    unique_news = []
+    seen_titles = set()
+    
+    for item in news_items:
+        # Нормализуем заголовок для сравнения
+        normalized = re.sub(r'[^\w\s]', '', item['title'].lower())
+        normalized = ' '.join(normalized.split()[:8])  # Первые 8 слов
+        
+        # Пропускаем если нормализация дала пустую строку
+        if not normalized or len(normalized) < 3:
+            # Используем оригинальный заголовок как fallback
+            normalized = item['title'].lower()[:50]
+        
+        if normalized not in seen_titles:
+            seen_titles.add(normalized)
+            unique_news.append(item)
+    
+    return unique_news
+
+
+def load_published():
+    """Загружаем уже опубликованные новости"""
+    try:
+        if os.path.exists('published_news.json'):
+            with open('published_news.json', 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                # Очищаем старые (>7 дней)
+                week_ago = datetime.now() - timedelta(days=7)
+                cleaned_data = {}
+                for k, v in data.items():
+                    try:
+                        # Парсим ISO формат
+                        published_date = datetime.fromisoformat(v.replace('Z', '+00:00'))
+                        if published_date > week_ago:
+                            cleaned_data[k] = v
+                    except (ValueError, AttributeError):
+                        # Если не можем распарсить, оставляем (лучше дубликат чем потеря)
+                        cleaned_data[k] = v
+                return cleaned_data
+    except (FileNotFoundError, json.JSONDecodeError) as e:
+        print(f"⚠ Warning loading published news: {e}")
+    
+    return {}
+
+
+def save_published(published):
+    """Сохраняем опубликованные новости"""
+    try:
+        with open('published_news.json', 'w', encoding='utf-8') as f:
+            json.dump(published, f, indent=2, ensure_ascii=False)
+    except Exception as e:
+        print(f"✗ Error saving published news: {e}")
+
+
+def format_telegram_message(news_item):
+    """Форматируем сообщение для Telegram"""
+    import html
+    
+    emoji_map = {
+        'CRITICAL': '🚨',
+        'HIGH': '🔥',
+        'MARKET_MOVE': '📈',
+        'MEDIUM': '📰'
+    }
+    
+    # Выбираем главную категорию
+    main_category = news_item['categories'][0] if news_item['categories'] else 'MEDIUM'
+    emoji = emoji_map.get(main_category, '📰')
+    
+    # Экранируем HTML символы в заголовке
+    safe_title = html.escape(news_item['title'])
+    
+    # Обрезаем длинный заголовок если нужно (Telegram лимит 4096 символов)
+    if len(safe_title) > 300:
+        safe_title = safe_title[:297] + '...'
+    
+    message = f"{emoji} <b>{safe_title}</b>\n\n"
+    message += f"📊 Score: {news_item['score']} | 🏷 {', '.join(news_item['categories'])}\n"
+    message += f"🔗 {news_item['link']}\n"
+    message += f"📅 {news_item['source'].upper()}"
+    
+    # Финальная проверка длины (на всякий случай)
+    if len(message) > 4096:
+        message = message[:4090] + '...'
+    
+    return message
+
+
+def send_to_telegram(news_items):
+    """Публикуем в Telegram"""
+    import time
+    
+    bot_token = os.getenv('TELEGRAM_BOT_TOKEN')
+    channel_id = os.getenv('TELEGRAM_CHANNEL_ID')
+    
+    if not bot_token or not channel_id:
+        print("❌ Telegram credentials not found")
+        return []
+    
+    url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+    published_links = []
+    
+    for i, item in enumerate(news_items):
+        # Rate limiting: пауза между сообщениями
+        if i > 0:
+            time.sleep(1)  # 1 секунда между сообщениями
+        
+        message = format_telegram_message(item)
+        
+        payload = {
+            'chat_id': channel_id,
+            'text': message,
+            'parse_mode': 'HTML',
+            'disable_web_page_preview': False
+        }
+        
+        try:
+            response = requests.post(url, json=payload, timeout=10)
+            
+            if response.status_code == 200:
+                published_links.append(item['link'])
+                print(f"✓ Published: {item['title'][:50]}...")
+            elif response.status_code == 429:
+                # Too Many Requests - ждем и пробуем еще раз
+                try:
+                    retry_after = int(response.json().get('parameters', {}).get('retry_after', 60))
+                except (ValueError, json.JSONDecodeError):
+                    retry_after = 60  # Fallback если не можем распарсить
+                print(f"⚠ Rate limited, waiting {retry_after} seconds...")
+                time.sleep(retry_after)
+                # Повторная попытка
+                response = requests.post(url, json=payload, timeout=10)
+                if response.status_code == 200:
+                    published_links.append(item['link'])
+                    print(f"✓ Published (retry): {item['title'][:50]}...")
+                else:
+                    print(f"✗ Failed after retry: {response.text}")
+            else:
+                print(f"✗ Failed to publish (status {response.status_code}): {response.text[:100]}")
+                
+        except requests.exceptions.Timeout:
+            print(f"✗ Timeout sending to Telegram: {item['title'][:50]}...")
+        except requests.exceptions.RequestException as e:
+            print(f"✗ Error sending to Telegram: {e}")
+        except Exception as e:
+            print(f"✗ Unexpected error: {e}")
+    
+    return published_links
+
+
+def main():
+    print("=" * 60)
+    print("🤖 Crypto News Bot - Starting...")
+    print("=" * 60)
+    
+    # 1. Парсим источники
+    print("\n📡 Fetching news from sources...")
+    all_news = parse_all_feeds()
+    print(f"Total news fetched: {len(all_news)}")
+    
+    # КРИТИЧНО: Если все источники упали - выходим с предупреждением
+    if len(all_news) == 0:
+        print("\n⚠️ WARNING: No news fetched from any source!")
+        print("This could indicate:")
+        print("  - All RSS sources are down")
+        print("  - Network connectivity issues")
+        print("  - All news are older than 12 hours")
+        print("\nSkipping this run. Will try again on next schedule.")
+        return  # Выходим без ошибки чтобы не ломать workflow
+    
+    # 2. Загружаем уже опубликованные
+    published = load_published()
+    print(f"Already published (last 7 days): {len(published)}")
+    
+    # 3. Фильтруем уже опубликованные
+    new_news = [item for item in all_news if item['link'] not in published]
+    print(f"New news items: {len(new_news)}")
+    
+    # 4. Рассчитываем важность
+    print("\n🎯 Calculating importance scores...")
+    scored_news = []
+    for item in new_news:
+        score, categories = calculate_importance(item)
+        if score >= MIN_IMPORTANCE_SCORE:
+            item['score'] = score
+            item['categories'] = categories
+            scored_news.append(item)
+    
+    print(f"News above threshold ({MIN_IMPORTANCE_SCORE}): {len(scored_news)}")
+    
+    # 5. Убираем дубликаты
+    unique_news = filter_duplicates(scored_news)
+    print(f"After deduplication: {len(unique_news)}")
+    
+    # 6. Сортируем по важности
+    unique_news.sort(key=lambda x: x['score'], reverse=True)
+    
+    # 7. Берем топ-3
+    top_news = unique_news[:3]
+    
+    if top_news:
+        print(f"\n📢 Publishing top {len(top_news)} news items:")
+        for i, item in enumerate(top_news, 1):
+            print(f"{i}. [{item['score']}] {item['title']}")
+        
+        # 8. Публикуем
+        published_links = send_to_telegram(top_news)
+        
+        # 9. Сохраняем опубликованные ТОЛЬКО если что-то успешно опубликовалось
+        if published_links:
+            for link in published_links:
+                published[link] = datetime.now().isoformat()
+            save_published(published)
+            print(f"\n✅ Successfully published {len(published_links)} news items")
+        else:
+            print(f"\n⚠ No news items were successfully published")
+    else:
+        print("\n💤 No important news found")
+    
+    print("=" * 60)
+
+
+if __name__ == '__main__':
+    main()
