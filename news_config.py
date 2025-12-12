@@ -72,6 +72,9 @@ SOURCE_PRIORITY = {
     'decrypt': 3
 }
 
+# Twitter Integration
+TWITTER_ENABLED = True  # Set to False to disable Twitter posts
+
 # Источники RSS
 RSS_SOURCES = {
     'coindesk': {
