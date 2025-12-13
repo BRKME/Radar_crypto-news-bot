@@ -280,19 +280,21 @@ def filter_already_published(news_items, published):
     """Фильтруем новости похожие на уже опубликованные (по заголовкам)"""
     filtered_news = []
     
-    # Извлекаем заголовки опубликованных новостей
+    # Извлекаем заголовки опубликованных новостей (только непустые)
     published_titles = []
+    published_links = set(published.keys())  # Все ссылки (быстрая проверка)
+    
     for link, data in published.items():
         if isinstance(data, dict) and data.get('title'):
             published_titles.append(data['title'])
     
     for item in news_items:
-        # Проверяем по ссылке (быстро)
-        if item['link'] in published:
+        # Проверка 1: По ссылке (быстро)
+        if item['link'] in published_links:
             print(f"  ⚠ Already published (link): {item['title'][:50]}...")
             continue
         
-        # Проверяем по заголовку (строгий порог - ловим все похожие)
+        # Проверка 2: По заголовку (строгий порог - ловим все похожие)
         is_duplicate = False
         for pub_title in published_titles:
             if titles_are_similar(item['title'], pub_title, PUBLISHED_SIMILARITY_THRESHOLD):
@@ -314,29 +316,32 @@ def load_published():
                 data = json.load(f)
                 print(f"✓ Loaded {len(data)} items from published_news.json")
                 
-                # Очищаем старые (>7 дней)
+                # Очищаем старые (>7 дней) И записи с пустым title
                 week_ago = datetime.now() - timedelta(days=7)
                 cleaned_data = {}
+                removed_empty_titles = 0
+                
                 for k, v in data.items():
                     try:
                         # Новый формат: {link: {timestamp, title}}
                         if isinstance(v, dict):
+                            # Удаляем записи с пустым title (не можем проверить похожесть)
+                            if not v.get('title') or not v.get('title').strip():
+                                removed_empty_titles += 1
+                                continue
+                                
                             published_date = datetime.fromisoformat(v.get('timestamp', '').replace('Z', '+00:00'))
                             if published_date > week_ago:
                                 cleaned_data[k] = v
-                        # Старый формат: {link: timestamp} - конвертируем
+                        # Старый формат: {link: timestamp} - удаляем (нет title)
                         else:
-                            published_date = datetime.fromisoformat(v.replace('Z', '+00:00'))
-                            if published_date > week_ago:
-                                cleaned_data[k] = {'timestamp': v, 'title': ''}
+                            removed_empty_titles += 1
+                            continue
                     except (ValueError, AttributeError) as e:
-                        # Если не можем распарсить, оставляем
-                        if isinstance(v, dict):
-                            cleaned_data[k] = v
-                        else:
-                            cleaned_data[k] = {'timestamp': v, 'title': ''}
+                        # Если не можем распарсить, пропускаем
+                        continue
                 
-                print(f"✓ After cleanup: {len(cleaned_data)} items (removed {len(data) - len(cleaned_data)} old)")
+                print(f"✓ After cleanup: {len(cleaned_data)} items (removed {len(data) - len(cleaned_data)} old, {removed_empty_titles} without titles)")
                 return cleaned_data
         else:
             print("ℹ️ published_news.json not found - starting fresh")
