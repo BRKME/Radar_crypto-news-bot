@@ -312,6 +312,8 @@ def load_published():
         if os.path.exists('published_news.json'):
             with open('published_news.json', 'r', encoding='utf-8') as f:
                 data = json.load(f)
+                print(f"✓ Loaded {len(data)} items from published_news.json")
+                
                 # Очищаем старые (>7 дней)
                 week_ago = datetime.now() - timedelta(days=7)
                 cleaned_data = {}
@@ -327,13 +329,17 @@ def load_published():
                             published_date = datetime.fromisoformat(v.replace('Z', '+00:00'))
                             if published_date > week_ago:
                                 cleaned_data[k] = {'timestamp': v, 'title': ''}
-                    except (ValueError, AttributeError):
+                    except (ValueError, AttributeError) as e:
                         # Если не можем распарсить, оставляем
                         if isinstance(v, dict):
                             cleaned_data[k] = v
                         else:
                             cleaned_data[k] = {'timestamp': v, 'title': ''}
+                
+                print(f"✓ After cleanup: {len(cleaned_data)} items (removed {len(data) - len(cleaned_data)} old)")
                 return cleaned_data
+        else:
+            print("ℹ️ published_news.json not found - starting fresh")
     except (FileNotFoundError, json.JSONDecodeError) as e:
         print(f"⚠ Warning loading published news: {e}")
     
@@ -345,6 +351,7 @@ def save_published(published):
     try:
         with open('published_news.json', 'w', encoding='utf-8') as f:
             json.dump(published, f, indent=2, ensure_ascii=False)
+        print(f"✓ Saved {len(published)} published items to published_news.json")
     except Exception as e:
         print(f"✗ Error saving published news: {e}")
 
