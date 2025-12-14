@@ -98,7 +98,7 @@ EXCLUDE_KEYWORDS = [
 ]
 
 # Минимальный порог для публикации
-MIN_IMPORTANCE_SCORE = 25
+MIN_IMPORTANCE_SCORE = 60  # Только важные новости
 
 # Более высокий порог для stock market источников
 # Только супер критичные broad market события
