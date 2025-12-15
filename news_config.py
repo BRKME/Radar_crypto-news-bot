@@ -120,7 +120,7 @@ BATCH_SIMILARITY_THRESHOLD = 0.5  # 50% общих слов = дубликат
 SOURCE_PRIORITY = {
     'theblock': 1,      # Highest - has summary
     'coindesk': 2,
-    'bloomberg': 3,     # Stock market
+    'yahoo_finance': 3, # Stock market + crypto
     'marketwatch': 4,   # Stock market
     'reuters': 5,       # Stock market
     'decrypt': 6
@@ -151,10 +151,10 @@ RSS_SOURCES = {
         'priority': 2,
         'weight_multiplier': 1.3  # Major US market news
     },
-    'bloomberg': {
-        'url': 'https://www.bloomberg.com/feed/podcast/markets.xml',
+    'yahoo_finance': {
+        'url': 'https://finance.yahoo.com/news/rssindex',
         'priority': 2,
-        'weight_multiplier': 1.3  # Major market moves
+        'weight_multiplier': 1.3  # Stock + Crypto markets
     },
     'reuters': {
         'url': 'https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best',
