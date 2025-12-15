@@ -34,7 +34,7 @@ IMPORTANCE_RULES = {
         'weight': 100,
         'keywords': [
             'sec approves', 'sec denies', 'sec sues',
-            'banned', 'ban', 'regulation passed',
+            'crypto banned', 'crypto ban', 'regulation passed',  # Более специфичные keywords
             'etf approved', 'etf rejected',
             'hard fork', 'network upgrade',
             'exchange hack', 'exploit', '$100m', '$500m', '$1b',
@@ -94,7 +94,9 @@ EXCLUDE_KEYWORDS = [
     'ceo says', 'cfo says', 'earnings beat', 'earnings miss',
     'quarterly results', 'stock buyback', 'dividend increase',
     'merger with', 'acquires', 'acquisition',
-    'ipo', 'going public', 'stock split'
+    'ipo', 'going public', 'stock split',
+    'files for bankruptcy', 'chapter 11', 'bankruptcy protection',
+    'goes private', 'going private', 'maker files'
 ]
 
 # Минимальный порог для публикации
