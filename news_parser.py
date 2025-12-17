@@ -628,7 +628,7 @@ def format_twitter_message(news_item):
     
     # Try to fit: Header + Title + Alpha Take (NO link)
     if alpha_take:
-        alpha_text = f"\n\n💡 {alpha_take}"
+        alpha_text = f"\n\n◼ {alpha_take}"
         available_for_title = 280 - base_length - len(alpha_text)
         
         if available_for_title > 50:  # Enough space for meaningful title
