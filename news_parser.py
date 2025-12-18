@@ -555,7 +555,7 @@ def format_telegram_message(news_item):
         'CRITICAL': '🚨 BREAKING NEWS',
         'HIGH': '🔥 MARKET ALERT',
         'MARKET_MOVE': '📈 PRICE ALERT',
-        'MEDIUM': '📰 CRYPTO UPDATE'
+        'MEDIUM': '📰 MARKET UPDATE'
     }
     
     # Выбираем header
