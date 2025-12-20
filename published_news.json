@@ -1,8 +1,4 @@
 {
-  "https://www.coindesk.com/markets/2025/12/13/bank-of-japan-set-to-hike-rates-to-30-year-high-posing-another-threat-to-bitcoin": {
-    "timestamp": "2025-12-13T14:08:04.285351",
-    "title": "Bank of Japan Set to Hike Rates to 30-Year High, Posing Another Threat to Bitcoin"
-  },
   "https://www.coindesk.com/business/2025/12/13/michael-saylor-s-strategy-hangs-on-to-spot-in-nasdaq-100-index": {
     "timestamp": "2025-12-13T17:36:02.187428",
     "title": "Michael Saylor's Strategy Hangs on to Spot in Nasdaq 100 Index"
@@ -230,5 +226,9 @@
   "https://www.coindesk.com/markets/2025/12/20/blackrock-s-bitcoin-etf-rare-fund-with-massive-2025-inflows-despite-negative-performance": {
     "timestamp": "2025-12-20T14:08:04.176877",
     "title": "BlackRock's Bitcoin ETF a true rarity: massive inflows even with negative performance"
+  },
+  "https://www.coindesk.com/markets/2025/12/20/fidelity-s-jurrien-timmer-expect-lame-2026-as-four-year-bitcoin-cycle-appears-intact": {
+    "timestamp": "2025-12-20T15:08:31.724454",
+    "title": "Fidelity's Jurrien Timmer: Expect lame 2026 as four-year bitcoin cycle appears intact"
   }
 }
