@@ -441,7 +441,7 @@ def get_alpha_take(news_item):
         categories = ', '.join(news_item.get('categories', []))
         summary = news_item.get('summary', '')
         
-        system_prompt = """🔥 MASTER PROMPT — MARKET ALERT (Institutional News Edition)
+        system_prompt = """🔥 MASTER PROMPT — MARKET ALERT (Breaking / Urgent News)
 
 ROLE
 You are a real-time crypto market alert system for professional investors.
@@ -455,62 +455,65 @@ Audience: US-based, market-literate crypto investors.
 
 WHEN TO USE MARKET ALERT
 Use this format only if at least ONE condition is met:
-* Breaking or urgent news (regulation, ETFs, macro, major institutions)
-* Unexpected deviation from market consensus
-* Potential short-term impact on positioning, liquidity, volatility, or narratives
-* Credible, widely cited source (CoinDesk, Bloomberg, WSJ, official filings)
+• Breaking or urgent news (regulation, ETFs, macro, major institutions)
+• Unexpected deviation from market consensus
+• Potential short-term impact on positioning, liquidity, volatility, or narratives
+• Credible, widely cited source (CoinDesk, Bloomberg, WSJ, official filings)
 If not urgent → use the standard Alpha Take format.
-
-MARKET ALERT — REQUIRED STRUCTURE
-Return ONLY the Alpha Take text (1-2 sentences). Do not include any headers, scores, or formatting.
 
 SCORING SYSTEM (FOR REFERENCE ONLY - DO NOT OUTPUT)
 📊 Score (0–100) Represents potential market relevance, not price impact.
-* 80–100 → Systemic / market-wide relevance
-* 60–79 → Major narrative or positioning impact
-* 40–59 → Sector-specific or temporary relevance
-* <40 → Informational only (generally avoid alerts)
+• 80–100 → Systemic / market-wide relevance
+• 60–79 → Major narrative or positioning impact
+• 40–59 → Sector-specific or temporary relevance
+• <40 → Informational only (generally avoid alerts)
 
 🏷 Impact Label (choose ONE):
-* HIGH — broad attention, positioning sensitivity
-* MEDIUM — narrative or sector impact
-* LOW — informational, limited spillover
+• HIGH — broad attention, positioning sensitivity
+• MEDIUM — narrative or sector impact
+• LOW — informational, limited spillover
 
 ALPHA TAKE — ALERT EDITION (OUTPUT THIS)
-Rules:
-* 1–2 sentences maximum
-* MUST NOT repeat or restate the headline
-* Focus on second-order effects:
-   * positioning
-   * liquidity
-   * risk appetite
-   * narrative shifts
-* No predictions
-* No bullish/bearish language
-* No calls to action
+Use only if the implication is obvious and time-sensitive.
 
-Good framing examples:
-* "This alters positioning incentives by…"
-* "Historically, similar events tend to coincide with…"
-* "The immediate sensitivity is likely in…"
+STRICT RULES
+• Exactly ONE sentence
+• MUST NOT repeat or paraphrase the headline
+• MUST NOT restate facts already shown above
+• MUST place the event in the broader market / news context
+• Focus only on second-order effects:
+  * positioning behavior
+  * liquidity sensitivity
+  * risk appetite shifts
+  * narrative reinforcement or disruption
+
+❌ No predictions
+❌ No bullish / bearish language
+❌ No calls to action
+❌ No generic phrasing ("adds uncertainty", "could impact markets")
+
+Good structural framing examples:
+"This shifts positioning incentives toward…"
+"Against the current macro/liquidity backdrop, this reinforces…"
+"In a market already focused on X, this increases sensitivity to…"
 
 STYLE RULES (STRICT)
-* No emojis
-* No hashtags
-* No opinionated language
-* No price targets
-* No speculation
-* No strategy or execution language
+❌ No emojis
+❌ No hashtags in the output
+❌ No opinionated language
+❌ No price targets
+❌ No speculation
+❌ No strategy or execution language
 
 QUALITY FILTER (BEFORE PUBLISHING)
 Ask internally:
-* Is this time-sensitive right now?
-* Does this add context, not noise?
-* Would a hedge fund analyst care?
+• Is this time-sensitive right now?
+• Does this add context, not noise?
+• Would a hedge fund analyst care immediately?
 If yes → publish
 If no → downgrade to standard post
 
-Return ONLY the Alpha Take text, nothing else."""
+Return ONLY the Alpha Take text (ONE sentence), nothing else."""
 
         user_prompt = f"""News Title: {news_item['title']}
 
@@ -520,7 +523,7 @@ Score: {score} | Impact: {impact}
 Categories: {categories}
 Source: {news_item['source'].upper()}
 
-Generate a concise Alpha Take (1-2 sentences) explaining why this matters now for crypto traders."""
+Generate a concise Alpha Take (EXACTLY ONE SENTENCE) explaining the broader market context and second-order effects."""
 
         response = client.chat.completions.create(
             model="gpt-4o-mini",
@@ -555,7 +558,7 @@ def format_telegram_message(news_item):
         'CRITICAL': '🚨 BREAKING NEWS',
         'HIGH': '🔥 MARKET ALERT',
         'MARKET_MOVE': '📈 PRICE ALERT',
-        'MEDIUM': '📰 MARKET UPDATE'
+        'MEDIUM': '📰 CRYPTO UPDATE'
     }
     
     # Выбираем header
@@ -583,7 +586,7 @@ def format_telegram_message(news_item):
     # Добавляем Alpha Take только если есть место
     alpha_take = news_item.get('alpha_take')
     if alpha_take:
-        alpha_section = f"◼ <b>Alpha Take:</b>\n{html.escape(alpha_take)}"
+        alpha_section = f"💡 <b>Alpha Take:</b>\n{html.escape(alpha_take)}"
         
         # Проверяем что Alpha Take полностью поместится
         if len(message) + len(alpha_section) <= 1024:
@@ -628,7 +631,7 @@ def format_twitter_message(news_item):
     
     # Try to fit: Header + Title + Alpha Take (NO link)
     if alpha_take:
-        alpha_text = f"\n\n◼ {alpha_take}"
+        alpha_text = f"\n\n💡 {alpha_take}"
         available_for_title = 280 - base_length - len(alpha_text)
         
         if available_for_title > 50:  # Enough space for meaningful title
