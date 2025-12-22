@@ -1,12 +1,4 @@
 {
-  "https://www.coindesk.com/markets/2025/12/15/michael-saylor-s-strategy-made-second-consecutive-usd1b-bitcoin-purchase-last-week": {
-    "timestamp": "2025-12-15T13:54:32.067843",
-    "title": "Michael Saylor's Strategy Made Second Consecutive $1B Bitcoin Purchase Last Week"
-  },
-  "https://decrypt.co/352342/strategy-adds-nearly-billion-dollars-bitcoin-second-straight-week": {
-    "timestamp": "2025-12-15T14:49:40.125159",
-    "title": "Strategy Adds Nearly a Billion Dollars in Bitcoin for Second Straight Week"
-  },
   "https://www.coindesk.com/markets/2025/12/15/bitcoin-plunges-below-usd87k-as-crypto-weakness-persists-ether-below-usd3k": {
     "timestamp": "2025-12-15T16:15:12.199691",
     "title": "Bitcoin Plunges Below $87K as Crypto Weakness Worsens"
@@ -210,5 +202,9 @@
   "https://decrypt.co/353274/regulatory-delays-trigger-952m-exodus-from-us-crypto-funds": {
     "timestamp": "2025-12-22T13:06:44.614069",
     "title": "Regulatory Delays Trigger $952M Exodus From US Crypto Funds"
+  },
+  "https://www.coindesk.com/markets/2025/12/22/blackrock-names-bitcoin-etf-a-top-2025-theme-despite-price-slump": {
+    "timestamp": "2025-12-22T16:11:55.780202",
+    "title": "BlackRock names bitcoin ETF a top 2025 theme despite price slump"
   }
 }
