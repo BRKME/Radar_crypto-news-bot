@@ -1,28 +1,4 @@
 {
-  "https://www.coindesk.com/business/2025/12/13/michael-saylor-s-strategy-hangs-on-to-spot-in-nasdaq-100-index": {
-    "timestamp": "2025-12-13T17:36:02.187428",
-    "title": "Michael Saylor's Strategy Hangs on to Spot in Nasdaq 100 Index"
-  },
-  "https://www.coindesk.com/web3/2025/12/13/yo-labs-raises-usd10m-to-scale-cross-chain-crypto-yield-optimization-protocol": {
-    "timestamp": "2025-12-14T15:08:18.039248",
-    "title": "YO Labs Raises $10M to Scale Cross-Chain Crypto Yield Optimization Protocol"
-  },
-  "https://www.theblock.co/post/382459/brazils-largest-bank-recommends-a-3-bitcoin-portfolio-allocation-real-diversification?utm_source=rss&utm_medium=rss": {
-    "timestamp": "2025-12-14T22:08:11.668953",
-    "title": "Brazil’s largest bank recommends a 3% Bitcoin portfolio allocation: ‘real diversification’"
-  },
-  "https://www.theblock.co/post/382461/aevos-legacy-ribbon-dov-vaults-exploited-for-2-7-million-following-oracle-upgrade?utm_source=rss&utm_medium=rss": {
-    "timestamp": "2025-12-15T00:48:01.826547",
-    "title": "Aevo’s legacy Ribbon DOV vaults exploited for $2.7 million following oracle upgrade"
-  },
-  "https://www.marketwatch.com/story/roomba-maker-irobot-files-for-bankruptcy-will-go-private-aa2277df?mod=mw_rss_topstories": {
-    "timestamp": "2025-12-15T02:51:30.294475",
-    "title": "Roomba maker iRobot files for bankruptcy, will go private"
-  },
-  "https://www.coindesk.com/markets/2025/12/15/doha-bank-issues-usd150m-digital-bond-using-euroclear-s-dlt-platform": {
-    "timestamp": "2025-12-15T07:15:18.410191",
-    "title": "Doha Bank Issues $150M Digital Bond Using Euroclear’s DLT Platform"
-  },
   "https://www.coindesk.com/markets/2025/12/15/michael-saylor-s-strategy-made-second-consecutive-usd1b-bitcoin-purchase-last-week": {
     "timestamp": "2025-12-15T13:54:32.067843",
     "title": "Michael Saylor's Strategy Made Second Consecutive $1B Bitcoin Purchase Last Week"
@@ -230,5 +206,9 @@
   "https://www.coindesk.com/markets/2025/12/20/fidelity-s-jurrien-timmer-expect-lame-2026-as-four-year-bitcoin-cycle-appears-intact": {
     "timestamp": "2025-12-20T15:08:31.724454",
     "title": "Fidelity's Jurrien Timmer: Expect lame 2026 as four-year bitcoin cycle appears intact"
+  },
+  "https://decrypt.co/353274/regulatory-delays-trigger-952m-exodus-from-us-crypto-funds": {
+    "timestamp": "2025-12-22T13:06:44.614069",
+    "title": "Regulatory Delays Trigger $952M Exodus From US Crypto Funds"
   }
 }
