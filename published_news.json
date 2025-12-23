@@ -1,36 +1,4 @@
 {
-  "https://www.coindesk.com/markets/2025/12/15/bitcoin-plunges-below-usd87k-as-crypto-weakness-persists-ether-below-usd3k": {
-    "timestamp": "2025-12-15T16:15:12.199691",
-    "title": "Bitcoin Plunges Below $87K as Crypto Weakness Worsens"
-  },
-  "https://www.coindesk.com/business/2025/12/15/anchorage-digital-buys-securitize-s-ria-platform-to-expand-wealth-management-business": {
-    "timestamp": "2025-12-15T16:53:49.344032",
-    "title": "Anchorage Digital Buys Securitize’s RIA Platform to Expand Wealth Management Business"
-  },
-  "https://decrypt.co/videos/interviews/VURuwyDF/bitcoin-is-digital-labubu-crypto-plummets-sec-occ-usher-in-crypto-era": {
-    "timestamp": "2025-12-15T16:53:49.344042",
-    "title": "Bitcoin is \"Digital Labubu”! Crypto Plummets! SEC & OCC usher in Crypto Era!"
-  },
-  "https://www.coindesk.com/business/2025/12/15/blackrock-expands-crypto-bet-with-7-senior-hires-across-u-s-and-asia": {
-    "timestamp": "2025-12-15T18:15:21.314175",
-    "title": "BlackRock expands crypto bet with 7 senior hires across U.S. and Asia"
-  },
-  "https://www.coindesk.com/policy/2025/12/15/u-s-sec-chief-warns-watchdogs-need-to-be-limited-in-tapping-crypto-s-power-to-snoop": {
-    "timestamp": "2025-12-15T19:37:13.215338",
-    "title": "U.S. SEC chief warns watchdogs need to be limited in tapping crypto's power to snoop"
-  },
-  "https://www.theblock.co/post/382624/sec-chair-atkins-says-crypto-could-become-powerful-financial-surveillance-tool-sees-path-forward-without-giving-up-privacy?utm_source=rss&utm_medium=rss": {
-    "timestamp": "2025-12-15T21:39:17.995505",
-    "title": "SEC Chair Atkins says crypto could become ‘powerful financial surveillance’ tool, sees path forward without giving up privacy"
-  },
-  "https://decrypt.co/352459/quantum-computing-bitcoin-crypto-prices-2026-grayscale": {
-    "timestamp": "2025-12-16T00:45:39.217916",
-    "title": "Quantum Computing Unlikely to Impact Bitcoin, Crypto Prices in 2026: Grayscale"
-  },
-  "https://www.coindesk.com/markets/2025/12/16/why-bitcoin-etfs-look-like-they-re-falling-short-even-as-their-role-grows-asia-morning-briefing": {
-    "timestamp": "2025-12-16T02:46:06.794230",
-    "title": "Why bitcoin ETFs look like they’re falling short, even as their role grows: Asia Morning Briefing"
-  },
   "https://www.theblock.co/post/382690/bitwise-cio-bitcoin-break-4-year-cycle-new-all-time-highs-2026?utm_source=rss&utm_medium=rss": {
     "timestamp": "2025-12-16T11:01:53.440822",
     "title": "Bitwise CIO says bitcoin will break 4-year cycle and set new all-time highs in 2026"
@@ -206,5 +174,9 @@
   "https://www.coindesk.com/markets/2025/12/22/blackrock-names-bitcoin-etf-a-top-2025-theme-despite-price-slump": {
     "timestamp": "2025-12-22T16:11:55.780202",
     "title": "BlackRock names bitcoin ETF a top 2025 theme despite price slump"
+  },
+  "https://finance.yahoo.com/news/vanke-may-adopt-familiar-playbook-090026626.html": {
+    "timestamp": "2025-12-23T09:43:27.811228",
+    "title": "Vanke may adopt a familiar playbook in China to tackle debt crisis, say analysts"
   }
 }
