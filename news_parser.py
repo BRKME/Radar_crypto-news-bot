@@ -1,4 +1,4 @@
-# news_parser.py - COMPLETE FILE FOR v1.5.7
+# news_parser.py - COMPLETE FILE v1.5.7 (FIXED)
 
 """
 Крипто новостной бот с AI анализом
@@ -133,6 +133,9 @@ def cleanup_old_news(published, days=7):
     
     cleaned = []
     for item in published:
+        if isinstance(item, str):
+            continue
+        
         if not item.get('title'):
             continue
         
@@ -145,7 +148,7 @@ def cleanup_old_news(published, days=7):
     
     removed = len(published) - len(cleaned)
     if removed > 0:
-        print(f"✓ After cleanup: {len(cleaned)} items (removed {removed} old, {len([x for x in published if not x.get('title')])} without titles)")
+        print(f"✓ After cleanup: {len(cleaned)} items (removed {removed} old, {len([x for x in published if not isinstance(x, dict) or not x.get('title')])} without titles)")
     else:
         print(f"✓ After cleanup: {len(cleaned)} items (removed 0 old, 0 without titles)")
     
