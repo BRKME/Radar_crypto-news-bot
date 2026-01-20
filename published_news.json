@@ -1,20 +1,5 @@
 [
   {
-    "title": "Morning Minute: Fidelity Calls Bitcoin 'Maturing,' Lays Out 2026 Bull and Bear Case",
-    "link": "https://decrypt.co/354390/morning-minute-fidelity-calls-bitcoin-maturing-lays-out-2026-bull-and-bear-case",
-    "published_date": "2026-01-13T14:14:21.574321"
-  },
-  {
-    "title": "Wintermute OTC data shows crypto liquidity clustered in BTC and ETH as broader altcoin rallies faded in 2025",
-    "link": "https://www.theblock.co/post/385332/wintermute-otc-data-crypto-liquidity-in-btc-eth-alts-fade?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-01-13T14:14:22.310736"
-  },
-  {
-    "title": "Bitcoin rose above $92,000 as BlackRock ETF moved $300 million to Coinbase Prime",
-    "link": "https://www.coindesk.com/markets/2026/01/13/bitcoin-rose-above-usd92-000-as-blackrock-etf-moved-usd300-million-to-coinbase-prime",
-    "published_date": "2026-01-13T14:49:16.207700"
-  },
-  {
     "title": "Bitcoin rallies past $93,000 after inflation data increased chances of further rate cuts",
     "link": "https://www.coindesk.com/markets/2026/01/13/bitcoin-rises-2-to-usd93-500-after-inflation-data-increased-chances-of-further-rate-cuts",
     "published_date": "2026-01-13T19:12:13.298069"
@@ -248,5 +233,10 @@
     "title": "Michael Saylor's Strategy purchases another $2.13 billion in bitcoin",
     "link": "https://www.coindesk.com/markets/2026/01/20/michael-saylor-s-strategy-purchases-another-usd2-13-billion-in-bitcoin",
     "published_date": "2026-01-20T13:59:24.550734"
+  },
+  {
+    "title": "Makina loses $4.1 million in exploit tied to price-feed manipulation",
+    "link": "https://www.coindesk.com/markets/2026/01/20/makina-loses-usd4-1-million-in-exploit-tied-to-price-feed-manipulation",
+    "published_date": "2026-01-20T14:56:41.631460"
   }
 ]
