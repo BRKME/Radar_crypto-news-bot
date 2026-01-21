@@ -1,25 +1,5 @@
 [
   {
-    "title": "Bitcoin surges above $95,000 as ether, solana, cardano jump 8% on investor optimism",
-    "link": "https://www.coindesk.com/markets/2026/01/14/bitcoin-surges-above-usd95-000-eth-sol-ada-up-8-as-risk-appetite-snaps-back",
-    "published_date": "2026-01-14T05:19:25.177877"
-  },
-  {
-    "title": "U.S. spot bitcoin ETFs pull in $750 million in strongest day since October",
-    "link": "https://www.coindesk.com/markets/2026/01/14/u-s-spot-bitcoin-etfs-pull-in-usd750-million-in-strongest-day-since-october",
-    "published_date": "2026-01-14T07:43:03.813967"
-  },
-  {
-    "title": "Bitcoin ETFs post largest single-day inflows in three months, worth $750 million",
-    "link": "https://www.theblock.co/post/385508/bitcoin-etf-750-million-inflows?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-01-14T07:43:04.342136"
-  },
-  {
-    "title": "Ripple secures preliminary EMI license approval in Luxembourg as EU payments push advances",
-    "link": "https://www.theblock.co/post/385375/ripple-secures-preliminary-emi-license-approval-in-luxembourg?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-01-14T09:17:52.133788"
-  },
-  {
     "title": "Greece’s Epirus Bank taps NCR Atleos for ATM network upgrade",
     "link": "https://finance.yahoo.com/news/greece-epirus-bank-taps-ncr-110652136.html",
     "published_date": "2026-01-14T11:40:00.656251"
@@ -268,5 +248,10 @@
     "title": "$100M Underground Crypto Scheme Dismantled in South Korea",
     "link": "https://finance.yahoo.com/news/100m-underground-crypto-scheme-dismantled-163848804.html",
     "published_date": "2026-01-21T04:45:10.815952"
+  },
+  {
+    "title": "Grayscale files with SEC to convert NEAR Trust into spot ETF",
+    "link": "https://www.theblock.co/post/386476/grayscale-files-sec-convert-near-trust-into-spot-etf?utm_source=rss&utm_medium=rss",
+    "published_date": "2026-01-21T10:14:52.436513"
   }
 ]
