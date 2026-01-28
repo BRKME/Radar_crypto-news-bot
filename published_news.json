@@ -1,10 +1,5 @@
 [
   {
-    "title": "$100M Underground Crypto Scheme Dismantled in South Korea",
-    "link": "https://finance.yahoo.com/news/100m-underground-crypto-scheme-dismantled-163848804.html",
-    "published_date": "2026-01-21T04:45:10.815952"
-  },
-  {
     "title": "Grayscale files with SEC to convert NEAR Trust into spot ETF",
     "link": "https://www.theblock.co/post/386476/grayscale-files-sec-convert-near-trust-into-spot-etf?utm_source=rss&utm_medium=rss",
     "published_date": "2026-01-21T10:14:52.436513"
@@ -323,5 +318,10 @@
     "title": "Bitcoin ETFs Turn Positive After Five-Day $1.7B Losing Streak",
     "link": "https://decrypt.co/356068/bitcoin-etfs-turn-positive-after-five-day-1-7b-losing-streak",
     "published_date": "2026-01-27T19:00:36.728891"
+  },
+  {
+    "title": "Daily ETF Flows: ARKK Inflows Top $1B",
+    "link": "https://finance.yahoo.com/news/daily-etf-flows-arkk-inflows-230006482.html",
+    "published_date": "2026-01-28T09:22:25.468432"
   }
 ]
