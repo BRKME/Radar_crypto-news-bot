@@ -1,15 +1,5 @@
 [
   {
-    "title": "‘If You Suffer, We Will Suffer’: The Open Secret Behind Warren Buffett’s 62-Year, 6,088,800% Berkshire Hathaway Success Story",
-    "link": "https://finance.yahoo.com/news/suffer-suffer-open-secret-behind-200149511.html",
-    "published_date": "2026-01-30T07:31:47.874202"
-  },
-  {
-    "title": "Vitalik Buterin commits roughly $45 million in ETH to open-source security and privacy projects",
-    "link": "https://www.theblock.co/post/387804/vitalik-buterin-commits-roughly-45-million-in-eth-to-open-source-security-and-privacy-projects?utm_source=rss&utm_medium=rss",
-    "published_date": "2026-01-30T10:29:59.949528"
-  },
-  {
     "title": "Bitcoin slides below $83K as Wall Street pulls over $1B from crypto ETFs after Fed pause",
     "link": "https://www.theblock.co/post/387811/bitcoin-slides-below-83k-as-wall-street-pulls-over-1b-from-crypto-etfs-after-fed-pause?utm_source=rss&utm_medium=rss",
     "published_date": "2026-01-30T11:46:45.748150"
@@ -353,5 +343,10 @@
     "title": "BlackRock's bitcoin fund hits $10 billion volume record, hinting at peak selling",
     "link": "https://www.coindesk.com/markets/2026/02/06/blackrock-s-bitcoin-etf-hits-usd10-billion-volume-record-hinting-at-capitulation",
     "published_date": "2026-02-06T05:53:55.252997"
+  },
+  {
+    "title": "Strategy to initiate a bitcoin security program addressing quantum uncertainty",
+    "link": "https://www.coindesk.com/markets/2026/02/06/strategy-to-initiate-a-bitcoin-security-program-addressing-quantum-uncertainty",
+    "published_date": "2026-02-06T11:04:55.517161"
   }
 ]
