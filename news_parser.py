@@ -488,19 +488,53 @@ def format_twitter_message(news_item):
     
     title = news_item['title']
     
+    # Получаем хэштеги
+    hashtags_str = ""
     alpha_take_data = news_item.get('alpha_take_data')
+    if alpha_take_data:
+        raw_hashtags = alpha_take_data.get('hashtags', '')
+        if raw_hashtags:
+            tags = re.findall(r'#\w+', raw_hashtags)
+            # Берем максимум 2 коротких хэштега
+            filtered_tags = [tag for tag in tags if len(tag) <= 12][:2]
+            if filtered_tags:
+                hashtags_str = ' '.join(filtered_tags)
+    
     alpha_text = ''
     if alpha_take_data and alpha_take_data.get('alpha_take'):
         alpha = alpha_take_data['alpha_take']
-        if len(alpha) <= 100:
+        if len(alpha) <= 80:
             alpha_text = f"\n\n💡 {alpha}"
     
-    tweet = f"{header} {title}{alpha_text}"
+    # Subscribe ссылка
+    subscribe = "\n\n⭐ t.me/frogfriends"
     
+    # Собираем tweet
+    if hashtags_str:
+        tweet = f"{hashtags_str}\n\n{header} {title}{alpha_text}{subscribe}"
+    else:
+        tweet = f"{header} {title}{alpha_text}{subscribe}"
+    
+    # Обрезаем если слишком длинный
     if len(tweet) > 280:
-        available = 280 - len(header) - len(alpha_text) - 5
-        title = title[:available] + '...'
-        tweet = f"{header} {title}{alpha_text}"
+        # Считаем фиксированные части
+        fixed_len = len(header) + len(alpha_text) + len(subscribe) + len(hashtags_str) + 10
+        available = 280 - fixed_len
+        if available > 50:
+            title = title[:available] + '...'
+            if hashtags_str:
+                tweet = f"{hashtags_str}\n\n{header} {title}{alpha_text}{subscribe}"
+            else:
+                tweet = f"{header} {title}{alpha_text}{subscribe}"
+        else:
+            # Убираем alpha_text если не помещается
+            alpha_text = ''
+            available = 280 - len(header) - len(subscribe) - len(hashtags_str) - 10
+            title = title[:available] + '...'
+            if hashtags_str:
+                tweet = f"{hashtags_str}\n\n{header} {title}{subscribe}"
+            else:
+                tweet = f"{header} {title}{subscribe}"
     
     return tweet
 
@@ -518,6 +552,16 @@ def publish_to_telegram(news_item):
         if image and isinstance(image, str) and image.strip():
             processed_image = process_image_for_telegram(image, news_item['source'])
         
+        # Inline keyboard с кнопкой Subscribe
+        reply_markup = {
+            "inline_keyboard": [[
+                {
+                    "text": "⭐ Subscribe",
+                    "url": "https://t.me/frogfriends"
+                }
+            ]]
+        }
+        
         url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto"
         
         is_file = isinstance(processed_image, io.BytesIO)
@@ -528,7 +572,8 @@ def publish_to_telegram(news_item):
                 data = {
                     'chat_id': TELEGRAM_CHANNEL_ID,
                     'caption': message,
-                    'parse_mode': 'HTML'
+                    'parse_mode': 'HTML',
+                    'reply_markup': json.dumps(reply_markup)
                 }
                 response = requests.post(url, data=data, files=files)
             else:
@@ -536,7 +581,8 @@ def publish_to_telegram(news_item):
                     'chat_id': TELEGRAM_CHANNEL_ID,
                     'photo': processed_image,
                     'caption': message,
-                    'parse_mode': 'HTML'
+                    'parse_mode': 'HTML',
+                    'reply_markup': reply_markup
                 }
                 response = requests.post(url, json=payload)
         else:
@@ -545,7 +591,8 @@ def publish_to_telegram(news_item):
                 'chat_id': TELEGRAM_CHANNEL_ID,
                 'text': message,
                 'parse_mode': 'HTML',
-                'disable_web_page_preview': False
+                'disable_web_page_preview': False,
+                'reply_markup': reply_markup
             }
             response = requests.post(url, json=payload)
         

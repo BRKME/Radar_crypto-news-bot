@@ -102,21 +102,24 @@ EXCLUDE_KEYWORDS = [
 # Паттерны неполных/кликбейт заголовков (регулярки)
 # Заголовки, заканчивающиеся на вопрос или двоеточие без смысла
 CLICKBAIT_PATTERNS = [
-    r'\?$',                          # Заканчивается на вопрос
+    r'\?',                           # ЛЮБОЙ знак вопроса в заголовке
     r':\s*$',                        # Заканчивается на двоеточие
-    r'[Ww]hy\s.*\?',                 # "Why X?" questions
-    r'[Ww]hat\s.*\?',                # "What X?" questions  
-    r'[Hh]ow\s.*\?',                 # "How X?" questions
-    r'[Ii]s\s.*\?',                  # "Is X?" questions
-    r'[Cc]an\s.*\?',                 # "Can X?" questions
-    r'[Ww]ill\s.*\?',                # "Will X?" questions
-    r'[Ss]hould\s.*\?',              # "Should X?" questions
     r'[Hh]ere\'?s [Ww]hy',           # "Here's Why" clickbait
     r'[Hh]ere\'?s [Ww]hat',          # "Here's What" clickbait
     r'[Yy]ou [Ww]on\'?t [Bb]elieve', # Clickbait
     r'[Tt]his [Ii]s [Ww]hy',         # "This is why" 
     r'[Ff]ind [Oo]ut',               # "Find out"
     r'\.\.\.$',                      # Заканчивается на ...
+    r'^[Ww]hy\s',                    # Начинается с "Why "
+    r'^[Ww]hat\s',                   # Начинается с "What "
+    r'^[Hh]ow\s',                    # Начинается с "How "
+    r'^[Ii]s\s',                     # Начинается с "Is "
+    r'^[Cc]an\s',                    # Начинается с "Can "
+    r'^[Ww]ill\s',                   # Начинается с "Will "
+    r'^[Ss]hould\s',                 # Начинается с "Should "
+    r'^[Dd]o\s',                     # Начинается с "Do "
+    r'^[Dd]oes\s',                   # Начинается с "Does "
+    r'^[Aa]re\s',                    # Начинается с "Are "
 ]
 
 # Разрешенные хэштеги (короткие, понятные)
@@ -180,11 +183,12 @@ RSS_SOURCES = {
         'priority': 2,
         'weight_multiplier': 1.3  # Major US market news
     },
-    'yahoo_finance': {
-        'url': 'https://finance.yahoo.com/news/rssindex',
-        'priority': 2,
-        'weight_multiplier': 1.3  # Stock + Crypto markets
-    },
+    # Yahoo Finance отключен - много clickbait/вопросов
+    # 'yahoo_finance': {
+    #     'url': 'https://finance.yahoo.com/news/rssindex',
+    #     'priority': 2,
+    #     'weight_multiplier': 1.3  # Stock + Crypto markets
+    # },
     'reuters': {
         'url': 'https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best',
         'priority': 2,
