@@ -503,38 +503,22 @@ def format_twitter_message(news_item):
     alpha_text = ''
     if alpha_take_data and alpha_take_data.get('alpha_take'):
         alpha = alpha_take_data['alpha_take']
-        if len(alpha) <= 80:
+        if len(alpha) <= 100:
             alpha_text = f"\n\n💡 {alpha}"
-    
-    # Subscribe ссылка
-    subscribe = "\n\n⭐ t.me/frogfriends"
     
     # Собираем tweet
     if hashtags_str:
-        tweet = f"{hashtags_str}\n\n{header} {title}{alpha_text}{subscribe}"
+        tweet = f"{hashtags_str}\n\n{header} {title}{alpha_text}"
     else:
-        tweet = f"{header} {title}{alpha_text}{subscribe}"
+        tweet = f"{header} {title}{alpha_text}"
     
-    # Обрезаем если слишком длинный
     if len(tweet) > 280:
-        # Считаем фиксированные части
-        fixed_len = len(header) + len(alpha_text) + len(subscribe) + len(hashtags_str) + 10
-        available = 280 - fixed_len
-        if available > 50:
-            title = title[:available] + '...'
-            if hashtags_str:
-                tweet = f"{hashtags_str}\n\n{header} {title}{alpha_text}{subscribe}"
-            else:
-                tweet = f"{header} {title}{alpha_text}{subscribe}"
+        available = 280 - len(header) - len(alpha_text) - len(hashtags_str) - 10
+        title = title[:available] + '...'
+        if hashtags_str:
+            tweet = f"{hashtags_str}\n\n{header} {title}{alpha_text}"
         else:
-            # Убираем alpha_text если не помещается
-            alpha_text = ''
-            available = 280 - len(header) - len(subscribe) - len(hashtags_str) - 10
-            title = title[:available] + '...'
-            if hashtags_str:
-                tweet = f"{hashtags_str}\n\n{header} {title}{subscribe}"
-            else:
-                tweet = f"{header} {title}{subscribe}"
+            tweet = f"{header} {title}{alpha_text}"
     
     return tweet
 
