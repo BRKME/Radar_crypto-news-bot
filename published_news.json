@@ -1,10 +1,5 @@
 [
   {
-    "title": "Cardano Open Interest Stalls Below $500M As Derivatives Traders Retreat",
-    "link": "https://finance.yahoo.com/news/cardano-open-interest-stalls-below-230410457.html",
-    "published_date": "2026-02-20T11:01:03.895831"
-  },
-  {
     "title": "Bitcoin ETFs Lose Another $166M as Five-Week Withdrawals Near $4B",
     "link": "https://decrypt.co/358713/bitcoin-etfs-lose-another-166m-as-five-week-withdrawals-near-4b",
     "published_date": "2026-02-20T11:50:13.538911"
@@ -233,5 +228,10 @@
     "title": "Bitcoin ETF holders and treasury firms stack protection against price crash below $60,000, Deribit says",
     "link": "https://www.coindesk.com/markets/2026/02/27/bitcoin-etf-holders-and-treasury-firms-stack-protection-against-price-crash-below-usd60-000-deribit-says",
     "published_date": "2026-02-27T07:37:38.741757"
+  },
+  {
+    "title": "U.S. spot bitcoin ETFs set for biggest week in 6 after adding $1.1 billion in three days",
+    "link": "https://www.coindesk.com/markets/2026/02/27/u-s-spot-bitcoin-etfs-set-for-biggest-week-in-6-after-adding-usd1-1-billion-in-three-days",
+    "published_date": "2026-02-27T11:01:49.760628"
   }
 ]
