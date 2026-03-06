@@ -464,7 +464,7 @@ def format_telegram_message(news_item):
         context = alpha_take_data.get('context')
         
         if alpha_take:
-            message += f"◼️ <b>Alpha Take:</b>\n{html.escape(alpha_take)}\n\n"
+            message += f"📡 <b>Alpha Take:</b>\n{html.escape(alpha_take)}\n\n"
         
         if context:
             # Нормализуем context

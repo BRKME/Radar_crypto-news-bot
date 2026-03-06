@@ -81,6 +81,8 @@ EXCLUDE_KEYWORDS = [
     'price prediction', 'forecast',
     'meme coin', 'shitcoin', 'dog coin',
     'airdrop', 'giveaway', 'sponsored',
+    # Clickbait word filter (06.03.26)
+    'why',
     # Personal finance / lifestyle stories
     'my friend', 'retired with', 'secret to',
     'personal story', 'what i learned',
