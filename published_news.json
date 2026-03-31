@@ -1,15 +1,5 @@
 [
   {
-    "title": "New York Stock Exchange taps Securitize to build its tokenized stock platform",
-    "link": "https://www.coindesk.com/business/2026/03/24/new-york-stock-exchange-taps-securitize-to-build-its-tokenized-stock-platform",
-    "published_date": "2026-03-24T12:38:41.262609"
-  },
-  {
-    "title": "Coinbase says the 'second wave' of institutional money for crypto is here and it is all about yield",
-    "link": "https://www.coindesk.com/markets/2026/03/24/coinbase-says-the-second-wave-of-institutional-money-for-crypto-is-here-and-it-is-all-about-yield",
-    "published_date": "2026-03-24T14:09:41.526176"
-  },
-  {
     "title": "BlackRock sees AI driving crypto’s next bull phase as altcoin interest fades",
     "link": "https://www.coindesk.com/business/2026/03/24/blackrock-flags-ai-as-crypto-s-next-big-use-case-not-token-boom",
     "published_date": "2026-03-24T20:28:31.082462"
@@ -113,5 +103,10 @@
     "title": "Hashdex’s diversified crypto ETF adds options for hedging, income generation",
     "link": "https://www.coindesk.com/markets/2026/03/31/hashdex-s-diversified-crypto-etf-adds-options-for-hedging-income-generation",
     "published_date": "2026-03-31T09:51:58.135465"
+  },
+  {
+    "title": "US Users Barred From KuCoin After $500K CFTC Settlement",
+    "link": "https://decrypt.co/362873/us-users-barred-from-kucoin-after-500k-cftc-settlement",
+    "published_date": "2026-03-31T14:20:17.618813"
   }
 ]
