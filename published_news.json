@@ -1,15 +1,5 @@
 [
   {
-    "title": "BlackRock is betting billions that tokenized funds will do for Wall Street what the internet did to mail",
-    "link": "https://www.coindesk.com/business/2026/03/23/blackrock-is-betting-billions-that-tokenized-funds-will-do-for-wall-street-what-the-internet-did-to-mail",
-    "published_date": "2026-03-23T16:41:50.419595"
-  },
-  {
-    "title": "Balancer Labs Winds Down Months After $128M DeFi Exploit",
-    "link": "https://decrypt.co/362141/balancer-labs-winds-down-128m-defi-exploit",
-    "published_date": "2026-03-24T05:10:27.438527"
-  },
-  {
     "title": "Balancer Labs will shut down as corporate entity became 'a liability' after $110 million exploit",
     "link": "https://www.coindesk.com/tech/2026/03/24/balancer-labs-will-shut-down-as-corporate-entity-became-a-liability-after-usd110-million-exploit",
     "published_date": "2026-03-24T06:35:34.984288"
@@ -113,5 +103,15 @@
     "title": "Zcash upside hinges on repricing financial privacy in an AI-driven world, Grayscale says",
     "link": "https://www.coindesk.com/tech/2026/03/30/zcash-upside-hinges-on-repricing-financial-privacy-in-an-ai-driven-world-grayscale-says",
     "published_date": "2026-03-30T15:47:22.927264"
+  },
+  {
+    "title": "US Charges Hacker Behind $53 Million Uranium Finance Exploit",
+    "link": "https://decrypt.co/362836/us-charges-hacker-53-million-uranium-finance-exploit",
+    "published_date": "2026-03-31T05:57:38.317134"
+  },
+  {
+    "title": "KuCoin operator barred from U.S. after CFTC order, following $297 Million DOJ case",
+    "link": "https://www.coindesk.com/policy/2026/03/31/kucoin-permanently-barred-from-u-s-after-cftc-order-following-usd297-million-doj-case",
+    "published_date": "2026-03-31T05:57:39.541316"
   }
 ]
