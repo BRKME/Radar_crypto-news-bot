@@ -1,10 +1,5 @@
 [
   {
-    "title": "U.S. lawmakers dig into tokenizing securities as Trump ties muddy waters",
-    "link": "https://www.coindesk.com/policy/2026/03/25/u-s-lawmakers-dig-into-tokenizing-securities-as-trump-ties-muddy-waters",
-    "published_date": "2026-03-25T18:39:15.450101"
-  },
-  {
     "title": "Bitcoin DAT trade is concentrating in Michael Saylor’s Strategy as treasury demand fades elsewhere",
     "link": "https://www.coindesk.com/markets/2026/03/26/michael-saylor-s-strategy-dominates-dat-bitcoin-buying-as-treasury-demand-collapses",
     "published_date": "2026-03-26T09:48:52.025797"
@@ -113,5 +108,10 @@
     "title": "Bitcoin’s crashes are shrinking, and Wall Street is starting to notice",
     "link": "https://www.coindesk.com/markets/2026/04/01/bitcoin-s-crashes-are-shrinking-and-wall-street-is-starting-to-notice",
     "published_date": "2026-04-01T14:22:46.213072"
+  },
+  {
+    "title": "Solana DeFi Exchange Drift Protocol Exploited, Upwards of $285 Million Stolen",
+    "link": "https://decrypt.co/363087/solana-drift-protocol-exploited-285-million",
+    "published_date": "2026-04-01T20:31:34.733458"
   }
 ]
