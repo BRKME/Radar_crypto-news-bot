@@ -1,10 +1,5 @@
 [
   {
-    "title": "Brazil Passes Law to Use Seized Bitcoin, Crypto to Fund Public Security Measures",
-    "link": "https://decrypt.co/362453/brazil-passes-law-seized-bitcoin-crypto-fund-public-security",
-    "published_date": "2026-03-26T16:50:09.476142"
-  },
-  {
     "title": "Top Democrat on House committee questions Kraken's Federal Reserve account",
     "link": "https://www.coindesk.com/policy/2026/03/26/top-democrat-on-house-committee-questions-kraken-s-federal-reserve-account",
     "published_date": "2026-03-26T22:52:56.482329"
@@ -128,5 +123,10 @@
     "title": "CFTC sues Illinois over state's cease-and-desist letters against prediction markets",
     "link": "https://www.coindesk.com/policy/2026/04/02/cftc-sues-illinois-over-state-s-cease-and-desist-letters-against-prediction-markets",
     "published_date": "2026-04-02T16:42:00.206630"
+  },
+  {
+    "title": "Drift Protocol's $285 Million Exploit on Solana Raises Questions Over DeFi Security",
+    "link": "https://decrypt.co/363176/drift-protocol-285-million-exploit-solana-defi-security",
+    "published_date": "2026-04-02T19:39:32.915945"
   }
 ]
