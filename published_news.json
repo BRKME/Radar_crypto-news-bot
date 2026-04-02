@@ -1,10 +1,5 @@
 [
   {
-    "title": "Bitcoin DAT trade is concentrating in Michael Saylor’s Strategy as treasury demand fades elsewhere",
-    "link": "https://www.coindesk.com/markets/2026/03/26/michael-saylor-s-strategy-dominates-dat-bitcoin-buying-as-treasury-demand-collapses",
-    "published_date": "2026-03-26T09:48:52.025797"
-  },
-  {
     "title": "Brazil passes law turning seized crypto into public-security war chest",
     "link": "https://www.coindesk.com/policy/2026/03/26/brazil-passes-law-turning-seized-crypto-into-public-security-war-chest",
     "published_date": "2026-03-26T12:42:44.700451"
@@ -113,5 +108,10 @@
     "title": "Solana DeFi Exchange Drift Protocol Exploited, Upwards of $285 Million Stolen",
     "link": "https://decrypt.co/363087/solana-drift-protocol-exploited-285-million",
     "published_date": "2026-04-01T20:31:34.733458"
+  },
+  {
+    "title": "Audit admin keys, not just code, expert says after $200 million Drift exploit",
+    "link": "https://www.coindesk.com/daybook-us/2026/04/02/audit-admin-keys-not-just-code-expert-says-after-usd200-million-drift-exploit-crypto-daybook-americas",
+    "published_date": "2026-04-02T11:35:50.084841"
   }
 ]
