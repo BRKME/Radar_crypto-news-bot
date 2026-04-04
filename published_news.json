@@ -1,15 +1,5 @@
 [
   {
-    "title": "Trump promises TSA paychecks, even as House objections to Senate’s bill threaten to prolong government shutdown",
-    "link": "https://www.marketwatch.com/story/u-s-airport-chaos-nearing-end-as-senate-passes-bill-that-funds-tsa-but-not-ice-fd684c69?mod=mw_rss_topstories",
-    "published_date": "2026-03-27T19:54:44.963391"
-  },
-  {
-    "title": "Morgan Stanley enters bitcoin ETF race with market-leading low fee",
-    "link": "https://www.coindesk.com/markets/2026/03/27/morgan-stanley-enters-bitcoin-etf-race-with-market-leading-low-fee",
-    "published_date": "2026-03-27T20:22:40.543943"
-  },
-  {
     "title": "Kalshi secures license to offer margin trading to institutional investors",
     "link": "https://www.coindesk.com/markets/2026/03/28/kalshi-secures-license-to-offer-margin-trading-to-institutional-investors",
     "published_date": "2026-03-28T17:18:41.575960"
@@ -118,5 +108,10 @@
     "title": "'We Are Ready to Speak': Drift Beckons North Korea-Linked Hackers Following $285M Exploit",
     "link": "https://decrypt.co/363260/we-are-ready-to-speak-drift-beckons-north-korea-linked-hackers-following-285m-exploit",
     "published_date": "2026-04-03T17:00:35.200356"
+  },
+  {
+    "title": "Solana's quantum-threat readiness reveals harsh tradeoff: security vs speed",
+    "link": "https://www.coindesk.com/tech/2026/04/04/solana-s-quantum-threat-readiness-reveals-harsh-tradeoff-security-vs-speed",
+    "published_date": "2026-04-04T12:26:05.663819"
   }
 ]
