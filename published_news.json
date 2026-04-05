@@ -1,10 +1,5 @@
 [
   {
-    "title": "Kalshi secures license to offer margin trading to institutional investors",
-    "link": "https://www.coindesk.com/markets/2026/03/28/kalshi-secures-license-to-offer-margin-trading-to-institutional-investors",
-    "published_date": "2026-03-28T17:18:41.575960"
-  },
-  {
     "title": "Bitcoin ETFs Bleed $290M as ‘Risk-Off’ Mood Deepens",
     "link": "https://decrypt.co/362696/bitcoin-etfs-bleed-290m-as-risk-off-mood-deepens",
     "published_date": "2026-03-30T06:12:05.225575"
@@ -113,5 +108,10 @@
     "title": "Solana's quantum-threat readiness reveals harsh tradeoff: security vs speed",
     "link": "https://www.coindesk.com/tech/2026/04/04/solana-s-quantum-threat-readiness-reveals-harsh-tradeoff-security-vs-speed",
     "published_date": "2026-04-04T12:26:05.663819"
+  },
+  {
+    "title": "Bitcoin's $1.3 trillion security race: Key initiatives aimed at quantum-proofing the world's largest blockchain",
+    "link": "https://www.coindesk.com/tech/2026/04/04/bitcoin-s-usd1-3-trillion-security-race-key-initiatives-aimed-at-quantum-proofing-the-world-s-largest-blockchain",
+    "published_date": "2026-04-05T04:11:35.630336"
   }
 ]
