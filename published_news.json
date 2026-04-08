@@ -1,10 +1,5 @@
 [
   {
-    "title": "Bitcoin’s crashes are shrinking, and Wall Street is starting to notice",
-    "link": "https://www.coindesk.com/markets/2026/04/01/bitcoin-s-crashes-are-shrinking-and-wall-street-is-starting-to-notice",
-    "published_date": "2026-04-01T14:22:46.213072"
-  },
-  {
     "title": "Solana DeFi Exchange Drift Protocol Exploited, Upwards of $285 Million Stolen",
     "link": "https://decrypt.co/363087/solana-drift-protocol-exploited-285-million",
     "published_date": "2026-04-01T20:31:34.733458"
@@ -128,5 +123,15 @@
     "title": "Morgan Stanley's bitcoin ETF opens today, giving BlackRock’s $55 billion IBIT fund its toughest rival yet",
     "link": "https://www.coindesk.com/markets/2026/04/08/morgan-stanley-s-bitcoin-etf-opens-today-giving-blackrock-s-usd55-billion-ibit-fund-its-toughest-rival-yet",
     "published_date": "2026-04-08T12:49:02.188963"
+  },
+  {
+    "title": "OpenAI Publishes Child Safety Blueprint to Address AI-Enabled Exploitation",
+    "link": "https://decrypt.co/363681/openai-child-safety-blueprint-ai-exploitation",
+    "published_date": "2026-04-08T18:58:17.473730"
+  },
+  {
+    "title": "Michael Saylor says bitcoin has likely bottomed, quantum risk overblown",
+    "link": "https://www.coindesk.com/markets/2026/04/08/michael-saylor-says-bitcoin-has-likely-bottomed-quantum-risk-overblown",
+    "published_date": "2026-04-08T18:58:18.967905"
   }
 ]
