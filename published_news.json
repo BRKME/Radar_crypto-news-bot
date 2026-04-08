@@ -1,10 +1,5 @@
 [
   {
-    "title": "Solana DeFi Exchange Drift Protocol Exploited, Upwards of $285 Million Stolen",
-    "link": "https://decrypt.co/363087/solana-drift-protocol-exploited-285-million",
-    "published_date": "2026-04-01T20:31:34.733458"
-  },
-  {
     "title": "Audit admin keys, not just code, expert says after $200 million Drift exploit",
     "link": "https://www.coindesk.com/daybook-us/2026/04/02/audit-admin-keys-not-just-code-expert-says-after-usd200-million-drift-exploit-crypto-daybook-americas",
     "published_date": "2026-04-02T11:35:50.084841"
@@ -133,5 +128,10 @@
     "title": "Michael Saylor says bitcoin has likely bottomed, quantum risk overblown",
     "link": "https://www.coindesk.com/markets/2026/04/08/michael-saylor-says-bitcoin-has-likely-bottomed-quantum-risk-overblown",
     "published_date": "2026-04-08T18:58:18.967905"
+  },
+  {
+    "title": "Morgan Stanley’s bitcoin ETF draws $34 million on day one",
+    "link": "https://www.coindesk.com/markets/2026/04/08/morgan-stanley-s-bitcoin-etf-draws-usd34-million-on-day-one",
+    "published_date": "2026-04-08T21:32:04.665880"
   }
 ]
