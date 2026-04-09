@@ -1,30 +1,5 @@
 [
   {
-    "title": "Audit admin keys, not just code, expert says after $200 million Drift exploit",
-    "link": "https://www.coindesk.com/daybook-us/2026/04/02/audit-admin-keys-not-just-code-expert-says-after-usd200-million-drift-exploit-crypto-daybook-americas",
-    "published_date": "2026-04-02T11:35:50.084841"
-  },
-  {
-    "title": "Oil shock, Iran war risk keep crypto investors on sidelines: Grayscale",
-    "link": "https://www.coindesk.com/markets/2026/04/02/oil-shock-iran-war-risk-keep-crypto-investors-on-sidelines-grayscale",
-    "published_date": "2026-04-02T14:13:39.869379"
-  },
-  {
-    "title": "North Koreans hackers likely behind $286 million Drift Protocol exploit: Elliptic",
-    "link": "https://www.coindesk.com/business/2026/04/02/north-koreans-hackers-likely-behind-the-usd286-million-drift-protocol-exploit-elliptic",
-    "published_date": "2026-04-02T15:31:08.366827"
-  },
-  {
-    "title": "CFTC Settles With Former FTX Engineer for $3.7M, Closing First Individual Case",
-    "link": "https://decrypt.co/363131/cftc-settles-with-former-ftx-engineer-for-3-7m-closing-first-individual-case",
-    "published_date": "2026-04-02T15:31:09.140683"
-  },
-  {
-    "title": "CFTC sues Illinois over state's cease-and-desist letters against prediction markets",
-    "link": "https://www.coindesk.com/policy/2026/04/02/cftc-sues-illinois-over-state-s-cease-and-desist-letters-against-prediction-markets",
-    "published_date": "2026-04-02T16:42:00.206630"
-  },
-  {
     "title": "Drift Protocol's $285 Million Exploit on Solana Raises Questions Over DeFi Security",
     "link": "https://decrypt.co/363176/drift-protocol-285-million-exploit-solana-defi-security",
     "published_date": "2026-04-02T19:39:32.915945"
@@ -143,5 +118,15 @@
     "title": "Morgan Stanley Bitcoin ETF Draws In $31M on First Trading Day",
     "link": "https://decrypt.co/363766/morgan-stanley-bitcoin-etf-draws-in-31m-on-first-trading-day",
     "published_date": "2026-04-09T09:59:56.738950"
+  },
+  {
+    "title": "Securitize names ex-SEC official Brett Redfearn as president ahead of public listing",
+    "link": "https://www.coindesk.com/business/2026/04/09/securitize-names-ex-sec-official-president-ahead-of-public-listing",
+    "published_date": "2026-04-09T17:34:27.597617"
+  },
+  {
+    "title": "U.S. Treasury to loop in crypto sector on hacker warnings shared with traditional firms",
+    "link": "https://www.coindesk.com/policy/2026/04/09/u-s-treasury-to-loop-in-crypto-sector-on-hacker-warnings-shared-with-traditional-firms",
+    "published_date": "2026-04-09T17:34:28.940541"
   }
 ]
