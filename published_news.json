@@ -1,35 +1,5 @@
 [
   {
-    "title": "'We Are Ready to Speak': Drift Beckons North Korea-Linked Hackers Following $285M Exploit",
-    "link": "https://decrypt.co/363260/we-are-ready-to-speak-drift-beckons-north-korea-linked-hackers-following-285m-exploit",
-    "published_date": "2026-04-03T17:00:35.200356"
-  },
-  {
-    "title": "Solana's quantum-threat readiness reveals harsh tradeoff: security vs speed",
-    "link": "https://www.coindesk.com/tech/2026/04/04/solana-s-quantum-threat-readiness-reveals-harsh-tradeoff-security-vs-speed",
-    "published_date": "2026-04-04T12:26:05.663819"
-  },
-  {
-    "title": "Bitcoin's $1.3 trillion security race: Key initiatives aimed at quantum-proofing the world's largest blockchain",
-    "link": "https://www.coindesk.com/tech/2026/04/04/bitcoin-s-usd1-3-trillion-security-race-key-initiatives-aimed-at-quantum-proofing-the-world-s-largest-blockchain",
-    "published_date": "2026-04-05T04:11:35.630336"
-  },
-  {
-    "title": "Drift says $270 million exploit was a six-month North Korean intelligence operation",
-    "link": "https://www.coindesk.com/markets/2026/04/05/drift-says-usd270-million-exploit-was-a-six-month-north-korean-intelligence-operation",
-    "published_date": "2026-04-05T12:28:04.511126"
-  },
-  {
-    "title": "AI is making crypto's security problem even worse, Ledger CTO warns",
-    "link": "https://www.coindesk.com/tech/2026/04/05/ai-is-making-crypto-s-security-problem-even-worse-ledger-cto-warns",
-    "published_date": "2026-04-05T14:24:38.371612"
-  },
-  {
-    "title": "Bitcoin is now front-running the Fed rather than reacting to it. ETFs are the cause",
-    "link": "https://www.coindesk.com/markets/2026/04/05/bitcoin-is-now-front-running-the-fed-rather-than-reacting-to-it-etfs-are-the-cause",
-    "published_date": "2026-04-05T16:21:39.819098"
-  },
-  {
     "title": "North Korean Hackers Spent Six Months Infiltrating Drift Before $285M Exploit",
     "link": "https://decrypt.co/363364/north-korean-hackers-spent-six-months-infiltrating-drift-before-285m-exploit",
     "published_date": "2026-04-06T10:44:45.741419"
@@ -133,5 +103,10 @@
     "title": "Morning Minute: Bitcoin Breaks $73K as Strategy's STRC Bid Grows",
     "link": "https://decrypt.co/363923/morning-minute-bitcoin-breaks-73k-strategy-strc-bid-grows",
     "published_date": "2026-04-10T14:07:44.578647"
+  },
+  {
+    "title": "CFTC Chair Mike Selig argues for agency's 'exclusive regulatory authority' in prediction markets fight: State of Crypto",
+    "link": "https://www.coindesk.com/policy/2026/04/12/cftc-chair-mike-selig-argues-for-agency-s-exclusive-regulatory-authority-in-prediction-markets-fight-state-of-crypto",
+    "published_date": "2026-04-12T18:32:12.301378"
   }
 ]
