@@ -1,10 +1,5 @@
 [
   {
-    "title": "Grayscale says bitcoin's quantum problem is governance, not engineering",
-    "link": "https://www.coindesk.com/tech/2026/04/07/grayscale-says-bitcoin-s-quantum-problem-is-governance-not-engineering",
-    "published_date": "2026-04-07T15:50:19.264226"
-  },
-  {
     "title": "Solana Foundation to Help Secure DeFi Protocols Following $285 Million Drift Hack",
     "link": "https://decrypt.co/363521/solana-foundation-help-secure-defi-protocols-285-million-drift-hack",
     "published_date": "2026-04-07T18:42:25.896551"
@@ -128,5 +123,15 @@
     "title": "From DeFi to deep space: How SkyMapper and Avalanche are securing the world's telescope records",
     "link": "https://www.coindesk.com/tech/2026/04/13/avalanche-heads-to-the-stars-seti-telescope-data-goes-onchain",
     "published_date": "2026-04-14T14:43:54.441803"
+  },
+  {
+    "title": "Ethereum Foundation unveils $1M audit subsidy program to boost crypto security and cut costs for builders",
+    "link": "https://www.coindesk.com/tech/2026/04/14/ethereum-foundation-unveils-usd1m-audit-subsidy-program-to-boost-crypto-security-and-cut-costs-for-builders",
+    "published_date": "2026-04-14T18:40:39.259574"
+  },
+  {
+    "title": "Popular DeFi platform warns users to stay away from its site after security breach",
+    "link": "https://www.coindesk.com/tech/2026/04/14/popular-defi-platform-warns-users-to-stay-away-from-its-site-after-security-breach",
+    "published_date": "2026-04-14T18:40:40.970046"
   }
 ]
