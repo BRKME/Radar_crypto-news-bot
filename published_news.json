@@ -1,15 +1,5 @@
 [
   {
-    "title": "Bitcoin ETFs Add $471M in Biggest One-Day Haul Since February",
-    "link": "https://decrypt.co/363483/bitcoin-etfs-add-471m-in-biggest-one-day-haul-since-february",
-    "published_date": "2026-04-07T09:55:15.052882"
-  },
-  {
-    "title": "Solana Foundation unveils security overhaul days after $270 million Drift exploit",
-    "link": "https://www.coindesk.com/tech/2026/04/07/solana-foundation-unveils-security-overhaul-days-after-usd270-million-drift-exploit",
-    "published_date": "2026-04-07T12:49:48.724287"
-  },
-  {
     "title": "Grayscale says bitcoin's quantum problem is governance, not engineering",
     "link": "https://www.coindesk.com/tech/2026/04/07/grayscale-says-bitcoin-s-quantum-problem-is-governance-not-engineering",
     "published_date": "2026-04-07T15:50:19.264226"
@@ -123,5 +113,20 @@
     "title": "Here are key bitcoin price levels to watch as the rally gathers steam",
     "link": "https://www.coindesk.com/markets/2026/04/14/here-are-key-bitcoin-price-levels-to-watch-as-the-rally-gathers-steam",
     "published_date": "2026-04-14T09:52:39.459591"
+  },
+  {
+    "title": "The private-credit mess won’t lead to a financial crisis like 2008’s, says top IMF official",
+    "link": "https://www.marketwatch.com/story/the-private-credit-mess-wont-lead-to-a-financial-crisis-like-2008s-says-top-imf-official-39660a97?mod=mw_rss_topstories",
+    "published_date": "2026-04-14T14:43:50.607235"
+  },
+  {
+    "title": "JPMorgan CFO warns stablecoins risk becoming ‘regulatory arbitrage’ play",
+    "link": "https://www.coindesk.com/business/2026/04/14/jpmorgan-cfo-warns-stablecoins-risk-becoming-regulatory-arbitrage-play",
+    "published_date": "2026-04-14T14:43:52.437729"
+  },
+  {
+    "title": "From DeFi to deep space: How SkyMapper and Avalanche are securing the world's telescope records",
+    "link": "https://www.coindesk.com/tech/2026/04/13/avalanche-heads-to-the-stars-seti-telescope-data-goes-onchain",
+    "published_date": "2026-04-14T14:43:54.441803"
   }
 ]
