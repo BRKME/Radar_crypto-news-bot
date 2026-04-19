@@ -1,10 +1,5 @@
 [
   {
-    "title": "CFTC Chair Mike Selig argues for agency's 'exclusive regulatory authority' in prediction markets fight: State of Crypto",
-    "link": "https://www.coindesk.com/policy/2026/04/12/cftc-chair-mike-selig-argues-for-agency-s-exclusive-regulatory-authority-in-prediction-markets-fight-state-of-crypto",
-    "published_date": "2026-04-12T18:32:12.301378"
-  },
-  {
     "title": "The one metric investors are overlooking in Michael Saylor’s Strategy",
     "link": "https://www.coindesk.com/markets/2026/04/13/the-one-metric-investors-are-overlooking-in-michael-saylor-s-strategy",
     "published_date": "2026-04-13T10:58:37.555948"
@@ -143,5 +138,10 @@
     "title": "2026's biggest crypto exploit: Kelp DAO hit for $292 million with wrapped ether stranded across 20 chains",
     "link": "https://www.coindesk.com/tech/2026/04/19/2026-s-biggest-crypto-exploit-kelp-dao-hit-for-usd292-million-with-wrapped-ether-stranded-across-20-chains",
     "published_date": "2026-04-18T20:59:09.537445"
+  },
+  {
+    "title": "Kelp DAO Exploit Sparks Aave Liquidity Crunch, $6.2 Billion Withdrawal Panic",
+    "link": "https://decrypt.co/364849/kelp-dao-exploit-aave-liquidity-crunch-6-2-billion-withdrawal-panic",
+    "published_date": "2026-04-19T19:32:28.370643"
   }
 ]
