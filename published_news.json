@@ -1,10 +1,5 @@
 [
   {
-    "title": "The one metric investors are overlooking in Michael Saylor’s Strategy",
-    "link": "https://www.coindesk.com/markets/2026/04/13/the-one-metric-investors-are-overlooking-in-michael-saylor-s-strategy",
-    "published_date": "2026-04-13T10:58:37.555948"
-  },
-  {
     "title": "Bank of Korea calls for stock-style circuit breakers on BTC exchanges",
     "link": "https://www.coindesk.com/markets/2026/04/13/bank-of-korea-calls-for-stock-style-circuit-breakers-on-btc-exchanges",
     "published_date": "2026-04-13T12:00:13.874655"
@@ -153,5 +148,10 @@
     "title": "LayerZero blames Kelp's setup for $290 million exploit, attributes it to North Korea's Lazarus",
     "link": "https://www.coindesk.com/tech/2026/04/20/layerzero-blames-kelp-s-setup-for-usd290-million-exploit-attributes-it-to-north-korea-s-lazarus",
     "published_date": "2026-04-20T07:07:45.120147"
+  },
+  {
+    "title": "A $300 million borrowing spike on Aave signals liquidity crunch after exploit",
+    "link": "https://www.coindesk.com/markets/2026/04/20/a-usd300m-borrowing-spike-on-aave-signals-liquidity-crunch-after-exploit",
+    "published_date": "2026-04-20T11:00:00.833685"
   }
 ]
