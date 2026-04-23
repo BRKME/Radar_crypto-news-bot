@@ -1,30 +1,5 @@
 [
   {
-    "title": "Pakistan Lifts 8-Year Crypto Banking Ban Following Trump Family, Binance Deals",
-    "link": "https://decrypt.co/364463/pakistan-lifts-8-year-crypto-banking-ban-trump-binance-deals",
-    "published_date": "2026-04-15T16:49:52.169735"
-  },
-  {
-    "title": "Wall Street won’t buy ‘trustless’ security promises",
-    "link": "https://www.coindesk.com/opinion/2026/04/15/wall-street-won-t-buy-trustless-security-promises",
-    "published_date": "2026-04-15T16:49:54.305875"
-  },
-  {
-    "title": "Bitcoin capped at $75,000 as Nasdaq and S&P 500 fly to new record highs",
-    "link": "https://www.coindesk.com/markets/2026/04/15/bitcoin-capped-at-usd75-000-as-nasdaq-and-s-and-p-500-fly-to-new-record-highs",
-    "published_date": "2026-04-15T23:05:23.752601"
-  },
-  {
-    "title": "The cheapest bitcoin ETF yet: Morgan Stanley uses 0.14% fee to draw $100 million in first week",
-    "link": "https://www.coindesk.com/markets/2026/04/16/morgan-stanley-s-bitcoin-etf-reaches-usd100m-in-first-week-marking-the-bank-s-strongest-launch",
-    "published_date": "2026-04-16T10:13:01.066163"
-  },
-  {
-    "title": "Drift gets $148 million funding from Tether and partners as it replaces Circle stablecoin with USDT after massive exploit",
-    "link": "https://www.coindesk.com/business/2026/04/16/drift-gets-usd148-million-funding-from-tether-and-partners-as-it-replaces-circle-stablecoin-with-usdt-after-massive-exploit",
-    "published_date": "2026-04-16T14:49:14.246874"
-  },
-  {
     "title": "Drift Taps Tether for $148 Million Recovery Plan, Ditches Circle's USDC Following DeFi Exploit",
     "link": "https://decrypt.co/364589/drift-tether-148-million-recovery-plan-ditches-circle-usdc",
     "published_date": "2026-04-16T16:13:33.599787"
@@ -153,5 +128,10 @@
     "title": "Bitcoin tops $79,000 as crypto rally gathers steam; Circle, Coinbase, Strategy lead",
     "link": "https://www.coindesk.com/markets/2026/04/22/bitcoin-tops-usd79-000-as-crypto-rally-gathers-steam-circle-coinbase-strategy-lead",
     "published_date": "2026-04-22T16:46:47.003056"
+  },
+  {
+    "title": "JPMorgan says persistent security flaws curb DeFi’s institutional appeal",
+    "link": "https://www.coindesk.com/tech/2026/04/23/jpmorgan-says-persistent-security-flaws-curb-defi-s-institutional-appeal",
+    "published_date": "2026-04-23T15:04:17.930084"
   }
 ]
