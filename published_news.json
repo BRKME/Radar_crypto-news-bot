@@ -1,25 +1,5 @@
 [
   {
-    "title": "Drift Taps Tether for $148 Million Recovery Plan, Ditches Circle's USDC Following DeFi Exploit",
-    "link": "https://decrypt.co/364589/drift-tether-148-million-recovery-plan-ditches-circle-usdc",
-    "published_date": "2026-04-16T16:13:33.599787"
-  },
-  {
-    "title": "Cardano's Charles Hoskinson says Bitcoin's quantum fix is a hard fork that can't save Satoshi's coins",
-    "link": "https://www.coindesk.com/tech/2026/04/16/cardano-s-hoskinson-says-bitcoin-s-quantum-fix-is-a-hard-fork-that-can-t-save-satoshi-s-coins",
-    "published_date": "2026-04-16T17:48:00.626866"
-  },
-  {
-    "title": "U.S. CFTC's Selig says AI has helped make up for staffing cuts at key crypto watchdog",
-    "link": "https://www.coindesk.com/policy/2026/04/16/u-s-cftc-s-selig-says-ai-has-helped-make-up-for-staffing-cuts-at-key-crypto-watchdog",
-    "published_date": "2026-04-16T17:48:02.247450"
-  },
-  {
-    "title": "Russian Crypto Exchange Grinex Halts Trading, Alleging $13M Exploit by 'Western Special Services'",
-    "link": "https://decrypt.co/364656/russian-crypto-exchange-grinex-halts-trading-13m-exploit",
-    "published_date": "2026-04-16T21:32:25.175882"
-  },
-  {
     "title": "Back in the black: Strategy surges 8% as bitcoin's rise to $77,000 puts holdings in profit",
     "link": "https://www.coindesk.com/markets/2026/04/17/strategy-back-in-profit-as-bitcoin-hits-two-and-a-half-month-high-above-usd76-300",
     "published_date": "2026-04-17T14:00:45.050665"
@@ -133,5 +113,10 @@
     "title": "JPMorgan says persistent security flaws curb DeFi’s institutional appeal",
     "link": "https://www.coindesk.com/tech/2026/04/23/jpmorgan-says-persistent-security-flaws-curb-defi-s-institutional-appeal",
     "published_date": "2026-04-23T15:04:17.930084"
+  },
+  {
+    "title": "Anthropic Beats OpenAI on Secondary Markets With $1 Trillion Implied Valuation",
+    "link": "https://decrypt.co/365384/anthropic-1-trillion-valuation-secondary-markets-openai",
+    "published_date": "2026-04-23T22:31:07.624241"
   }
 ]
