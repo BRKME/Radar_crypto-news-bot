@@ -1,10 +1,5 @@
 [
   {
-    "title": "2026's biggest crypto exploit: Kelp DAO hit for $292 million with wrapped ether stranded across 20 chains",
-    "link": "https://www.coindesk.com/tech/2026/04/19/2026-s-biggest-crypto-exploit-kelp-dao-hit-for-usd292-million-with-wrapped-ether-stranded-across-20-chains",
-    "published_date": "2026-04-18T20:59:09.537445"
-  },
-  {
     "title": "Kelp DAO Exploit Sparks Aave Liquidity Crunch, $6.2 Billion Withdrawal Panic",
     "link": "https://decrypt.co/364849/kelp-dao-exploit-aave-liquidity-crunch-6-2-billion-withdrawal-panic",
     "published_date": "2026-04-19T19:32:28.370643"
@@ -128,5 +123,10 @@
     "title": "BlackRock’s bitcoin ETF just hit a massive milestone that proves crypto is now a mainstream bet",
     "link": "https://www.coindesk.com/markets/2026/04/25/blackrock-s-bitcoin-etf-just-hit-a-massive-milestone-that-proves-crypto-is-now-a-mainstream-bet",
     "published_date": "2026-04-25T19:14:00.183101"
+  },
+  {
+    "title": "Aave raises nearly 80% of the $200 million it needs to cover bad debt left by Kelp DAO exploit",
+    "link": "https://www.coindesk.com/business/2026/04/26/aave-raises-nearly-80-of-the-usd200-million-it-needs-to-cover-bad-debt-left-by-kelp-dao-exploit",
+    "published_date": "2026-04-26T16:27:36.396832"
   }
 ]
