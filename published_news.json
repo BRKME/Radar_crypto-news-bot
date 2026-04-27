@@ -1,10 +1,5 @@
 [
   {
-    "title": "Aave could face up to $230 million in losses after Kelp DAO bridge exploit triggers DeFi chaos",
-    "link": "https://www.coindesk.com/tech/2026/04/20/aave-could-face-up-to-usd230-million-in-losses-after-kelp-dao-bridge-exploit-triggers-defi-chaos",
-    "published_date": "2026-04-20T21:35:03.339815"
-  },
-  {
     "title": "Arbitrum freezes $71 million in ether tied to Kelp DAO exploit",
     "link": "https://www.coindesk.com/markets/2026/04/21/arbitrum-freezes-usd71-million-in-ether-tied-to-kelp-dao-exploit",
     "published_date": "2026-04-21T06:17:10.346746"
@@ -128,5 +123,10 @@
     "title": "Bitcoin Developer Plans to 'Reassign' Coins Linked to Satoshi Nakamoto in Hard Fork",
     "link": "https://decrypt.co/365712/bitcoin-developer-reassign-coins-linked-satoshi-nakamoto-hard-fork",
     "published_date": "2026-04-27T20:36:18.783938"
+  },
+  {
+    "title": "Aave-Led 'DeFi United' Relief Effort Raises $300 Million to Cover Kelp DAO Exploit Losses",
+    "link": "https://decrypt.co/365724/aave-led-defi-united-relief-effort-raises-300m-kelp-dao-losses",
+    "published_date": "2026-04-27T21:42:25.394212"
   }
 ]
