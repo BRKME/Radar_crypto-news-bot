@@ -1,30 +1,5 @@
 [
   {
-    "title": "Kelp DAO Exploit Sparks Aave Liquidity Crunch, $6.2 Billion Withdrawal Panic",
-    "link": "https://decrypt.co/364849/kelp-dao-exploit-aave-liquidity-crunch-6-2-billion-withdrawal-panic",
-    "published_date": "2026-04-19T19:32:28.370643"
-  },
-  {
-    "title": "The $292 million Kelp exploit: how it happened, and what it means for DeFi",
-    "link": "https://www.coindesk.com/business/2026/04/19/the-usd292-million-kelp-exploit-how-it-happened-and-what-it-means-for-defi",
-    "published_date": "2026-04-19T22:59:39.360706"
-  },
-  {
-    "title": "LayerZero blames Kelp's setup for $290 million exploit, attributes it to North Korea's Lazarus",
-    "link": "https://www.coindesk.com/tech/2026/04/20/layerzero-blames-kelp-s-setup-for-usd290-million-exploit-attributes-it-to-north-korea-s-lazarus",
-    "published_date": "2026-04-20T07:07:45.120147"
-  },
-  {
-    "title": "A $300 million borrowing spike on Aave signals liquidity crunch after exploit",
-    "link": "https://www.coindesk.com/markets/2026/04/20/a-usd300m-borrowing-spike-on-aave-signals-liquidity-crunch-after-exploit",
-    "published_date": "2026-04-20T11:00:00.833685"
-  },
-  {
-    "title": "Nearly $1 billion in bitcoin ETF inflows power bull case as Kelp hack fuels DeFi jitters",
-    "link": "https://www.coindesk.com/daybook-us/2026/04/20/nearly-usd1-billion-in-bitcoin-etf-inflows-power-bull-case-as-kelp-hack-fuels-defi-jitters",
-    "published_date": "2026-04-20T12:03:34.291810"
-  },
-  {
     "title": "Morning Minute: DeFi's Future in Question After $292M KelpDAO Exploit",
     "link": "https://decrypt.co/364875/morning-minute-defis-future-in-question-after-292m-kelpdao-exploit",
     "published_date": "2026-04-20T14:16:47.589058"
@@ -128,5 +103,15 @@
     "title": "Aave raises nearly 80% of the $200 million it needs to cover bad debt left by Kelp DAO exploit",
     "link": "https://www.coindesk.com/business/2026/04/26/aave-raises-nearly-80-of-the-usd200-million-it-needs-to-cover-bad-debt-left-by-kelp-dao-exploit",
     "published_date": "2026-04-26T16:27:36.396832"
+  },
+  {
+    "title": "Bitcoin funds take in $933 million as crypto ETFs hit highest AUM since February",
+    "link": "https://www.coindesk.com/markets/2026/04/27/bitcoin-funds-take-in-usd933-million-as-crypto-etfs-hit-highest-aum-since-february",
+    "published_date": "2026-04-27T12:56:50.731972"
+  },
+  {
+    "title": "Bitcoin ETFs Extend Longest Win Streak Since September, But Spot Demand Lags",
+    "link": "https://decrypt.co/365604/bitcoin-etfs-extend-longest-win-streak-since-september-but-spot-demand-lags",
+    "published_date": "2026-04-27T12:56:51.321305"
   }
 ]
