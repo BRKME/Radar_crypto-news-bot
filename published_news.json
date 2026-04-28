@@ -1,25 +1,5 @@
 [
   {
-    "title": "Arbitrum freezes $71 million in ether tied to Kelp DAO exploit",
-    "link": "https://www.coindesk.com/markets/2026/04/21/arbitrum-freezes-usd71-million-in-ether-tied-to-kelp-dao-exploit",
-    "published_date": "2026-04-21T06:17:10.346746"
-  },
-  {
-    "title": "Strategy overtakes BlackRock IBIT in bitcoin holdings after bear market buying",
-    "link": "https://www.coindesk.com/markets/2026/04/21/strategy-overtakes-blackrock-ibit-in-bitcoin-holdings-after-bear-market-buying",
-    "published_date": "2026-04-21T09:56:03.413366"
-  },
-  {
-    "title": "Bitcoin climbs as risk sentiment improves, altcoins hit by exploit concerns",
-    "link": "https://www.coindesk.com/markets/2026/04/21/bitcoin-climbs-as-risk-sentiment-improves-altcoins-hit-by-exploit-concerns",
-    "published_date": "2026-04-21T10:57:42.391160"
-  },
-  {
-    "title": "Arbitrum Security Council Freezes $71.5M in Ethereum linked to $292M KelpDAO Exploit",
-    "link": "https://decrypt.co/364981/arbitrum-security-council-freezes-71-5m-in-ethereum-linked-to-292m-kelpdao-exploit",
-    "published_date": "2026-04-21T10:57:42.969818"
-  },
-  {
     "title": "Crypto's massive exploit may force big banks to rethink their blockchain plans, Jefferies warns",
     "link": "https://www.coindesk.com/business/2026/04/21/crypto-s-massive-exploit-may-force-big-banks-to-rethink-their-blockchain-plans-jefferies-warns",
     "published_date": "2026-04-21T18:52:07.151060"
@@ -128,5 +108,10 @@
     "title": "Aave-Led 'DeFi United' Relief Effort Raises $300 Million to Cover Kelp DAO Exploit Losses",
     "link": "https://decrypt.co/365724/aave-led-defi-united-relief-effort-raises-300m-kelp-dao-losses",
     "published_date": "2026-04-27T21:42:25.394212"
+  },
+  {
+    "title": "CFTC's AI will review U.S. crypto registration applications, chairman tells CoinDesk",
+    "link": "https://www.coindesk.com/policy/2026/04/27/cftc-s-ai-will-review-u-s-crypto-registration-applications-chairman-tells-coindesk",
+    "published_date": "2026-04-28T13:10:22.153782"
   }
 ]
