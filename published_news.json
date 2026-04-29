@@ -1,15 +1,5 @@
 [
   {
-    "title": "The Protocol: Kelp DAO exploited for $292 million",
-    "link": "https://www.coindesk.com/tech/2026/04/22/the-protocol-kelp-dao-exploited-for-usd292-million",
-    "published_date": "2026-04-22T16:46:45.398033"
-  },
-  {
-    "title": "Bitcoin tops $79,000 as crypto rally gathers steam; Circle, Coinbase, Strategy lead",
-    "link": "https://www.coindesk.com/markets/2026/04/22/bitcoin-tops-usd79-000-as-crypto-rally-gathers-steam-circle-coinbase-strategy-lead",
-    "published_date": "2026-04-22T16:46:47.003056"
-  },
-  {
     "title": "JPMorgan says persistent security flaws curb DeFi’s institutional appeal",
     "link": "https://www.coindesk.com/tech/2026/04/23/jpmorgan-says-persistent-security-flaws-curb-defi-s-institutional-appeal",
     "published_date": "2026-04-23T15:04:17.930084"
@@ -123,5 +113,10 @@
     "title": "Bitcoin ETFs fuel institutional surge, 21Shares' CIO sees $100K possible by year-end",
     "link": "https://www.coindesk.com/coindesk-news/2026/04/29/bitcoin-etfs-fuel-institutional-surge-21shares-cio-sees-usd100k-possible-by-year-end",
     "published_date": "2026-04-29T15:13:23.378137"
+  },
+  {
+    "title": "The Protocol: Mythos forces crypto industry to rethink security practices",
+    "link": "https://www.coindesk.com/tech/2026/04/29/the-protocol-mythos-forces-crypto-industry-to-rethink-security-practices",
+    "published_date": "2026-04-29T16:56:57.120388"
   }
 ]
