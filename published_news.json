@@ -1,20 +1,5 @@
 [
   {
-    "title": "Prediction markets are the new secret weapon for Coinbase and Robinhood growth",
-    "link": "https://www.coindesk.com/markets/2026/04/21/prediction-markets-are-the-new-secret-weapon-for-coinbase-and-robinhood-growth",
-    "published_date": "2026-04-21T19:56:35.715136"
-  },
-  {
-    "title": "Bitcoin's 'Coinbase premium' just posted its longest bullish streak since October's record high of $126,000",
-    "link": "https://www.coindesk.com/markets/2026/04/22/bitcoin-s-coinbase-premium-just-posted-its-longest-bullish-streak-since-october-s-record-high-of-usd126-000",
-    "published_date": "2026-04-22T08:12:12.964799"
-  },
-  {
-    "title": "Traders don’t see Kelp socializing losses after $292 million exploit",
-    "link": "https://www.coindesk.com/markets/2026/04/22/traders-don-t-see-kelp-socializing-losses-after-usd292-million-exploit",
-    "published_date": "2026-04-22T09:56:40.439339"
-  },
-  {
     "title": "The Protocol: Kelp DAO exploited for $292 million",
     "link": "https://www.coindesk.com/tech/2026/04/22/the-protocol-kelp-dao-exploited-for-usd292-million",
     "published_date": "2026-04-22T16:46:45.398033"
@@ -128,5 +113,10 @@
     "title": "CFTC sues Wisconsin in agency's legal campaign defending prediction markets authority",
     "link": "https://www.coindesk.com/policy/2026/04/28/cftc-sues-wisconsin-in-agency-s-legal-campaign-defending-prediction-markets-authority",
     "published_date": "2026-04-28T18:59:26.101552"
+  },
+  {
+    "title": "Securitize, Computershare open path for $70 trillion U.S. stocks to move onchain",
+    "link": "https://www.coindesk.com/business/2026/04/29/securitize-computershare-open-path-for-usd70-trillion-u-s-stocks-to-move-onchain",
+    "published_date": "2026-04-29T13:00:21.306872"
   }
 ]
