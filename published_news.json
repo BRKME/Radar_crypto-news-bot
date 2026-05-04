@@ -1,10 +1,5 @@
 [
   {
-    "title": "Aave raises nearly 80% of the $200 million it needs to cover bad debt left by Kelp DAO exploit",
-    "link": "https://www.coindesk.com/business/2026/04/26/aave-raises-nearly-80-of-the-usd200-million-it-needs-to-cover-bad-debt-left-by-kelp-dao-exploit",
-    "published_date": "2026-04-26T16:27:36.396832"
-  },
-  {
     "title": "Bitcoin funds take in $933 million as crypto ETFs hit highest AUM since February",
     "link": "https://www.coindesk.com/markets/2026/04/27/bitcoin-funds-take-in-usd933-million-as-crypto-etfs-hit-highest-aum-since-february",
     "published_date": "2026-04-27T12:56:50.731972"
@@ -108,5 +103,10 @@
     "title": "Mike Cagney’s second act: Turning blockchain into Wall Street’s new plumbing",
     "link": "https://www.coindesk.com/business/2026/05/03/mike-cagney-s-second-act-turning-blockchain-into-wall-street-s-new-plumbing",
     "published_date": "2026-05-03T14:03:29.733326"
+  },
+  {
+    "title": "Recovery in bitcoin ETF inflows is real. It is just not complete yet.",
+    "link": "https://www.coindesk.com/markets/2026/05/04/the-bitcoin-etf-recovery-in-flows-is-real-it-is-just-not-complete-yet",
+    "published_date": "2026-05-04T09:35:19.223259"
   }
 ]
