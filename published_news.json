@@ -1,20 +1,5 @@
 [
   {
-    "title": "A crypto coalition releases technical proposal to save Aave users from a massive token exploit",
-    "link": "https://www.coindesk.com/tech/2026/04/28/a-crypto-coalition-releases-technical-proposal-to-save-aave-users-from-a-massive-token-exploit",
-    "published_date": "2026-04-28T17:26:23.202994"
-  },
-  {
-    "title": "Polymarket reportedly seeking CFTC approval to reopen main exchange to U.S. traders",
-    "link": "https://www.coindesk.com/policy/2026/04/28/polymarket-seeks-cftc-approval-to-reopen-main-exchange-to-u-s-traders",
-    "published_date": "2026-04-28T17:26:24.316408"
-  },
-  {
-    "title": "CFTC sues Wisconsin in agency's legal campaign defending prediction markets authority",
-    "link": "https://www.coindesk.com/policy/2026/04/28/cftc-sues-wisconsin-in-agency-s-legal-campaign-defending-prediction-markets-authority",
-    "published_date": "2026-04-28T18:59:26.101552"
-  },
-  {
     "title": "Securitize, Computershare open path for $70 trillion U.S. stocks to move onchain",
     "link": "https://www.coindesk.com/business/2026/04/29/securitize-computershare-open-path-for-usd70-trillion-u-s-stocks-to-move-onchain",
     "published_date": "2026-04-29T13:00:21.306872"
@@ -103,5 +88,10 @@
     "title": "Crypto's value is from being outside regulatory apparatus, says Arthur Hayes",
     "link": "https://www.coindesk.com/business/2026/05/05/crypto-doesn-t-need-regulation-its-value-is-being-outside-regulatory-apparatus-says-arthur-hayes",
     "published_date": "2026-05-05T16:59:50.797897"
+  },
+  {
+    "title": "Drift outlines a recovery plan for users after $295 million DPRK-linked exploit",
+    "link": "https://www.coindesk.com/business/2026/05/05/drift-outlines-a-recovery-plan-for-users-after-usd295-million-dprk-linked-exploit",
+    "published_date": "2026-05-05T19:55:20.597856"
   }
 ]
