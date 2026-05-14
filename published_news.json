@@ -1,20 +1,5 @@
 [
   {
-    "title": "Aave to overhaul collateral and listing standards after KelpDAO exploit",
-    "link": "https://www.coindesk.com/business/2026/05/07/aave-to-overhaul-collateral-and-listing-standards-after-kelpdao-exploit",
-    "published_date": "2026-05-07T15:08:11.085970"
-  },
-  {
-    "title": "Prediction Market Startup Kalshi Boosts Valuation to $22 Billion With Fresh $1B Investment",
-    "link": "https://decrypt.co/367108/prediction-market-startup-kalshi-boosts-valuation-22-billion",
-    "published_date": "2026-05-07T15:08:11.530525"
-  },
-  {
-    "title": "Bitcoin ETFs Post 5-Week Buying Streak as Hedges Unwind, Institutional Appetite Returns",
-    "link": "https://decrypt.co/367090/bitcoin-etfs-post-5-week-buying-streak-as-hedges-unwind-institutional-appetite-returns",
-    "published_date": "2026-05-07T15:08:11.963104"
-  },
-  {
     "title": "Arbitrum DAO Votes to Unlock $70 Million for Kelp DAO Exploit Relief",
     "link": "https://decrypt.co/367238/arbitrum-dao-votes-to-unlock-70-million-for-kelp-dao-exploit-relief",
     "published_date": "2026-05-08T12:50:22.414073"
@@ -113,5 +98,10 @@
     "title": "BlackRock, Janus Henderson tokenized funds get instant redemptions with new $1 billion facility",
     "link": "https://www.coindesk.com/business/2026/05/14/blackrock-janus-henderson-tokenized-funds-get-instant-redemptions-with-new-usd1-billion-facility",
     "published_date": "2026-05-14T15:01:06.517905"
+  },
+  {
+    "title": "Apple Mac M5 System Exploited With Anthropic's Claude Mythos AI, Researchers Claim",
+    "link": "https://decrypt.co/367925/apple-mac-m5-system-exploited-anthropic-claude-mythos-ai",
+    "published_date": "2026-05-14T21:57:41.251853"
   }
 ]
