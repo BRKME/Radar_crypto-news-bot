@@ -1,20 +1,5 @@
 [
   {
-    "title": "Apple Mac M5 System Exploited With Anthropic's Claude Mythos AI, Researchers Claim",
-    "link": "https://decrypt.co/367925/apple-mac-m5-system-exploited-anthropic-claude-mythos-ai",
-    "published_date": "2026-05-14T21:57:41.251853"
-  },
-  {
-    "title": "THORChain’s RUNE Token Plunges Double Digits After $10M Exploit, Trading Halt",
-    "link": "https://decrypt.co/367943/thorchains-rune-token-plunges-double-digits-after-10m-exploit-trading-halt",
-    "published_date": "2026-05-15T11:08:46.807849"
-  },
-  {
-    "title": "Thorchain halts trading after $10 million cross-chain exploit, RUNE token drops 12%",
-    "link": "https://www.coindesk.com/tech/2026/05/15/thorchain-halts-trading-after-usd10-million-cross-chain-exploit-rune-token-drops-12",
-    "published_date": "2026-05-15T11:08:48.424589"
-  },
-  {
     "title": "OKX, Korea Investment and Securities said to be in talks for 40% of Coinone",
     "link": "https://www.coindesk.com/business/2026/05/15/okx-korea-investment-and-securities-said-to-be-in-talks-for-40-of-coinone",
     "published_date": "2026-05-15T13:11:01.915332"
@@ -148,5 +133,10 @@
     "title": "U.S. CFTC secures deal with National Hockey League on prediction market safeguards",
     "link": "https://www.coindesk.com/policy/2026/05/21/u-s-cftc-secures-deal-with-national-hockey-league-on-prediction-market-safeguards",
     "published_date": "2026-05-21T17:27:20.014544"
+  },
+  {
+    "title": "ZachXBT flags $520K Polymarket exploit on Polygon, team says funds are safe",
+    "link": "https://www.coindesk.com/markets/2026/05/22/zachxbt-flags-usd520k-polymarket-exploit-on-polygon-team-says-funds-are-safe",
+    "published_date": "2026-05-22T11:35:21.233196"
   }
 ]
