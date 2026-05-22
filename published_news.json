@@ -1,15 +1,5 @@
 [
   {
-    "title": "OKX, Korea Investment and Securities said to be in talks for 40% of Coinone",
-    "link": "https://www.coindesk.com/business/2026/05/15/okx-korea-investment-and-securities-said-to-be-in-talks-for-40-of-coinone",
-    "published_date": "2026-05-15T13:11:01.915332"
-  },
-  {
-    "title": "Crypto’s regulatory tailwind runs into a potential rates reset",
-    "link": "https://www.coindesk.com/daybook-us/2026/05/15/crypto-s-regulatory-tailwind-runs-into-a-potential-rates-reset",
-    "published_date": "2026-05-15T13:11:03.324324"
-  },
-  {
     "title": "Gemini Stock Jumps on Revenue Rise, $100M Bitcoin Investment From Winklevoss Capital",
     "link": "https://decrypt.co/367978/gemini-stock-jumps-revenue-rise-100m-bitcoin-investment-winklevoss",
     "published_date": "2026-05-15T15:32:43.260505"
@@ -138,5 +128,10 @@
     "title": "ZachXBT flags $520K Polymarket exploit on Polygon, team says funds are safe",
     "link": "https://www.coindesk.com/markets/2026/05/22/zachxbt-flags-usd520k-polymarket-exploit-on-polygon-team-says-funds-are-safe",
     "published_date": "2026-05-22T11:35:21.233196"
+  },
+  {
+    "title": "Polymarket Hit By ‘Internal Top-Up’ Wallet Exploit, $700K Drained",
+    "link": "https://decrypt.co/368740/polymarket-hit-by-internal-top-up-wallet-exploit-700k-drained",
+    "published_date": "2026-05-22T14:07:30.641493"
   }
 ]
