@@ -1,20 +1,5 @@
 [
   {
-    "title": "Bitcoin Depot Flashes Bankruptcy Warning as ATM Revenue Falls, Regulatory Scrutiny Grows",
-    "link": "https://decrypt.co/368035/bitcoin-depot-bankruptcy-warning-atm-revenue-falls-regulatory-scrutiny",
-    "published_date": "2026-05-15T18:59:52.979869"
-  },
-  {
-    "title": "U.S. House lawmakers who oversee the CFTC are urging Trump to fill the commission",
-    "link": "https://www.coindesk.com/policy/2026/05/15/u-s-house-lawmakers-who-oversee-the-cftc-are-urging-trump-to-fill-the-commission",
-    "published_date": "2026-05-15T22:41:05.271984"
-  },
-  {
-    "title": "Japan's SBI Securities, Rakuten Securities plan to offer crypto investment trusts",
-    "link": "https://www.coindesk.com/business/2026/05/17/japan-s-sbi-securities-rakuten-securities-plan-to-offer-crypto-investment-trusts",
-    "published_date": "2026-05-17T12:45:57.197965"
-  },
-  {
     "title": "Aave restores ether borrowing limits after $230 million exploit",
     "link": "https://www.coindesk.com/markets/2026/05/18/aave-restores-weth-collateral-limits-as-rseth-crisis-enters-recovery-phase",
     "published_date": "2026-05-18T10:03:15.154530"
@@ -133,5 +118,10 @@
     "title": "SEC Commissioner Peirce counters views that crypto rule will foster synthetic tokens",
     "link": "https://www.coindesk.com/news-analysis/2026/05/22/sec-commissioner-peirce-counters-views-that-crypto-rule-will-foster-synthetic-tokens",
     "published_date": "2026-05-22T18:25:41.064108"
+  },
+  {
+    "title": "AI is speeding up the quantum threat to crypto, security experts warn",
+    "link": "https://www.coindesk.com/tech/2026/05/24/ai-is-speeding-up-the-quantum-threat-to-crypto-security-experts-warn",
+    "published_date": "2026-05-24T14:18:34.798933"
   }
 ]
