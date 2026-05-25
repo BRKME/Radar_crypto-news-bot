@@ -1,15 +1,5 @@
 [
   {
-    "title": "Aave restores ether borrowing limits after $230 million exploit",
-    "link": "https://www.coindesk.com/markets/2026/05/18/aave-restores-weth-collateral-limits-as-rseth-crisis-enters-recovery-phase",
-    "published_date": "2026-05-18T10:03:15.154530"
-  },
-  {
-    "title": "Crypto security is turning into an AI arms race as agents may overwhelm compliance teams",
-    "link": "https://www.coindesk.com/tech/2026/05/18/crypto-security-is-turning-into-an-ai-arms-race-as-agents-may-overwhelm-compliance-teams",
-    "published_date": "2026-05-18T10:03:16.031448"
-  },
-  {
     "title": "The three risks that could overwhelm bitcoin's regulatory tailwind",
     "link": "https://www.coindesk.com/daybook-us/2026/05/18/the-three-risks-that-could-overwhelm-bitcoin-s-regulatory-tailwind",
     "published_date": "2026-05-18T14:03:00.785728"
@@ -123,5 +113,10 @@
     "title": "AI is speeding up the quantum threat to crypto, security experts warn",
     "link": "https://www.coindesk.com/tech/2026/05/24/ai-is-speeding-up-the-quantum-threat-to-crypto-security-experts-warn",
     "published_date": "2026-05-24T14:18:34.798933"
+  },
+  {
+    "title": "Prometheum bets Wall Street distribution is the missing link for tokenized securities",
+    "link": "https://www.coindesk.com/business/2026/05/25/prometheum-bets-wall-street-distribution-is-the-missing-link-for-tokenized-securities",
+    "published_date": "2026-05-25T13:52:45.877370"
   }
 ]
