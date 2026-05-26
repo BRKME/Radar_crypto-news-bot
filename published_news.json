@@ -1,45 +1,5 @@
 [
   {
-    "title": "The three risks that could overwhelm bitcoin's regulatory tailwind",
-    "link": "https://www.coindesk.com/daybook-us/2026/05/18/the-three-risks-that-could-overwhelm-bitcoin-s-regulatory-tailwind",
-    "published_date": "2026-05-18T14:03:00.785728"
-  },
-  {
-    "title": "Bitcoin, Ethereum ETFs Bleed as Crypto Funds Shed $1.07 Billion, Ending 6-Week Win Streak",
-    "link": "https://decrypt.co/368183/bitcoin-ethereum-etfs-bleed-crypto-funds-shed-1-billion",
-    "published_date": "2026-05-18T17:13:56.189736"
-  },
-  {
-    "title": "Vitalik Buterin says AI 'formal verification' could actually make crypto much more secure",
-    "link": "https://www.coindesk.com/tech/2026/05/18/vitalik-buterin-says-ai-formal-verification-could-actually-make-crypto-much-more-secure",
-    "published_date": "2026-05-18T17:13:57.160800"
-  },
-  {
-    "title": "SEC to propose tokenized stock framework as Wall Street efforts deepen: Bloomberg",
-    "link": "https://www.coindesk.com/policy/2026/05/18/sec-to-propose-tokenized-stock-framework-as-wall-street-efforts-deepen-bloomberg",
-    "published_date": "2026-05-18T22:48:36.696501"
-  },
-  {
-    "title": "World Liberty Financial treasury company AI Financial warns in SEC filing that it may not survive the year",
-    "link": "https://www.coindesk.com/markets/2026/05/19/world-liberty-financial-wlfi-treasury-company-ai-financial-warns-in-sec-filing-that-it-may-not-survive-the-year",
-    "published_date": "2026-05-19T05:55:47.063769"
-  },
-  {
-    "title": "Echo Protocol suffers $76 million exploit in eBTC minting attack on Monad",
-    "link": "https://www.coindesk.com/business/2026/05/19/echo-protocol-suffers-usd76-million-exploit-in-ebtc-minting-attack-on-monad",
-    "published_date": "2026-05-19T08:55:01.181311"
-  },
-  {
-    "title": "Bitcoin DeFi Platform Echo Protocol Hit By $76M Monad Exploit",
-    "link": "https://decrypt.co/368315/bitcoin-defi-platform-echo-protocol-hit-by-76m-monad-exploit",
-    "published_date": "2026-05-19T11:51:38.329891"
-  },
-  {
-    "title": "Bitcoin ETFs Shed $649M in a Day as Long-Term BTC Holders ‘Limit Downside Potential’",
-    "link": "https://decrypt.co/368321/bitcoin-etfs-shed-649m-in-a-day-as-long-term-btc-holders-limit-downside-potential",
-    "published_date": "2026-05-19T14:26:14.047398"
-  },
-  {
     "title": "Senator Elizabeth Warren accuses U.S. regulator of approving unqualified crypto banks",
     "link": "https://www.coindesk.com/policy/2026/05/19/senator-elizabeth-warren-accuses-u-s-regulator-of-approving-unqualified-crypto-banks",
     "published_date": "2026-05-19T17:23:03.496772"
@@ -118,5 +78,15 @@
     "title": "Prometheum bets Wall Street distribution is the missing link for tokenized securities",
     "link": "https://www.coindesk.com/business/2026/05/25/prometheum-bets-wall-street-distribution-is-the-missing-link-for-tokenized-securities",
     "published_date": "2026-05-25T13:52:45.877370"
+  },
+  {
+    "title": "Bitcoin ETFs crushed by billions in outflows as Treasuries stifle interest-rate cut hopes",
+    "link": "https://www.coindesk.com/daybook-us/2026/05/26/bitcoin-etfs-crushed-by-billions-in-outflows-as-treasuries-stifle-interest-rate-cut-hopes",
+    "published_date": "2026-05-26T16:13:28.337089"
+  },
+  {
+    "title": "Bitcoin, Ethereum ETFs Shed $112M as Hyperliquid Funds Extend 8-Day Win Streak",
+    "link": "https://decrypt.co/368988/bitcoin-ethereum-etfs-shed-112m-as-hyperliquid-funds-extend-8-day-win-streak",
+    "published_date": "2026-05-26T16:13:28.782202"
   }
 ]
