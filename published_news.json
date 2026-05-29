@@ -1,10 +1,5 @@
 [
   {
-    "title": "Polymarket Hit By ‘Internal Top-Up’ Wallet Exploit, $700K Drained",
-    "link": "https://decrypt.co/368740/polymarket-hit-by-internal-top-up-wallet-exploit-700k-drained",
-    "published_date": "2026-05-22T14:07:30.641493"
-  },
-  {
     "title": "SEC Commissioner Peirce counters views that crypto rule will foster synthetic tokens",
     "link": "https://www.coindesk.com/news-analysis/2026/05/22/sec-commissioner-peirce-counters-views-that-crypto-rule-will-foster-synthetic-tokens",
     "published_date": "2026-05-22T18:25:41.064108"
@@ -103,5 +98,30 @@
     "title": "Kalshi follows CFTC in suing Minnesota over law criminalizing prediction markets",
     "link": "https://www.coindesk.com/policy/2026/05/29/kalshi-follows-cftc-in-suing-minnesota-over-law-criminalizing-prediction-markets",
     "published_date": "2026-05-29T12:13:16.146106"
+  },
+  {
+    "title": "Bitcoin ETFs Shed $2.8B in Record-Breaking Nine-Day Streak",
+    "link": "https://decrypt.co/369449/bitcoin-etfs-shed-2-8b-in-record-breaking-nine-day-streak",
+    "published_date": "2026-05-29T16:11:09.981409"
+  },
+  {
+    "title": "CFTC Approves Bitcoin Perpetual Futures on Prediction Market Kalshi",
+    "link": "https://decrypt.co/369465/cftc-approves-bitcoin-perpetual-futures-kalshi",
+    "published_date": "2026-05-29T16:11:10.567432"
+  },
+  {
+    "title": "U.S. CFTC opens crypto 'perp' door with first approvals at Kalshi, Coinbase",
+    "link": "https://www.coindesk.com/policy/2026/05/28/u-s-cftc-opens-crypto-perp-door-with-approval-of-first-regulated-firm",
+    "published_date": "2026-05-29T16:11:11.895188"
+  },
+  {
+    "title": "Paxos wins SEC approval to clear U.S. stocks on blockchain",
+    "link": "https://www.coindesk.com/policy/2026/05/29/paxos-is-first-blockchain-firm-to-provide-settlement-and-clearing-services-following-sec-approval",
+    "published_date": "2026-05-29T16:11:13.366988"
+  },
+  {
+    "title": "Sui Network Goes Down for Second Straight Day as Weekly Token Slide Hits 20%",
+    "link": "https://decrypt.co/369464/sui-network-goes-down-second-straight-day-weekly-token-slide",
+    "published_date": "2026-05-29T16:11:13.968193"
   }
 ]
