@@ -1,15 +1,5 @@
 [
   {
-    "title": "Wall Street gets new crypto rival after Texas bank completes regulatory pivot",
-    "link": "https://www.coindesk.com/policy/2026/05/27/wall-street-gets-new-crypto-rival-after-texas-bank-completes-regulatory-pivot",
-    "published_date": "2026-05-27T19:53:53.804664"
-  },
-  {
-    "title": "U.S. CFTC files request to erase Gemini settlement that it no longer considers fair",
-    "link": "https://www.coindesk.com/policy/2026/05/27/u-s-cftc-files-request-to-erase-gemini-settlement-that-it-no-longer-considers-fair",
-    "published_date": "2026-05-28T01:19:47.174829"
-  },
-  {
     "title": "BlackRock's bitcoin ETF sheds $528 million, the second-largest daily outflow on record",
     "link": "https://www.coindesk.com/markets/2026/05/28/blackrock-s-bitcoin-etf-sheds-usd528-million-the-second-largest-daily-outflow-on-record",
     "published_date": "2026-05-28T09:38:18.688786"
@@ -178,5 +168,10 @@
     "title": "Grayscale launches lowest-fee U.S. Hyperliquid ETF as competition heats up around HYPE",
     "link": "https://www.coindesk.com/markets/2026/06/03/grayscale-launches-lowest-fee-u-s-hyperliquid-etf-as-competition-heats-up-around-hype",
     "published_date": "2026-06-03T15:09:01.949376"
+  },
+  {
+    "title": "Live Markets: Bitcoin crashes to $62,000 as billions of longs get liquidated",
+    "link": "https://www.coindesk.com/tech/2026/06/03/live-markets-bitcoin-crashes-to-usd62-000-as-billions-of-longs-get-liquidated",
+    "published_date": "2026-06-04T05:14:58.125808"
   }
 ]
