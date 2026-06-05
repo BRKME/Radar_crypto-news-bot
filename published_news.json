@@ -1,15 +1,5 @@
 [
   {
-    "title": "Bitcoin ETF outflows reach record 9-day streak as investors pull $2.8 billion",
-    "link": "https://www.coindesk.com/markets/2026/05/29/bitcoin-etf-outflows-reach-record-nine-day-streak-as-investors-pull-usd2-8-billion",
-    "published_date": "2026-05-29T12:13:14.407929"
-  },
-  {
-    "title": "Kalshi follows CFTC in suing Minnesota over law criminalizing prediction markets",
-    "link": "https://www.coindesk.com/policy/2026/05/29/kalshi-follows-cftc-in-suing-minnesota-over-law-criminalizing-prediction-markets",
-    "published_date": "2026-05-29T12:13:16.146106"
-  },
-  {
     "title": "Bitcoin ETFs Shed $2.8B in Record-Breaking Nine-Day Streak",
     "link": "https://decrypt.co/369449/bitcoin-etfs-shed-2-8b-in-record-breaking-nine-day-streak",
     "published_date": "2026-05-29T16:11:09.981409"
@@ -168,5 +158,10 @@
     "title": "Bitcoin plunges to near $62,000 as the AI trade unwinds, HYPE falls 14%",
     "link": "https://www.coindesk.com/markets/2026/06/05/bitcoin-plunges-to-near-usd62-000-as-the-ai-trade-unwinds-hype-falls-14",
     "published_date": "2026-06-05T06:08:57.797144"
+  },
+  {
+    "title": "Morning Minute: Massive ZCash Exploit Found by Claude, Extent Unknown",
+    "link": "https://decrypt.co/370112/morning-minute-massive-zcash-exploit-found-by-claude-extent-unknown",
+    "published_date": "2026-06-05T13:30:42.988387"
   }
 ]
