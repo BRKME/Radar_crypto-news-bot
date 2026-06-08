@@ -1,30 +1,5 @@
 [
   {
-    "title": "Ethereum's Vitalik Buterin is rethinking how DeFi handles market crashes",
-    "link": "https://www.coindesk.com/tech/2026/06/01/ethereum-s-vitalik-buterin-is-rethinking-how-defi-handles-market-crashes",
-    "published_date": "2026-06-01T19:02:09.711734"
-  },
-  {
-    "title": "Michael Saylor breaks silence after Strategy sells $2.5 million in bitcoin",
-    "link": "https://www.coindesk.com/markets/2026/06/01/michael-saylor-breaks-silence-after-strategy-sells-usd2-5-million-in-bitcoin",
-    "published_date": "2026-06-01T19:02:10.710381"
-  },
-  {
-    "title": "Michael Saylor's Bitcoin Treasury Firm Strategy Sells 32 BTC for $2.5M",
-    "link": "https://decrypt.co/369587/michael-saylors-bitcoin-treasury-firm-strategy-sells-32-btc-for-2-5m",
-    "published_date": "2026-06-01T19:02:25.418662"
-  },
-  {
-    "title": "Crypto funds suffer second-largest outflows of 2026 while XRP and HYPE attract inflows",
-    "link": "https://www.coindesk.com/markets/2026/06/01/crypto-funds-suffer-second-largest-outflows-of-2026-while-xrp-and-hype-attract-inflows",
-    "published_date": "2026-06-01T19:02:26.258189"
-  },
-  {
-    "title": "Japan's ruling party supports crypto ETF trading, yen-based stablecoins",
-    "link": "https://www.coindesk.com/policy/2026/06/01/japan-s-ruling-party-supports-crypto-etf-trading-yen-based-stablecoins",
-    "published_date": "2026-06-01T19:02:27.348800"
-  },
-  {
     "title": "Bitcoin ETF outflows are noise as Wall Street doubles down on crypto, says analyst",
     "link": "https://www.coindesk.com/coindesk-news/2026/06/02/bitcoin-etf-outflows-are-noise-as-wall-street-doubles-down-on-crypto-says-analyst",
     "published_date": "2026-06-02T15:49:50.540190"
@@ -113,5 +88,10 @@
     "title": "MetaMask launches AI agent wallet with built-in security for crypto trades",
     "link": "https://www.coindesk.com/tech/2026/06/08/metamask-launches-ai-agent-wallet-with-built-in-security-for-crypto-trades",
     "published_date": "2026-06-08T16:31:54.837911"
+  },
+  {
+    "title": "Bored Ape Maker Yuga Labs Rescues Dozens of Ethereum NFTs From Exploit",
+    "link": "https://decrypt.co/370445/bored-ape-maker-yuga-labs-rescues-ethereum-nfts-exploit",
+    "published_date": "2026-06-08T21:19:15.854330"
   }
 ]
