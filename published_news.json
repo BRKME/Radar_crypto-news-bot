@@ -1,10 +1,5 @@
 [
   {
-    "title": "Live Markets: Bitcoin crashes to $62,000 as billions of longs get liquidated",
-    "link": "https://www.coindesk.com/tech/2026/06/03/live-markets-bitcoin-crashes-to-usd62-000-as-billions-of-longs-get-liquidated",
-    "published_date": "2026-06-04T05:14:58.125808"
-  },
-  {
     "title": "Live markets: Saylor speaks as bitcoin plunges to $62,000",
     "link": "https://www.coindesk.com/markets/2026/06/04/live-markets-saylor-speaks-as-bitcoin-plunges-to-usd62-000",
     "published_date": "2026-06-04T12:23:28.830833"
@@ -93,5 +88,10 @@
     "title": "Solana Exchange Raydium Hit With $1.34 Million Exploit as DeFi Attacks Grow",
     "link": "https://decrypt.co/370700/solana-exchange-raydium-exploit-defi-attacks-grow",
     "published_date": "2026-06-10T21:20:56.596772"
+  },
+  {
+    "title": "It's not just bitcoin ETFs. Corporate BTC buying has dried up too",
+    "link": "https://www.coindesk.com/markets/2026/06/11/it-s-not-just-bitcoin-etfs-corporate-btc-buying-has-dried-up-too",
+    "published_date": "2026-06-11T06:29:26.559293"
   }
 ]
