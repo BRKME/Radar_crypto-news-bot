@@ -1,15 +1,5 @@
 [
   {
-    "title": "Humanity's $36 million exploit tied to compromised laptop hosting a 'multisig' wallet",
-    "link": "https://www.coindesk.com/tech/2026/06/09/humanity-s-usd36-million-exploit-happened-because-a-multisig-wallet-lived-on-one-laptop",
-    "published_date": "2026-06-09T14:13:15.599398"
-  },
-  {
-    "title": "BlackRock warns of energy shock as May CPI is set to show acceleration in inflation",
-    "link": "https://www.coindesk.com/markets/2026/06/09/blackrock-warns-of-energy-shock-as-may-cpi-is-set-to-show-acceleration-in-inflation",
-    "published_date": "2026-06-09T14:13:16.830930"
-  },
-  {
     "title": "Live updates: What next for bitcoin as it faces headwinds from Fed rates to Claude's Mythos",
     "link": "https://www.coindesk.com/markets/2026/06/10/live-updates-what-next-for-bitcoin-as-it-faces-headwinds-from-fed-rates-to-claude-s-mythos",
     "published_date": "2026-06-10T08:40:36.145264"
@@ -138,5 +128,10 @@
     "title": "Bitcoin rallies after Japan rate increase with XLM, INJ, UNI advancing",
     "link": "https://www.coindesk.com/markets/2026/06/16/bitcoin-rallies-after-japan-rate-increase-with-xlm-inj-uni-advancing",
     "published_date": "2026-06-16T13:08:39.898781"
+  },
+  {
+    "title": "Binance says its European regulatory application is compliant despite report of Greek rejection",
+    "link": "https://www.coindesk.com/policy/2026/06/16/binance-says-its-european-regulatory-application-is-fully-compliant-despite-report-of-greek-rejection",
+    "published_date": "2026-06-16T18:12:23.848961"
   }
 ]
