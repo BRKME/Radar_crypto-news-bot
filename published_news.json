@@ -1,10 +1,5 @@
 [
   {
-    "title": "SEC's big swing to clear tokenization path isn't likely to get resilience of full rule",
-    "link": "https://www.coindesk.com/news-analysis/2026/06/12/sec-s-big-swing-to-clear-tokenization-path-isn-t-likely-to-get-resilience-of-full-rule",
-    "published_date": "2026-06-14T14:40:19.637831"
-  },
-  {
     "title": "Bitcoin Giant Strategy Pads Cash Cushion for Second Straight Week, Buys BTC",
     "link": "https://decrypt.co/371176/bitcoin-giant-strategy-pads-cash-cushion-second-week-buys-btc",
     "published_date": "2026-06-15T18:18:59.042159"
@@ -88,5 +83,10 @@
     "title": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
     "link": "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit",
     "published_date": "2026-06-21T07:21:07.776520"
+  },
+  {
+    "title": "Taiko halts its Ethereum layer-2 network after a bridge exploit, token dives",
+    "link": "https://www.coindesk.com/tech/2026/06/22/taiko-halts-its-ethereum-layer-2-network-after-a-bridge-exploit-token-dives-10",
+    "published_date": "2026-06-22T11:26:19.475044"
   }
 ]
