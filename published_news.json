@@ -1,25 +1,5 @@
 [
   {
-    "title": "Crypto’s security nightmare won’t be solved by ordinary audits",
-    "link": "https://www.coindesk.com/opinion/2026/06/17/crypto-s-security-nightmare-won-t-be-solved-by-ordinary-audits",
-    "published_date": "2026-06-17T17:26:53.943259"
-  },
-  {
-    "title": "Fidelity joins Wall Street's race to manage stablecoin reserves",
-    "link": "https://www.coindesk.com/markets/2026/06/17/fidelity-joins-wall-street-s-race-to-manage-stablecoin-reserves",
-    "published_date": "2026-06-17T21:49:23.226438"
-  },
-  {
-    "title": "France to Phase Out Non-Quantum Encryption as Bitcoin Security Concerns Grow",
-    "link": "https://decrypt.co/371487/france-phase-out-non-quantum-encryption-bitcoin-security-concerns-grow",
-    "published_date": "2026-06-18T01:58:17.362761"
-  },
-  {
-    "title": "CME chief executive says company plans to sue CFTC after perpetual futures approval",
-    "link": "https://www.coindesk.com/policy/2026/06/17/cme-chief-executive-says-company-plans-to-sue-cftc-after-perpetual-futures-approval",
-    "published_date": "2026-06-18T06:47:40.817115"
-  },
-  {
     "title": "CME to Sue CFTC Over Bitcoin Perpetual Futures Approval: CEO",
     "link": "https://decrypt.co/371514/cme-to-sue-cftc-over-bitcoin-perpetual-futures-approval-ceo",
     "published_date": "2026-06-18T14:26:00.138743"
@@ -88,5 +68,10 @@
     "title": "SecondFi loses $2.4 million in Cardano wallet exploit",
     "link": "https://www.coindesk.com/business/2026/06/24/secondfi-loses-usd2-4-million-in-cardano-wallet-exploit-with-up-to-usd20-million-at-risk",
     "published_date": "2026-06-24T16:11:56.440900"
+  },
+  {
+    "title": "Ripple's RLUSD stablecoin goes live in Japan after regulatory approval",
+    "link": "https://www.coindesk.com/markets/2026/06/25/ripple-s-rlusd-stablecoin-goes-live-in-japan-after-regulatory-approval",
+    "published_date": "2026-06-25T07:30:20.125265"
   }
 ]
