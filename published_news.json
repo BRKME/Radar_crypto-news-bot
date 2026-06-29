@@ -1,20 +1,5 @@
 [
   {
-    "title": "Taiko halts its Ethereum layer-2 network after a bridge exploit, token dives",
-    "link": "https://www.coindesk.com/tech/2026/06/22/taiko-halts-its-ethereum-layer-2-network-after-a-bridge-exploit-token-dives-10",
-    "published_date": "2026-06-22T11:26:19.475044"
-  },
-  {
-    "title": "Bitcoin ETF outflow pain eases just as another headwind gathers strength",
-    "link": "https://www.coindesk.com/daybook-us/2026/06/22/bitcoin-etf-outflow-pain-eases-just-as-another-headwind-strengthens",
-    "published_date": "2026-06-22T16:07:32.231613"
-  },
-  {
-    "title": "Crypto's second U.S. lobbying front — tax policy — sees industry push on mining, staking",
-    "link": "https://www.coindesk.com/policy/2026/06/22/crypto-s-second-u-s-lobbying-front-tax-policy-sees-industry-push-on-mining-staking",
-    "published_date": "2026-06-22T16:07:33.526698"
-  },
-  {
     "title": "Securitize and tZERO clash over patents as race to bring Wall Street onchain heats up",
     "link": "https://www.coindesk.com/business/2026/06/22/securitize-and-tzero-clash-over-patents-as-race-to-bring-wall-street-onchain-heats-up",
     "published_date": "2026-06-22T21:52:43.041102"
@@ -98,5 +83,10 @@
     "title": "$4 billion gone. Spot bitcoin ETFs are on track for their worst month on record",
     "link": "https://www.coindesk.com/markets/2026/06/29/usd4-billion-gone-spot-bitcoin-etfs-are-on-track-for-their-worst-month-on-record",
     "published_date": "2026-06-29T07:17:19.691111"
+  },
+  {
+    "title": "BlackRock pushes deeper into DeFi with Ethena integration, sending ENA up 8%",
+    "link": "https://www.coindesk.com/business/2026/06/29/blackrock-pushes-deeper-into-defi-with-ethena-integration-sending-ena-up-8",
+    "published_date": "2026-06-29T16:14:23.118640"
   }
 ]
