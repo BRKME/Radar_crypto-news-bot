@@ -1,10 +1,5 @@
 [
   {
-    "title": "Live updates: Bitcoin drops to $62,000 as South Korea's Kospi crashes 10%",
-    "link": "https://www.coindesk.com/markets/2026/06/23/live-updates-an-altcoin-season-signal-flashed-but-bitcoin-s-slide-is-what-set-it-off",
-    "published_date": "2026-06-23T14:13:07.811956"
-  },
-  {
     "title": "Meta is developing a prediction market app called ‘Arena’ as sector booms: NYT",
     "link": "https://www.coindesk.com/markets/2026/06/23/meta-is-developing-a-prediction-market-app-called-arena-as-sector-booms-nyt",
     "published_date": "2026-06-23T18:58:21.851365"
@@ -98,5 +93,15 @@
     "title": "SEC wins $5.5 million default judgment over alleged fake crypto platform NanoBit",
     "link": "https://www.coindesk.com/policy/2026/06/30/sec-wins-usd5-5-million-default-judgment-over-alleged-fake-crypto-platform-nanobit",
     "published_date": "2026-06-30T10:04:29.204178"
+  },
+  {
+    "title": "Circle slides 13% as Stripe, Coinbase and BlackRock back rival stablecoin network",
+    "link": "https://www.coindesk.com/business/2026/06/30/circle-slides-8-as-stripe-coinbase-and-blackrock-back-rival-stablecoin-network",
+    "published_date": "2026-06-30T15:09:50.062528"
+  },
+  {
+    "title": "Tokenized securities need competition, not gatekeepers",
+    "link": "https://www.coindesk.com/opinion/2026/06/29/tokenized-securities-need-competition-not-gatekeepers",
+    "published_date": "2026-06-30T15:09:51.549816"
   }
 ]
