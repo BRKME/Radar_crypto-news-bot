@@ -1,10 +1,5 @@
 [
   {
-    "title": "SecondFi loses $2.4 million in Cardano wallet exploit",
-    "link": "https://www.coindesk.com/business/2026/06/24/secondfi-loses-usd2-4-million-in-cardano-wallet-exploit-with-up-to-usd20-million-at-risk",
-    "published_date": "2026-06-24T16:11:56.440900"
-  },
-  {
     "title": "Ripple's RLUSD stablecoin goes live in Japan after regulatory approval",
     "link": "https://www.coindesk.com/markets/2026/06/25/ripple-s-rlusd-stablecoin-goes-live-in-japan-after-regulatory-approval",
     "published_date": "2026-06-25T07:30:20.125265"
@@ -108,5 +103,10 @@
     "title": "Tokenized Google stock inflated 7,700% in rare DeFi lending exploit",
     "link": "https://www.coindesk.com/tech/2026/07/01/tokenized-google-stock-inflated-7-700-in-rare-defi-lending-exploit",
     "published_date": "2026-07-01T16:03:51.525441"
+  },
+  {
+    "title": "Ahead of NYSE Listing, Securitize Exec Says DeFi Can Break Wall Street's Grip on Stock Lending",
+    "link": "https://decrypt.co/372493/ahead-nyse-listing-securitize-defi-break-wall-street-stock-lending",
+    "published_date": "2026-07-01T18:19:42.231514"
   }
 ]
