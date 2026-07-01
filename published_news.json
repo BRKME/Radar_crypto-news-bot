@@ -1,15 +1,5 @@
 [
   {
-    "title": "Bitcoin drops toward $62,000 as the chip selloff deepens for a second day",
-    "link": "https://www.coindesk.com/markets/2026/06/24/bitcoin-drops-toward-usd62-000-as-the-chip-selloff-deepens-for-a-second-day",
-    "published_date": "2026-06-24T05:54:53.543330"
-  },
-  {
-    "title": "CryptoQuant says Michael Saylor's Strategy should halt its bitcoin buying",
-    "link": "https://www.coindesk.com/markets/2026/06/24/strategy-should-pause-its-bitcoin-buying-and-rebuild-cash-cryptoquant-says",
-    "published_date": "2026-06-24T08:48:04.482356"
-  },
-  {
     "title": "SecondFi loses $2.4 million in Cardano wallet exploit",
     "link": "https://www.coindesk.com/business/2026/06/24/secondfi-loses-usd2-4-million-in-cardano-wallet-exploit-with-up-to-usd20-million-at-risk",
     "published_date": "2026-06-24T16:11:56.440900"
@@ -103,5 +93,10 @@
     "title": "SEC giving novel ETFs a rethink as it opens comment period on overhauling U.S. rules",
     "link": "https://www.coindesk.com/policy/2026/06/30/sec-giving-novel-etfs-a-rethink-as-it-opens-comment-period-on-overhauling-u-s-rules",
     "published_date": "2026-06-30T19:12:35.193410"
+  },
+  {
+    "title": "Live markets: U.S. spot bitcoin ETFs had their worst month ever in June, shedding $4.5 billion",
+    "link": "https://www.coindesk.com/tech/2026/07/01/live-markets-u-s-spot-bitcoin-etfs-had-their-worst-month-ever-in-june-shedding-usd4-5-billion",
+    "published_date": "2026-07-01T10:35:03.249807"
   }
 ]
