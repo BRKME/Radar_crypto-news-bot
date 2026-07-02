@@ -1,10 +1,5 @@
 [
   {
-    "title": "Live markets: Bitcoin plunges under $59,000 as early bounce fades",
-    "link": "https://www.coindesk.com/tech/2026/06/25/live-markets-bitcoin-ether-lead-usd1-billion-liquidation-losses-as-ai-trade-keeps-going",
-    "published_date": "2026-06-25T15:34:34.999352"
-  },
-  {
     "title": "Polymarket to Refund Users After Scammers Swipe Millions in Website Exploit",
     "link": "https://decrypt.co/372129/polymarket-refund-users-scammers-swipe-millions-website-exploit",
     "published_date": "2026-06-25T21:19:12.827313"
@@ -98,5 +93,10 @@
     "title": "Ondo Finance debuts SEC-aligned tokenized stock model with BlackRock ETF, Micron shares",
     "link": "https://www.coindesk.com/business/2026/07/01/ondo-finance-debuts-sec-aligned-tokenized-stock-model-with-blackrock-etf-micron-shares",
     "published_date": "2026-07-02T15:01:28.814247"
+  },
+  {
+    "title": "Securitize tokenizes $295 million of its own stock on Solana and Avalanche amid NYSE debut",
+    "link": "https://www.coindesk.com/business/2026/07/02/securitize-tokenizes-usd295-million-of-its-own-stock-on-solana-and-avalanche-amid-nyse-debut",
+    "published_date": "2026-07-02T20:12:25.404660"
   }
 ]
