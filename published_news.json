@@ -1,15 +1,5 @@
 [
   {
-    "title": "Bitcoin analysts predict $300,000–$500,000 price in 2029. The math says no",
-    "link": "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no",
-    "published_date": "2026-07-11T04:33:05.868432"
-  },
-  {
-    "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
-    "link": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
-    "published_date": "2026-07-11T18:12:44.398113"
-  },
-  {
     "title": "Bitcoin is nearing a power law support line Fidelity has tracked since 2015",
     "link": "https://www.coindesk.com/markets/2026/07/12/bitcoin-is-nearing-a-power-law-support-line-fidelity-has-tracked-since-2015",
     "published_date": "2026-07-12T11:48:20.944189"
@@ -118,5 +108,10 @@
     "title": "Morning Minute: Citadel Securities Invests $400M in Crypto.com",
     "link": "https://decrypt.co/373699/morning-minute-citadel-securities-invests-400m-in-crypto-com",
     "published_date": "2026-07-17T14:08:49.301189"
+  },
+  {
+    "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
+    "link": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
+    "published_date": "2026-07-19T07:18:39.013160"
   }
 ]
