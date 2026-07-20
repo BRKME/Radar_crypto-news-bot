@@ -1,15 +1,5 @@
 [
   {
-    "title": "Live markets: Bitcoin slips below $63,000 as Korea's Kospi plunges 9% overnight",
-    "link": "https://www.coindesk.com/markets/2026/07/13/bitcoin-slips-below-usd63-000-in-an-asian-session-leverage-flush",
-    "published_date": "2026-07-13T16:00:59.581930"
-  },
-  {
-    "title": "Wall Street transfer agents lobby SEC, warning that third-party tokens pose risks to market integrity",
-    "link": "https://www.coindesk.com/policy/2026/07/13/wall-street-transfer-agents-lobby-sec-warning-that-third-party-tokens-pose-risks-to-market-integrity",
-    "published_date": "2026-07-13T16:01:00.963723"
-  },
-  {
     "title": "Bitcoin slips as traders lift July Fed rate hike bets ahead of Inflation report",
     "link": "https://www.coindesk.com/markets/2026/07/14/bitcoin-slips-as-traders-lift-july-fed-rate-hike-bets-ahead-of-inflation-report",
     "published_date": "2026-07-14T04:19:23.729732"
@@ -133,5 +123,10 @@
     "title": "Inside Cardano's 'Van Rossum' hard fork, and what it means for users",
     "link": "https://www.coindesk.com/markets/2026/07/20/inside-cardano-s-van-rossum-hard-fork-and-what-it-means-for-users",
     "published_date": "2026-07-20T15:05:32.604868"
+  },
+  {
+    "title": "Cardano Triggers Hard Fork With First Community-Voted Upgrade",
+    "link": "https://decrypt.co/373858/cardano-van-rossem-hard-fork-live-community-upgrade",
+    "published_date": "2026-07-20T20:14:12.869527"
   }
 ]
