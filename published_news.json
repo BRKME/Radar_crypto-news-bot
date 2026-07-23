@@ -1,25 +1,5 @@
 [
   {
-    "title": "Another DeFi Exploit: Perp DEX Ostium Loses $18 Million in Oracle Attack",
-    "link": "https://decrypt.co/373566/defi-exploit-ostium-oracle-hack",
-    "published_date": "2026-07-15T17:03:20.901781"
-  },
-  {
-    "title": "Bitcoin Giant Strategy Isn't Panicking—Unless BTC Crashes to $10K: CEO",
-    "link": "https://decrypt.co/373544/bitcoin-giant-strategy-isnt-panicking-unless-btc-crashes-to-10k-ceo",
-    "published_date": "2026-07-15T17:03:21.357876"
-  },
-  {
-    "title": "DTCC moves tokenized securities into live trading, marking a milestone for Wall Street's blockchain push",
-    "link": "https://www.coindesk.com/business/2026/07/15/dtcc-moves-tokenized-securities-into-live-trading-marking-a-milestone-for-wall-street-s-blockchain-push",
-    "published_date": "2026-07-15T17:03:22.372466"
-  },
-  {
-    "title": "Ether outruns bitcoin as ETF money returns, almost all of from BlackRock's fund",
-    "link": "https://www.coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund",
-    "published_date": "2026-07-16T06:41:11.419349"
-  },
-  {
     "title": "$1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF",
     "link": "https://www.coindesk.com/markets/2026/07/16/usd1-9-trillion-asset-manager-t-rowe-price-bets-on-active-management-with-first-multi-token-crypto-etf",
     "published_date": "2026-07-16T18:50:45.886763"
@@ -128,5 +108,10 @@
     "title": "SEC's Peirce warns some DeFi vaults, onchain lending may fall under securities laws",
     "link": "https://www.coindesk.com/policy/2026/07/22/sec-s-peirce-warns-some-defi-vaults-onchain-lending-may-fall-under-securities-laws",
     "published_date": "2026-07-22T16:53:18.444224"
+  },
+  {
+    "title": "Crypto catches its breath as bitcoin settles into a holding pattern amid July rally",
+    "link": "https://www.coindesk.com/markets/2026/07/23/crypto-catches-its-breath-as-bitcoin-settles-into-a-holding-pattern-after-its-best-month-since-january",
+    "published_date": "2026-07-23T11:43:16.807036"
   }
 ]
