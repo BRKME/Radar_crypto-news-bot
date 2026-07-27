@@ -1,25 +1,5 @@
 [
   {
-    "title": "Bitcoin's biggest advocate, Michael Saylor, says new plan to clean up the blockchain is 'a bad idea'",
-    "link": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-biggest-advocate-michael-saylor-says-new-plan-to-clean-up-the-blockchain-is-a-bad-idea",
-    "published_date": "2026-07-19T15:28:02.981053"
-  },
-  {
-    "title": "Bitcoin ETFs see new money again, but inflows remain ‘peanuts’ relative to the recent exodus",
-    "link": "https://www.coindesk.com/markets/2026/07/20/bitcoin-etfs-see-new-money-again-but-inflows-remain-peanuts-relative-to-the-recent-exodus",
-    "published_date": "2026-07-20T07:52:34.791194"
-  },
-  {
-    "title": "Cross-chain protocol Allbridge halts after $1.65 million flash loan exploit",
-    "link": "https://www.coindesk.com/business/2026/07/20/cross-chain-protocol-allbridge-halts-after-usd1-65-million-flash-loan-exploit",
-    "published_date": "2026-07-20T10:36:09.020088"
-  },
-  {
-    "title": "U.S. regulatory developments and earnings, ECB rate decision: Crypto Week Ahead",
-    "link": "https://www.coindesk.com/markets/2026/07/20/u-s-regulatory-developments-and-earnings-ecb-rate-decision-crypto-week-ahead",
-    "published_date": "2026-07-20T10:36:10.347568"
-  },
-  {
     "title": "Strategy's Michael Saylor Makes 110-Point Case Against Bitcoin's BIP-110",
     "link": "https://decrypt.co/373819/strategys-michael-saylor-makes-110-point-case-against-bitcoins-bip-110",
     "published_date": "2026-07-20T12:58:01.079799"
@@ -128,5 +108,20 @@
     "title": "Europe's high regulatory bar could spark new crypto industry M&A wave",
     "link": "https://www.coindesk.com/policy/2026/07/26/europe-s-high-regulatory-bar-could-spark-new-crypto-industry-m-and-a-wave",
     "published_date": "2026-07-26T11:10:58.514809"
+  },
+  {
+    "title": "Bitcoin ETFs post third straight weekly inflows despite $465 million in late-week losses",
+    "link": "https://www.coindesk.com/markets/2026/07/27/bitcoin-etfs-record-third-consecutive-weekly-inflows-despite-losses-of-usd465-million-to-end-week",
+    "published_date": "2026-07-27T11:46:22.426636"
+  },
+  {
+    "title": "Bitcoin ETFs Shed $465M Over Two Days, Led by BlackRock's IBIT",
+    "link": "https://decrypt.co/374354/bitcoin-etfs-shed-465m-over-two-days-led-by-blackrocks-ibit",
+    "published_date": "2026-07-27T11:46:22.857102"
+  },
+  {
+    "title": "Thailand's SEC Files Criminal Complaint Against Bitkub Over Undisclosed $47M Hack",
+    "link": "https://decrypt.co/374343/thailands-sec-files-criminal-complaint-against-bitkub-over-undisclosed-47m-hack",
+    "published_date": "2026-07-27T11:46:23.298211"
   }
 ]
