@@ -1,10 +1,5 @@
 [
   {
-    "title": "UK Lawmakers Launch Inquiry Into Crypto Banking Access",
-    "link": "https://decrypt.co/373910/uk-lawmakers-launch-inquiry-into-crypto-banking-access",
-    "published_date": "2026-07-21T09:56:01.841301"
-  },
-  {
     "title": "Worldcoin’s WLD Jumps 8% on Grayscale ETF Filing",
     "link": "https://decrypt.co/373913/worldcoins-wld-jumps-8-on-grayscale-etf-filing",
     "published_date": "2026-07-21T11:40:07.816351"
@@ -123,5 +118,10 @@
     "title": "Bitcoin slides 2% after U.S. close while Korea’s Kospi plunges 10%",
     "link": "https://www.coindesk.com/markets/2026/07/28/bitcoin-slides-2-after-u-s-close-while-korea-s-kospi-plunges-10",
     "published_date": "2026-07-28T07:28:02.495908"
+  },
+  {
+    "title": "Inside the CME and CFTC’s battle over onchain perpetual futures",
+    "link": "https://www.coindesk.com/policy/2026/07/28/inside-the-cme-and-cftc-s-battle-over-onchain-perpetual-futures",
+    "published_date": "2026-07-28T10:03:14.951170"
   }
 ]
