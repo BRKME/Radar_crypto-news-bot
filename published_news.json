@@ -1,15 +1,5 @@
 [
   {
-    "title": "Balance stablecoin collapses 99% after $1 million exploit drains its bitcoin vaults",
-    "link": "https://www.coindesk.com/tech/2026/07/22/balance-stablecoin-collapses-99-after-usd1-million-exploit-drains-its-bitcoin-vaults",
-    "published_date": "2026-07-22T09:54:05.582919"
-  },
-  {
-    "title": "SecondFi to shut down after $2.4 million ADA wallet theft",
-    "link": "https://www.coindesk.com/web3/2026/07/22/secondfi-to-shut-down-after-usd2-4-million-ada-wallet-theft",
-    "published_date": "2026-07-22T11:39:33.074319"
-  },
-  {
     "title": "SEC's Peirce warns some DeFi vaults, onchain lending may fall under securities laws",
     "link": "https://www.coindesk.com/policy/2026/07/22/sec-s-peirce-warns-some-defi-vaults-onchain-lending-may-fall-under-securities-laws",
     "published_date": "2026-07-22T16:53:18.444224"
@@ -128,5 +118,10 @@
     "title": "Citadel bets on a Fed rate hike Wednesday as bitcoin analysts call a hold. Someone will be wrong.",
     "link": "https://www.coindesk.com/markets/2026/07/29/citadel-bets-on-a-fed-rate-hike-wednesday-as-bitcoin-analysts-call-a-hold-someone-will-be-wrong",
     "published_date": "2026-07-29T07:34:29.916643"
+  },
+  {
+    "title": "Live updates: Bitcoin rises above $64,000 ahead of Fed rate decision",
+    "link": "https://www.coindesk.com/tech/2026/07/29/live-updates-bitcoin-clears-usd64-000-in-asia-hours-ahead-of-fed-decision",
+    "published_date": "2026-07-29T12:25:39.183932"
   }
 ]
