@@ -1,20 +1,5 @@
 [
   {
-    "title": "Bitcoin ETFs post third straight weekly inflows despite $465 million in late-week losses",
-    "link": "https://www.coindesk.com/markets/2026/07/27/bitcoin-etfs-record-third-consecutive-weekly-inflows-despite-losses-of-usd465-million-to-end-week",
-    "published_date": "2026-07-27T11:46:22.426636"
-  },
-  {
-    "title": "Bitcoin ETFs Shed $465M Over Two Days, Led by BlackRock's IBIT",
-    "link": "https://decrypt.co/374354/bitcoin-etfs-shed-465m-over-two-days-led-by-blackrocks-ibit",
-    "published_date": "2026-07-27T11:46:22.857102"
-  },
-  {
-    "title": "Thailand's SEC Files Criminal Complaint Against Bitkub Over Undisclosed $47M Hack",
-    "link": "https://decrypt.co/374343/thailands-sec-files-criminal-complaint-against-bitkub-over-undisclosed-47m-hack",
-    "published_date": "2026-07-27T11:46:23.298211"
-  },
-  {
     "title": "Thailand's SEC alleges Bitkub concealed cyberattack that led to $50 million hack",
     "link": "https://www.coindesk.com/policy/2026/07/27/thailand-s-sec-alleges-bitkub-concealed-cyberattack-that-led-to-usd50-million-hack",
     "published_date": "2026-07-27T14:03:25.973102"
@@ -163,5 +148,10 @@
     "title": "Robinhood wins UK crypto registration before new regulatory regime kicks off",
     "link": "https://www.coindesk.com/policy/2026/08/03/robinhood-wins-uk-crypto-registration-before-new-regulatory-regime-kicks-off",
     "published_date": "2026-08-03T11:10:37.085817"
+  },
+  {
+    "title": "BlackRock expands tokenized cash with new blockchain-based money market offerings",
+    "link": "https://www.coindesk.com/business/2026/08/03/blackrock-expands-tokenized-cash-with-new-blockchain-based-money-market-offerings",
+    "published_date": "2026-08-03T13:56:00.365098"
   }
 ]
