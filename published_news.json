@@ -1,15 +1,5 @@
 [
   {
-    "title": "Ethereum Price Stalls as Fed Rate Decision Looms",
-    "link": "https://decrypt.co/374653/ethereum-price-stalls-fed-rate-decision",
-    "published_date": "2026-07-29T17:43:34.121967"
-  },
-  {
-    "title": "Bitcoin ETFs on track for the smallest monthly inflows ever",
-    "link": "https://www.coindesk.com/daybook-us/2026/07/30/bitcoin-etfs-on-track-for-the-smallest-monthly-inflows-ever",
-    "published_date": "2026-07-30T11:25:24.078971"
-  },
-  {
     "title": "Ethereum enters its second decade after a year of upheaval at the foundation",
     "link": "https://www.coindesk.com/tech/2026/07/30/ethereum-enters-its-second-decade-after-a-year-of-upheaval-at-the-foundation",
     "published_date": "2026-07-30T15:07:06.191364"
@@ -163,5 +153,10 @@
     "title": "Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say",
     "link": "https://www.coindesk.com/tech/2026/08/05/coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say",
     "published_date": "2026-08-05T16:24:01.010789"
+  },
+  {
+    "title": "Bitcoin AI Security Audit Files 4,962 Findings Across 390 Projects",
+    "link": "https://decrypt.co/375029/bitcoin-ai-security-audit-files-4962-findings-across-390-projects",
+    "published_date": "2026-08-06T11:37:12.714038"
   }
 ]
