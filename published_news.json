@@ -1,10 +1,5 @@
 [
   {
-    "title": "Coldcard's $38 million (so far) exploit shakes faith in self-custody, may push investors to ETFs",
-    "link": "https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs",
-    "published_date": "2026-07-31T18:00:25.419576"
-  },
-  {
     "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
     "link": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
     "published_date": "2026-08-01T09:28:53.051368"
@@ -148,5 +143,10 @@
     "title": "Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze",
     "link": "https://www.coindesk.com/policy/2026/08/07/bybit-sues-north-korea-and-lazarus-group-over-usd1-5-billion-hack-secures-asset-freeze",
     "published_date": "2026-08-07T16:37:22.305513"
+  },
+  {
+    "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
+    "link": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
+    "published_date": "2026-08-08T08:04:13.214723"
   }
 ]
