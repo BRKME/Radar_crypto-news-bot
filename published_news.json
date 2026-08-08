@@ -1,20 +1,5 @@
 [
   {
-    "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
-    "link": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
-    "published_date": "2026-08-01T09:28:53.051368"
-  },
-  {
-    "title": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: 'Nothing Is 100%'",
-    "link": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit",
-    "published_date": "2026-08-01T16:42:55.533888"
-  },
-  {
-    "title": "SEC to review Nasdaq bitcoin options approval after CME challenge",
-    "link": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
-    "published_date": "2026-08-01T16:42:57.073828"
-  },
-  {
     "title": "Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges",
     "link": "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges",
     "published_date": "2026-08-02T12:48:30.657769"
@@ -148,5 +133,10 @@
     "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
     "link": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
     "published_date": "2026-08-08T08:04:13.214723"
+  },
+  {
+    "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
+    "link": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities",
+    "published_date": "2026-08-08T17:53:14.297327"
   }
 ]
