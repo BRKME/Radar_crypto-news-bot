@@ -1,10 +1,5 @@
 [
   {
-    "title": "Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges",
-    "link": "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges",
-    "published_date": "2026-08-02T12:48:30.657769"
-  },
-  {
     "title": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
     "link": "https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets",
     "published_date": "2026-08-02T17:48:28.692757"
@@ -138,5 +133,10 @@
     "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
     "link": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities",
     "published_date": "2026-08-08T17:53:14.297327"
+  },
+  {
+    "title": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
+    "link": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk",
+    "published_date": "2026-08-09T14:57:18.065037"
   }
 ]
