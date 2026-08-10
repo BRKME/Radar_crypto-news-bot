@@ -1,15 +1,5 @@
 [
   {
-    "title": "Bitcoin, ether decline as Coldcard exploit enters a fifth day",
-    "link": "https://www.coindesk.com/markets/2026/08/03/bitcoin-ether-decline-as-coldcard-exploit-enters-a-fifth-day",
-    "published_date": "2026-08-03T11:10:36.024966"
-  },
-  {
-    "title": "Robinhood wins UK crypto registration before new regulatory regime kicks off",
-    "link": "https://www.coindesk.com/policy/2026/08/03/robinhood-wins-uk-crypto-registration-before-new-regulatory-regime-kicks-off",
-    "published_date": "2026-08-03T11:10:37.085817"
-  },
-  {
     "title": "BlackRock expands tokenized cash with new blockchain-based money market offerings",
     "link": "https://www.coindesk.com/business/2026/08/03/blackrock-expands-tokenized-cash-with-new-blockchain-based-money-market-offerings",
     "published_date": "2026-08-03T13:56:00.365098"
@@ -133,5 +123,15 @@
     "title": "U.S. CPI inflation, Securitize, Gemini among earnings reports: Crypto Week Ahead",
     "link": "https://www.coindesk.com/markets/2026/08/10/u-s-cpi-inflation-securitize-gemini-among-earnings-reports-crypto-week-ahead",
     "published_date": "2026-08-10T09:53:08.769746"
+  },
+  {
+    "title": "Bitcoin ETFs Draw $854M Over Five Days as Rate-Hike Bets Fade",
+    "link": "https://decrypt.co/375192/bitcoin-etfs-draw-854m-over-five-days-as-rate-hike-bets-fade",
+    "published_date": "2026-08-10T12:36:44.335182"
+  },
+  {
+    "title": "Morning Minute: Bitcoin ETFs See Biggest Inflows Since May",
+    "link": "https://decrypt.co/375194/morning-minute-bitcoin-etfs-see-biggest-inflows-since-may",
+    "published_date": "2026-08-10T12:36:44.872414"
   }
 ]
