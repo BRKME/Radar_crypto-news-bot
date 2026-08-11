@@ -1,25 +1,5 @@
 [
   {
-    "title": "Apple's AI Slop Problem Left a $200K macOS Exploit Unreported",
-    "link": "https://decrypt.co/374900/apples-ai-slop-problem-left-a-200k-macos-exploit-unreported",
-    "published_date": "2026-08-04T14:55:17.833139"
-  },
-  {
-    "title": "Polymarket targets $20 billion valuation as competition heats up in prediction market sector",
-    "link": "https://www.coindesk.com/markets/2026/08/04/polymarket-targets-usd20-billion-valuation-as-competition-heats-up-in-prediction-markets",
-    "published_date": "2026-08-04T14:55:19.526117"
-  },
-  {
-    "title": "Hashdex to Shut Down Bitcoin ETF After Struggling to Gain Assets",
-    "link": "https://decrypt.co/374903/hashdex-shut-down-bitcoin-etf",
-    "published_date": "2026-08-04T16:44:15.769669"
-  },
-  {
-    "title": "Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him",
-    "link": "https://www.coindesk.com/policy/2026/08/04/clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investigate-him",
-    "published_date": "2026-08-04T16:44:16.939718"
-  },
-  {
     "title": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
     "link": "https://decrypt.co/374914/ledger-coldcard-exploit-bitcoin-wallet-security-ai",
     "published_date": "2026-08-04T21:43:27.888242"
@@ -123,5 +103,15 @@
     "title": "Morning Minute: Saylor's Strategy Sells Bitcoin for Second Week in a Row",
     "link": "https://decrypt.co/375304/morning-minute-saylors-strategy-sells-bitcoin-for-second-week-in-a-row",
     "published_date": "2026-08-11T12:34:08.155510"
+  },
+  {
+    "title": "Ravencoin Crashes 20% as Critical Exploit Threatens to Rollback Network",
+    "link": "https://decrypt.co/375330/ravencoin-crashes-critical-exploit-threatens-rollback",
+    "published_date": "2026-08-11T17:23:11.217679"
+  },
+  {
+    "title": "EToro reports second quarter crypto loss even as total profit beats estimates",
+    "link": "https://www.coindesk.com/business/2026/08/11/digital-broker-etoro-reports-q2-crypto-revenue-dropped-120-compared-to-2025",
+    "published_date": "2026-08-11T17:23:12.467435"
   }
 ]
