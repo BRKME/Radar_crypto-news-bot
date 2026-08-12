@@ -1,15 +1,5 @@
 [
   {
-    "title": "Galaxy Digital shares slip 5% after second-quarter results",
-    "link": "https://www.coindesk.com/business/2026/08/05/galaxy-digital-shares-slip-5-after-second-quarter-results",
-    "published_date": "2026-08-05T14:41:04.424321"
-  },
-  {
-    "title": "Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say",
-    "link": "https://www.coindesk.com/tech/2026/08/05/coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say",
-    "published_date": "2026-08-05T16:24:01.010789"
-  },
-  {
     "title": "Bitcoin AI Security Audit Files 4,962 Findings Across 390 Projects",
     "link": "https://decrypt.co/375029/bitcoin-ai-security-audit-files-4962-findings-across-390-projects",
     "published_date": "2026-08-06T11:37:12.714038"
@@ -118,5 +108,10 @@
     "title": "America doesn’t need a second-class payments system",
     "link": "https://www.coindesk.com/opinion/2026/08/12/america-doesn-t-need-a-second-class-payments-system",
     "published_date": "2026-08-12T14:09:28.345322"
+  },
+  {
+    "title": "Zoomsday: AI Used to Build Critical Zoom Exploit in One Day",
+    "link": "https://decrypt.co/375458/zoomsday-ai-zoom-exploit-one-day",
+    "published_date": "2026-08-12T18:12:06.592684"
   }
 ]
