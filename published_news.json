@@ -1,25 +1,5 @@
 [
   {
-    "title": "A case for a bitcoin surge to $76,000 may be building beneath the boring price action, but there's a caveat",
-    "link": "https://www.coindesk.com/markets/2026/08/07/a-case-for-a-bitcoin-surge-to-usd76-000-may-be-building-beneath-the-boring-price-action-but-there-s-a-caveat",
-    "published_date": "2026-08-07T05:25:25.816538"
-  },
-  {
-    "title": "Crypto market maker Wintermute lands SEC approval to trade equities and ETF blocks",
-    "link": "https://www.coindesk.com/business/2026/08/07/wintermute-gains-u-s-broker-dealer-status-in-wall-street-push",
-    "published_date": "2026-08-07T09:28:01.724066"
-  },
-  {
-    "title": "U.S. unexpectedly shed 23,000 jobs in July, putting Fed rate hikes in question",
-    "link": "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000",
-    "published_date": "2026-08-07T13:43:48.398233"
-  },
-  {
-    "title": "Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze",
-    "link": "https://www.coindesk.com/policy/2026/08/07/bybit-sues-north-korea-and-lazarus-group-over-usd1-5-billion-hack-secures-asset-freeze",
-    "published_date": "2026-08-07T16:37:22.305513"
-  },
-  {
     "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
     "link": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
     "published_date": "2026-08-08T08:04:13.214723"
@@ -133,5 +113,10 @@
     "title": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
     "link": "https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns",
     "published_date": "2026-08-14T00:03:02.504483"
+  },
+  {
+    "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
+    "link": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push",
+    "published_date": "2026-08-14T18:10:50.531426"
   }
 ]
