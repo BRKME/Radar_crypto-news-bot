@@ -1,10 +1,5 @@
 [
   {
-    "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
-    "link": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
-    "published_date": "2026-08-08T08:04:13.214723"
-  },
-  {
     "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
     "link": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities",
     "published_date": "2026-08-08T17:53:14.297327"
@@ -118,5 +113,10 @@
     "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
     "link": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push",
     "published_date": "2026-08-14T18:10:50.531426"
+  },
+  {
+    "title": "Paul Tudor Jones’ investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
+    "link": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling",
+    "published_date": "2026-08-15T15:40:32.880845"
   }
 ]
