@@ -1,15 +1,5 @@
 [
   {
-    "title": "Bitcoin ETFs Draw $854M Over Five Days as Rate-Hike Bets Fade",
-    "link": "https://decrypt.co/375192/bitcoin-etfs-draw-854m-over-five-days-as-rate-hike-bets-fade",
-    "published_date": "2026-08-10T12:36:44.335182"
-  },
-  {
-    "title": "Morning Minute: Bitcoin ETFs See Biggest Inflows Since May",
-    "link": "https://decrypt.co/375194/morning-minute-bitcoin-etfs-see-biggest-inflows-since-may",
-    "published_date": "2026-08-10T12:36:44.872414"
-  },
-  {
     "title": "Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans",
     "link": "https://www.coindesk.com/business/2026/08/10/grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans",
     "published_date": "2026-08-10T15:27:03.636633"
@@ -118,5 +108,10 @@
     "title": "Bitcoin's biggest holders, Strategy and Metaplanet, are betting on math, not price",
     "link": "https://www.coindesk.com/daybook-us/2026/08/17/bitcoin-s-biggest-holders-strategy-and-metaplanet-are-betting-on-math-not-price",
     "published_date": "2026-08-17T11:45:51.359860"
+  },
+  {
+    "title": "The Coldcard hack proves reputation is not a security model",
+    "link": "https://www.coindesk.com/opinion/2026/08/17/the-coldcard-hack-proves-reputation-is-not-a-security-model",
+    "published_date": "2026-08-17T14:18:59.477152"
   }
 ]
