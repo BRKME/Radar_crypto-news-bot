@@ -1,30 +1,5 @@
 [
   {
-    "title": "U.S. SEC sets meeting to propose Reg Crypto to support certain digital assets offerings",
-    "link": "https://www.coindesk.com/policy/2026/08/11/u-s-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offerings",
-    "published_date": "2026-08-11T04:10:14.543458"
-  },
-  {
-    "title": "BTCPay offers $190,000 bounty after bitcoin payment servers drained in exploit",
-    "link": "https://www.coindesk.com/markets/2026/08/11/btcpay-offers-usd190-000-bounty-after-bitcoin-payment-servers-drained-in-exploit",
-    "published_date": "2026-08-11T06:41:15.061771"
-  },
-  {
-    "title": "Morning Minute: Saylor's Strategy Sells Bitcoin for Second Week in a Row",
-    "link": "https://decrypt.co/375304/morning-minute-saylors-strategy-sells-bitcoin-for-second-week-in-a-row",
-    "published_date": "2026-08-11T12:34:08.155510"
-  },
-  {
-    "title": "Ravencoin Crashes 20% as Critical Exploit Threatens to Rollback Network",
-    "link": "https://decrypt.co/375330/ravencoin-crashes-critical-exploit-threatens-rollback",
-    "published_date": "2026-08-11T17:23:11.217679"
-  },
-  {
-    "title": "EToro reports second quarter crypto loss even as total profit beats estimates",
-    "link": "https://www.coindesk.com/business/2026/08/11/digital-broker-etoro-reports-q2-crypto-revenue-dropped-120-compared-to-2025",
-    "published_date": "2026-08-11T17:23:12.467435"
-  },
-  {
     "title": "BTCPay Backers Offer Bitcoin Bounty After Wallet Exploit",
     "link": "https://decrypt.co/375376/btcpay-bitcoin-bounty-critical-wallet-exploit",
     "published_date": "2026-08-11T21:21:18.504185"
@@ -113,5 +88,10 @@
     "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
     "link": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
     "published_date": "2026-08-17T22:45:28.748648"
+  },
+  {
+    "title": "U.S. SEC proposes first major crypto rule in surprise announcement",
+    "link": "https://www.coindesk.com/policy/2026/08/18/r",
+    "published_date": "2026-08-18T19:45:15.968423"
   }
 ]
