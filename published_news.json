@@ -1,10 +1,5 @@
 [
   {
-    "title": "Zoomsday: AI Used to Build Critical Zoom Exploit in One Day",
-    "link": "https://decrypt.co/375458/zoomsday-ai-zoom-exploit-one-day",
-    "published_date": "2026-08-12T18:12:06.592684"
-  },
-  {
     "title": "'Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit",
     "link": "https://decrypt.co/375501/inner-thoughts-every-major-ai-model-exposed-exploit",
     "published_date": "2026-08-12T21:11:03.983545"
@@ -88,5 +83,10 @@
     "title": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
     "link": "https://www.coindesk.com/markets/2026/08/19/bitcoin-surges-above-usd68-000-liquidating-usd1-4-billion-shorts-as-treasury-buybacks-boost-risk-appetite",
     "published_date": "2026-08-19T16:51:46.555061"
+  },
+  {
+    "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
+    "link": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
+    "published_date": "2026-08-19T18:58:16.427105"
   }
 ]
