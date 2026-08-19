@@ -1,15 +1,5 @@
 [
   {
-    "title": "BTCPay Backers Offer Bitcoin Bounty After Wallet Exploit",
-    "link": "https://decrypt.co/375376/btcpay-bitcoin-bounty-critical-wallet-exploit",
-    "published_date": "2026-08-11T21:21:18.504185"
-  },
-  {
-    "title": "CFTC orders Kalshi to continue offering prediction markets in New York after state lawsuit",
-    "link": "https://www.coindesk.com/policy/2026/08/11/cftc-orders-kalshi-to-continue-offering-prediction-markets-in-new-york-after-state-lawsuit",
-    "published_date": "2026-08-11T22:09:04.249393"
-  },
-  {
     "title": "Fidelity moves to add staking, quarterly payouts to near $900 million ether ETF",
     "link": "https://www.coindesk.com/business/2026/08/12/fidelity-moves-to-add-staking-quarterly-payouts-to-near-usd900-million-ether-etf",
     "published_date": "2026-08-12T09:35:12.222085"
@@ -93,5 +83,10 @@
     "title": "U.S. SEC proposes first major crypto rule in surprise announcement",
     "link": "https://www.coindesk.com/policy/2026/08/18/r",
     "published_date": "2026-08-18T19:45:15.968423"
+  },
+  {
+    "title": "Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million",
+    "link": "https://www.coindesk.com/markets/2026/08/19/maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-usd11-million",
+    "published_date": "2026-08-19T07:11:19.440666"
   }
 ]
