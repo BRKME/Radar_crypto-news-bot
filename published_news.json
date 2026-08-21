@@ -1,10 +1,5 @@
 [
   {
-    "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
-    "link": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push",
-    "published_date": "2026-08-14T18:10:50.531426"
-  },
-  {
     "title": "Paul Tudor Jones’ investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
     "link": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling",
     "published_date": "2026-08-15T15:40:32.880845"
@@ -113,5 +108,10 @@
     "title": "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies",
     "link": "https://decrypt.co/376230/strategy-profit-bitcoin-holdings-btc-rallies",
     "published_date": "2026-08-21T17:51:34.151563"
+  },
+  {
+    "title": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
+    "link": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit",
+    "published_date": "2026-08-21T21:43:41.011785"
   }
 ]
