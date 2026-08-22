@@ -1,10 +1,5 @@
 [
   {
-    "title": "Paul Tudor Jones’ investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
-    "link": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling",
-    "published_date": "2026-08-15T15:40:32.880845"
-  },
-  {
     "title": "The SEC meeting that wasn't: State of Crypto",
     "link": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
     "published_date": "2026-08-16T18:51:21.429544"
@@ -128,5 +123,10 @@
     "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
     "link": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
     "published_date": "2026-08-22T14:42:59.113672"
+  },
+  {
+    "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
+    "link": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
+    "published_date": "2026-08-22T17:41:16.793619"
   }
 ]
