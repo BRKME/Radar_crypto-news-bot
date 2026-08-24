@@ -1,10 +1,5 @@
 [
   {
-    "title": "The SEC meeting that wasn't: State of Crypto",
-    "link": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
-    "published_date": "2026-08-16T18:51:21.429544"
-  },
-  {
     "title": "Dutch Prosecutors Sell $2.5M of Crypto From Bankrupt Platform Knaken",
     "link": "https://decrypt.co/375757/dutch-prosecutors-sell-2-5m-of-crypto-from-bankrupt-platform-knaken",
     "published_date": "2026-08-17T10:52:22.802587"
@@ -128,5 +123,10 @@
     "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
     "link": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
     "published_date": "2026-08-22T17:41:16.793619"
+  },
+  {
+    "title": "Crypto roars back as bitcoin posts its second-best week since early 2021",
+    "link": "https://www.coindesk.com/markets/2026/08/24/crypto-roars-back-as-bitcoin-posts-its-second-best-week-since-early-2021",
+    "published_date": "2026-08-24T08:32:27.516313"
   }
 ]
