@@ -1,10 +1,5 @@
 [
   {
-    "title": "U.S. SEC proposes first major crypto rule in surprise announcement",
-    "link": "https://www.coindesk.com/policy/2026/08/18/r",
-    "published_date": "2026-08-18T19:45:15.968423"
-  },
-  {
     "title": "Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million",
     "link": "https://www.coindesk.com/markets/2026/08/19/maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-usd11-million",
     "published_date": "2026-08-19T07:11:19.440666"
@@ -138,5 +133,10 @@
     "title": "Chainalysis-run sting targets child exploitation networks with aid of Binance, Coinbase",
     "link": "https://www.coindesk.com/policy/2026/08/24/chainalysis-run-sting-targets-child-exploitation-networks-with-aid-of-binance-coinbase",
     "published_date": "2026-08-25T13:24:10.870646"
+  },
+  {
+    "title": "Zerohash back for second effort at OCC trust bank charter",
+    "link": "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter",
+    "published_date": "2026-08-25T21:48:56.864133"
   }
 ]
