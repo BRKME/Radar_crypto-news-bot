@@ -1,10 +1,5 @@
 [
   {
-    "title": "Crypto roars back as bitcoin posts its second-best week since early 2021",
-    "link": "https://www.coindesk.com/markets/2026/08/24/crypto-roars-back-as-bitcoin-posts-its-second-best-week-since-early-2021",
-    "published_date": "2026-08-24T08:32:27.516313"
-  },
-  {
     "title": "Fed experiment shows how bitcoin rallies attract new crypto buyers",
     "link": "https://www.coindesk.com/markets/2026/08/24/fed-experiment-shows-how-bitcoin-rallies-attract-new-crypto-buyers",
     "published_date": "2026-08-24T10:24:29.018099"
@@ -103,5 +98,20 @@
     "title": "Polygon Quietly Patched Security Flaws in Two Hard Forks Before Disclosing Them",
     "link": "https://decrypt.co/376911/polygon-quietly-patched-security-flaws",
     "published_date": "2026-08-30T23:57:40.132832"
+  },
+  {
+    "title": "Cronos halts blockchain after $75 million lending exploit hits lending app Tectonic",
+    "link": "https://www.coindesk.com/tech/2026/08/31/cronos-halts-blockchain-after-usd75-million-lending-exploit-hits-lending-app-tectonic",
+    "published_date": "2026-08-31T08:57:28.756982"
+  },
+  {
+    "title": "September Fed rate hike fears look overblown as the probability stands at just 58%, not 90%",
+    "link": "https://www.coindesk.com/markets/2026/08/31/september-fed-rate-hike-fears-appear-overblown-as-the-probability-is-just-58-not-90",
+    "published_date": "2026-08-31T08:57:29.855330"
+  },
+  {
+    "title": "Zcash private transactions could go from three-second waits to under 200 milliseconds",
+    "link": "https://www.coindesk.com/tech/2026/08/31/zcash-private-transactions-could-go-from-three-second-waits-to-under-200-milliseconds",
+    "published_date": "2026-08-31T08:57:32.555828"
   }
 ]
