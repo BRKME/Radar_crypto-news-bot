@@ -1,20 +1,5 @@
 [
   {
-    "title": "Fed experiment shows how bitcoin rallies attract new crypto buyers",
-    "link": "https://www.coindesk.com/markets/2026/08/24/fed-experiment-shows-how-bitcoin-rallies-attract-new-crypto-buyers",
-    "published_date": "2026-08-24T10:24:29.018099"
-  },
-  {
-    "title": "Bitcoin steadies near $78,000 as gold rallies, altcoins consolidate after best week in 3 years",
-    "link": "https://www.coindesk.com/markets/2026/08/24/bitcoin-steadies-near-usd78-000-as-gold-rallies-altcoins-consolidate-after-best-week-in-3-years",
-    "published_date": "2026-08-24T10:58:22.077249"
-  },
-  {
-    "title": "Live updates: Bitcoin moves closer to $80,000, but rally could need a breather",
-    "link": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
-    "published_date": "2026-08-24T16:00:16.050263"
-  },
-  {
     "title": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week—Only $2.6 Billion Was New Money",
     "link": "https://decrypt.co/376349/bitcoin-ethereum-etfs-23-billion-aum-inflows",
     "published_date": "2026-08-24T17:19:37.657737"
@@ -113,5 +98,15 @@
     "title": "Zcash private transactions could go from three-second waits to under 200 milliseconds",
     "link": "https://www.coindesk.com/tech/2026/08/31/zcash-private-transactions-could-go-from-three-second-waits-to-under-200-milliseconds",
     "published_date": "2026-08-31T08:57:32.555828"
+  },
+  {
+    "title": "Crypto.com's Cronos Halts Entire Blockchain After $75M Tectonic Exploit",
+    "link": "https://decrypt.co/376913/crypto-coms-cronos-halts-entire-blockchain-after-75m-tectonic-exploit",
+    "published_date": "2026-08-31T16:34:08.132255"
+  },
+  {
+    "title": "NYSE owner ICE taps tZERO for tokenized securities push, takes stake in firm",
+    "link": "https://www.coindesk.com/business/2026/08/31/nyse-owner-ice-taps-tzero-for-tokenized-securities-push-takes-stake-in-firm",
+    "published_date": "2026-08-31T16:34:09.849415"
   }
 ]
