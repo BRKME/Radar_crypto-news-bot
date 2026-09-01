@@ -1,15 +1,5 @@
 [
   {
-    "title": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week—Only $2.6 Billion Was New Money",
-    "link": "https://decrypt.co/376349/bitcoin-ethereum-etfs-23-billion-aum-inflows",
-    "published_date": "2026-08-24T17:19:37.657737"
-  },
-  {
-    "title": "Live updates: Bitcoin ETFs draw a seventh straight day of inflows as the rally holds above $80,000",
-    "link": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
-    "published_date": "2026-08-25T08:03:42.994686"
-  },
-  {
     "title": "Chainalysis-run sting targets child exploitation networks with aid of Binance, Coinbase",
     "link": "https://www.coindesk.com/policy/2026/08/24/chainalysis-run-sting-targets-child-exploitation-networks-with-aid-of-binance-coinbase",
     "published_date": "2026-08-25T13:24:10.870646"
@@ -108,5 +98,10 @@
     "title": "NYSE owner ICE taps tZERO for tokenized securities push, takes stake in firm",
     "link": "https://www.coindesk.com/business/2026/08/31/nyse-owner-ice-taps-tzero-for-tokenized-securities-push-takes-stake-in-firm",
     "published_date": "2026-08-31T16:34:09.849415"
+  },
+  {
+    "title": "Bitcoin consolidates near $78,000 as Arbitrum surges 30% on Robinhood Chain revenue",
+    "link": "https://www.coindesk.com/markets/2026/09/01/bitcoin-consolidates-near-usd78-000-as-arbitrum-surges-30-on-robinhood-chain-revenue",
+    "published_date": "2026-09-01T10:35:10.789822"
   }
 ]
