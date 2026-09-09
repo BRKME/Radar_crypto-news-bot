@@ -1,15 +1,5 @@
 [
   {
-    "title": "Cathie Wood’s Ark Invest Buys $37 Million in Bitcoin and Payments Firm Block",
-    "link": "https://decrypt.co/377046/cathie-wood-ark-invest-buys-more-block",
-    "published_date": "2026-09-01T18:39:12.324407"
-  },
-  {
-    "title": "SEC proposes transfer agent rule, sets event to figure out round-the-clock U.S. trading",
-    "link": "https://www.coindesk.com/policy/2026/09/01/sec-proposes-transfer-agent-rule-sets-event-to-figure-out-round-the-clock-u-s-trading",
-    "published_date": "2026-09-02T01:09:35.765734"
-  },
-  {
     "title": "Live updates: BlackRock's IBIT drives $236 million bitcoin ETF outflow",
     "link": "https://www.coindesk.com/business/2026/09/02/live-updates-blackrock-s-ibit-drives-usd236-million-bitcoin-etf-outflow",
     "published_date": "2026-09-02T10:27:48.966389"
@@ -93,5 +83,10 @@
     "title": "Cronos Erased Two Hours of Transactions to Reverse $111 Million DeFi Exploit",
     "link": "https://decrypt.co/377686/cronos-erased-two-hours-transactions-defi-exploit",
     "published_date": "2026-09-08T17:38:20.592267"
+  },
+  {
+    "title": "Live updates: Brent crude hits $100 for first time since July as bitcoin holds above $79,000",
+    "link": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
+    "published_date": "2026-09-09T09:55:25.885811"
   }
 ]
