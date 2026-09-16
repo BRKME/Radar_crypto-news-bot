@@ -1,20 +1,5 @@
 [
   {
-    "title": "Bitcoin ETFs are still $1 billion shy of breaking even in 2026",
-    "link": "https://www.coindesk.com/daybook-us/2026/09/08/bitcoin-etfs-are-still-usd1-billion-shy-of-breaking-even-in-2026",
-    "published_date": "2026-09-08T13:56:08.711300"
-  },
-  {
-    "title": "Cronos Erased Two Hours of Transactions to Reverse $111 Million DeFi Exploit",
-    "link": "https://decrypt.co/377686/cronos-erased-two-hours-transactions-defi-exploit",
-    "published_date": "2026-09-08T17:38:20.592267"
-  },
-  {
-    "title": "Live updates: Brent crude hits $100 for first time since July as bitcoin holds above $79,000",
-    "link": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
-    "published_date": "2026-09-09T09:55:25.885811"
-  },
-  {
     "title": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
     "link": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi",
     "published_date": "2026-09-09T17:32:13.266855"
@@ -73,5 +58,20 @@
     "title": "SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it",
     "link": "https://www.coindesk.com/policy/2026/09/14/sec-s-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-without-it",
     "published_date": "2026-09-15T00:42:48.704162"
+  },
+  {
+    "title": "Bitcoin ETFs shed $450 million as Clarity Act fails",
+    "link": "https://www.coindesk.com/markets/2026/09/16/bitcoin-etfs-shed-usd450-million-as-clarity-act-fails",
+    "published_date": "2026-09-16T15:03:02.176847"
+  },
+  {
+    "title": "Live updates: Bitcoin holds near $76,000 as traders brace for first Fed rate hike in three years",
+    "link": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
+    "published_date": "2026-09-16T15:03:02.827697"
+  },
+  {
+    "title": "Bitcoin Core 32 enters final testing with faster validation, fee changes and security fixes",
+    "link": "https://www.coindesk.com/tech/2026/09/16/bitcoin-core-32-enters-final-testing-with-faster-validation-fee-changes-and-security-fixes",
+    "published_date": "2026-09-16T15:03:04.172849"
   }
 ]
