@@ -1,20 +1,5 @@
 [
   {
-    "title": "Bitcoin ETFs shed $450 million as Clarity Act fails",
-    "link": "https://www.coindesk.com/markets/2026/09/16/bitcoin-etfs-shed-usd450-million-as-clarity-act-fails",
-    "published_date": "2026-09-16T15:03:02.176847"
-  },
-  {
-    "title": "Live updates: Bitcoin holds near $76,000 as traders brace for first Fed rate hike in three years",
-    "link": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
-    "published_date": "2026-09-16T15:03:02.827697"
-  },
-  {
-    "title": "Bitcoin Core 32 enters final testing with faster validation, fee changes and security fixes",
-    "link": "https://www.coindesk.com/tech/2026/09/16/bitcoin-core-32-enters-final-testing-with-faster-validation-fee-changes-and-security-fixes",
-    "published_date": "2026-09-16T15:03:04.172849"
-  },
-  {
     "title": "Fed raises rates by 25 basis points in first hike since July 2023",
     "link": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
     "published_date": "2026-09-16T18:56:47.707289"
@@ -153,5 +138,10 @@
     "title": "AI agents will soon buy their own computing power and data using stablecoins, according to BlackRock",
     "link": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
     "published_date": "2026-09-23T10:08:02.929265"
+  },
+  {
+    "title": "MoonPay to acquire SEC-registered North Capital in $60 million all-stock deal",
+    "link": "https://www.coindesk.com/business/2026/09/23/moonpay-to-acquire-sec-registered-north-capital-in-usd60-million-all-stock-deal",
+    "published_date": "2026-09-23T15:06:12.888396"
   }
 ]
