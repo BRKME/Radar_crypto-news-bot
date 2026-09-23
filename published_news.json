@@ -1,20 +1,5 @@
 [
   {
-    "title": "Fed raises rates by 25 basis points in first hike since July 2023",
-    "link": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
-    "published_date": "2026-09-16T18:56:47.707289"
-  },
-  {
-    "title": "Bitcoin Core Software Update Aims for Speed and Security Patches",
-    "link": "https://decrypt.co/378430/bitcoin-core-software-october-update",
-    "published_date": "2026-09-16T18:56:48.247088"
-  },
-  {
-    "title": "Bitcoin ETFs Had Their Worst Day Since June Following Failed Clarity Act Vote",
-    "link": "https://decrypt.co/378382/bitcoin-etfs-clarity-act-vote",
-    "published_date": "2026-09-16T18:56:48.764635"
-  },
-  {
     "title": "Bitcoin faces 2022 parallels as Federal Reserve resumes rate increases",
     "link": "https://www.coindesk.com/markets/2026/09/17/bitcoin-faces-2022-parallels-as-federal-reserve-resumes-rate-hikes",
     "published_date": "2026-09-17T12:39:07.909002"
@@ -143,5 +128,10 @@
     "title": "MoonPay to acquire SEC-registered North Capital in $60 million all-stock deal",
     "link": "https://www.coindesk.com/business/2026/09/23/moonpay-to-acquire-sec-registered-north-capital-in-usd60-million-all-stock-deal",
     "published_date": "2026-09-23T15:06:12.888396"
+  },
+  {
+    "title": "Kalshi says it is not being investigated by the CFTC over trading activity",
+    "link": "https://www.coindesk.com/markets/2026/09/23/kalshi-says-it-is-not-being-investigated-by-the-cftc-over-trading-activity",
+    "published_date": "2026-09-23T19:07:02.112150"
   }
 ]
