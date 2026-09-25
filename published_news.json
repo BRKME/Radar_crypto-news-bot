@@ -1,15 +1,5 @@
 [
   {
-    "title": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
-    "link": "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross",
-    "published_date": "2026-09-18T17:19:33.603668"
-  },
-  {
-    "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
-    "link": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
-    "published_date": "2026-09-18T17:19:35.103433"
-  },
-  {
     "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
     "link": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
     "published_date": "2026-09-19T14:52:39.950962"
@@ -133,5 +123,10 @@
     "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
     "link": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
     "published_date": "2026-09-25T15:35:31.971748"
+  },
+  {
+    "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
+    "link": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit",
+    "published_date": "2026-09-25T19:35:58.514738"
   }
 ]
