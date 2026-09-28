@@ -1,20 +1,5 @@
 [
   {
-    "title": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
-    "link": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
-    "published_date": "2026-09-20T12:30:20.210644"
-  },
-  {
-    "title": "Treasury Secretary Scott Bessent champions dollar dominance across global markets and stablecoins",
-    "link": "https://www.coindesk.com/markets/2026/09/21/scott-bessent-champions-dollar-dominance-across-global-markets-and-stablecoins",
-    "published_date": "2026-09-21T14:22:13.879035"
-  },
-  {
-    "title": "Crypto enjoys bullish bounce post-Fed rate hike: Crypto Week Ahead",
-    "link": "https://www.coindesk.com/markets/2026/09/21/crypto-week-ahead",
-    "published_date": "2026-09-21T14:22:15.417030"
-  },
-  {
     "title": "Binance Takes $100M Stake in Circle Under Five-Year USDC Promotion Deal",
     "link": "https://decrypt.co/378910/binance-takes-100m-stake-in-circle-under-five-year-usdc-promotion-deal",
     "published_date": "2026-09-22T11:52:43.690398"
@@ -143,5 +128,10 @@
     "title": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
     "link": "https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green",
     "published_date": "2026-09-26T18:06:17.226247"
+  },
+  {
+    "title": "Chainlink launches new version of its crypto bridge tech 'CCIP' to give apps more control over their security",
+    "link": "https://www.coindesk.com/business/2026/09/28/chainlink-updates-its-crypto-bridge-tech-months-after-a-usd292-million-hack-shook-the-industry",
+    "published_date": "2026-09-28T19:43:50.633041"
   }
 ]
