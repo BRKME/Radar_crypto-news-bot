@@ -1,20 +1,5 @@
 [
   {
-    "title": "White-Hat Hackers Route Coldcard Exploit Bitcoin Into 'Recovery Trust'",
-    "link": "https://decrypt.co/378978/white-hat-hackers-coldcard-exploit-bitcoin-recovery-trust",
-    "published_date": "2026-09-22T22:19:42.793396"
-  },
-  {
-    "title": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
-    "link": "https://www.coindesk.com/tech/2026/09/23/solana-starts-testing-upgrade-that-could-cut-finality-from-12-8-seconds-to-150-milliseconds",
-    "published_date": "2026-09-23T05:18:32.915496"
-  },
-  {
-    "title": "AI agents will soon buy their own computing power and data using stablecoins, according to BlackRock",
-    "link": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
-    "published_date": "2026-09-23T10:08:02.929265"
-  },
-  {
     "title": "MoonPay to acquire SEC-registered North Capital in $60 million all-stock deal",
     "link": "https://www.coindesk.com/business/2026/09/23/moonpay-to-acquire-sec-registered-north-capital-in-usd60-million-all-stock-deal",
     "published_date": "2026-09-23T15:06:12.888396"
@@ -118,5 +103,15 @@
     "title": "Crypto ETFs Surge as Bitcoin Funds Add $2.95 Billion in 30 Days",
     "link": "https://decrypt.co/379575/crypto-etfs-surge-bitcoin-adds-nearly-3-billion",
     "published_date": "2026-09-29T21:06:10.946715"
+  },
+  {
+    "title": "The SEC Is finally modernizing transfer-agent rules. Wall Street must not repeat the ‘paperwork crisis’",
+    "link": "https://www.coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis",
+    "published_date": "2026-09-30T12:48:33.626687"
+  },
+  {
+    "title": "Winklevoss-owned Gemini switches Zcash software ahead of faster 25-second blocks",
+    "link": "https://www.coindesk.com/tech/2026/09/30/winklevoss-owned-gemini-switches-zcash-software-ahead-of-faster-25-second-blocks",
+    "published_date": "2026-09-30T12:48:35.187187"
   }
 ]
