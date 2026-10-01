@@ -1,15 +1,5 @@
 [
   {
-    "title": "Black Monday’s stock-market warning signal came from the bond market, and it’s back, says Wall Street veteran",
-    "link": "https://www.marketwatch.com/story/black-mondays-stock-market-warning-signal-came-from-the-bond-market-and-its-back-says-wall-street-veteran-52f12e39?mod=mw_rss_topstories",
-    "published_date": "2026-09-24T10:34:24.830753"
-  },
-  {
-    "title": "Traders price in 4 Fed rate hikes by June 2027 as bitcoin slides below $83,000",
-    "link": "https://www.coindesk.com/markets/2026/09/24/traders-are-pricing-in-4-fed-rate-hikes-as-bitcoin-slides-below-usd83-000",
-    "published_date": "2026-09-24T10:34:26.085930"
-  },
-  {
     "title": "Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes",
     "link": "https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes",
     "published_date": "2026-09-24T15:31:34.599411"
@@ -128,5 +118,10 @@
     "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
     "link": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
     "published_date": "2026-10-01T07:16:55.957065"
+  },
+  {
+    "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
+    "link": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
+    "published_date": "2026-10-01T14:36:11.276700"
   }
 ]
