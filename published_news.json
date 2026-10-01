@@ -1,10 +1,5 @@
 [
   {
-    "title": "Kalshi says it is not being investigated by the CFTC over trading activity",
-    "link": "https://www.coindesk.com/markets/2026/09/23/kalshi-says-it-is-not-being-investigated-by-the-cftc-over-trading-activity",
-    "published_date": "2026-09-23T19:07:02.112150"
-  },
-  {
     "title": "Black Monday’s stock-market warning signal came from the bond market, and it’s back, says Wall Street veteran",
     "link": "https://www.marketwatch.com/story/black-mondays-stock-market-warning-signal-came-from-the-bond-market-and-its-back-says-wall-street-veteran-52f12e39?mod=mw_rss_topstories",
     "published_date": "2026-09-24T10:34:24.830753"
@@ -123,5 +118,15 @@
     "title": "Clock's ticking: UK's crypto regulatory application window opens with February deadline",
     "link": "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
     "published_date": "2026-09-30T18:09:57.328983"
+  },
+  {
+    "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
+    "link": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
+    "published_date": "2026-10-01T07:16:54.559937"
+  },
+  {
+    "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
+    "link": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
+    "published_date": "2026-10-01T07:16:55.957065"
   }
 ]
