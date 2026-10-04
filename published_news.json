@@ -1,25 +1,5 @@
 [
   {
-    "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
-    "link": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
-    "published_date": "2026-09-25T22:51:28.338390"
-  },
-  {
-    "title": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
-    "link": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
-    "published_date": "2026-09-25T22:51:28.969704"
-  },
-  {
-    "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
-    "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
-    "published_date": "2026-09-26T05:48:27.281557"
-  },
-  {
-    "title": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
-    "link": "https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green",
-    "published_date": "2026-09-26T18:06:17.226247"
-  },
-  {
     "title": "Chainlink launches new version of its crypto bridge tech 'CCIP' to give apps more control over their security",
     "link": "https://www.coindesk.com/business/2026/09/28/chainlink-updates-its-crypto-bridge-tech-months-after-a-usd292-million-hack-shook-the-industry",
     "published_date": "2026-09-28T19:43:50.633041"
@@ -93,5 +73,10 @@
     "title": "Trump’s potential AI czar, Jay Clayton, helped pioneer the SEC’s crypto crackdown",
     "link": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
     "published_date": "2026-10-02T20:11:28.966360"
+  },
+  {
+    "title": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
+    "link": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
+    "published_date": "2026-10-04T18:15:27.028573"
   }
 ]
