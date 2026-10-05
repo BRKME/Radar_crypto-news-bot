@@ -1,10 +1,5 @@
 [
   {
-    "title": "Chainlink launches new version of its crypto bridge tech 'CCIP' to give apps more control over their security",
-    "link": "https://www.coindesk.com/business/2026/09/28/chainlink-updates-its-crypto-bridge-tech-months-after-a-usd292-million-hack-shook-the-industry",
-    "published_date": "2026-09-28T19:43:50.633041"
-  },
-  {
     "title": "Live updates: Bitcoin turns lower as rates rise, consumer confidence plunges",
     "link": "https://www.coindesk.com/markets/2026/09/29/live-updates-bitcoin-rebounds-above-usd84-000-as-treasury-yields-steady",
     "published_date": "2026-09-29T16:39:27.714985"
@@ -88,5 +83,15 @@
     "title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
     "link": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
     "published_date": "2026-10-05T12:59:27.034877"
+  },
+  {
+    "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
+    "link": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
+    "published_date": "2026-10-05T20:57:28.998431"
+  },
+  {
+    "title": "U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers",
+    "link": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
+    "published_date": "2026-10-05T20:57:30.472187"
   }
 ]
