@@ -1,10 +1,5 @@
 [
   {
-    "title": "Live updates: Bitcoin turns lower as rates rise, consumer confidence plunges",
-    "link": "https://www.coindesk.com/markets/2026/09/29/live-updates-bitcoin-rebounds-above-usd84-000-as-treasury-yields-steady",
-    "published_date": "2026-09-29T16:39:27.714985"
-  },
-  {
     "title": "Crypto ETFs Surge as Bitcoin Funds Add $2.95 Billion in 30 Days",
     "link": "https://decrypt.co/379575/crypto-etfs-surge-bitcoin-adds-nearly-3-billion",
     "published_date": "2026-09-29T21:06:10.946715"
@@ -98,5 +93,10 @@
     "title": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
     "link": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
     "published_date": "2026-10-06T08:12:33.151419"
+  },
+  {
+    "title": "Live updates: Bitcoin remains locked in range as stocks notch another new record high",
+    "link": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
+    "published_date": "2026-10-06T20:24:45.769326"
   }
 ]
