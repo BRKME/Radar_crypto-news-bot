@@ -1,20 +1,5 @@
 [
   {
-    "title": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
-    "link": "https://decrypt.co/379731/bitcoin-etf-9-day-streak-august-rally",
-    "published_date": "2026-09-30T18:09:55.223007"
-  },
-  {
-    "title": "U.S. CFTC  seeks event contract definitions that may defy states' gambling claims",
-    "link": "https://www.coindesk.com/policy/2026/09/30/u-s-cftc-seeks-event-contract-definitions-that-may-defy-states-gambling-claims",
-    "published_date": "2026-09-30T18:09:56.094507"
-  },
-  {
-    "title": "Clock's ticking: UK's crypto regulatory application window opens with February deadline",
-    "link": "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
-    "published_date": "2026-09-30T18:09:57.328983"
-  },
-  {
     "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
     "link": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
     "published_date": "2026-10-01T07:16:54.559937"
@@ -98,5 +83,10 @@
     "title": "Prosecutors Cite Bitcoin Fog Ruling Against Roman Storm's Venue Challenge",
     "link": "https://decrypt.co/380260/prosecutors-cite-bitcoin-fog-ruling-against-roman-storms-venue-challenge",
     "published_date": "2026-10-07T16:41:39.356721"
+  },
+  {
+    "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts",
+    "link": "https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
+    "published_date": "2026-10-08T01:22:26.109214"
   }
 ]
