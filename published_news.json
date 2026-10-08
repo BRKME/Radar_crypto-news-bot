@@ -1,20 +1,5 @@
 [
   {
-    "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
-    "link": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
-    "published_date": "2026-10-01T07:16:54.559937"
-  },
-  {
-    "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
-    "link": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
-    "published_date": "2026-10-01T07:16:55.957065"
-  },
-  {
-    "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
-    "link": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
-    "published_date": "2026-10-01T14:36:11.276700"
-  },
-  {
     "title": "SEC proposes new crypto custody rules for investment advisers and funds",
     "link": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
     "published_date": "2026-10-01T23:31:03.500361"
@@ -88,5 +73,15 @@
     "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts",
     "link": "https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
     "published_date": "2026-10-08T01:22:26.109214"
+  },
+  {
+    "title": "Bitcoin ETF investors head for the exit, and it's the biggest rush in months",
+    "link": "https://www.coindesk.com/daybook-us/2026/10/08/bitcoin-etf-investors-head-for-the-exit-and-it-s-the-biggest-rush-in-months",
+    "published_date": "2026-10-08T14:58:57.746386"
+  },
+  {
+    "title": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
+    "link": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
+    "published_date": "2026-10-08T14:58:58.625404"
   }
 ]
