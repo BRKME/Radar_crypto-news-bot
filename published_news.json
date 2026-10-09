@@ -1,10 +1,5 @@
 [
   {
-    "title": "SEC proposes new crypto custody rules for investment advisers and funds",
-    "link": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
-    "published_date": "2026-10-01T23:31:03.500361"
-  },
-  {
     "title": "U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2%",
     "link": "https://www.coindesk.com/markets/2026/10/02/u-s-added-just-29-000-jobs-in-september-with-unemployment-rate-rising-to-4-2",
     "published_date": "2026-10-02T15:53:24.821242"
@@ -93,5 +88,10 @@
     "title": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
     "link": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
     "published_date": "2026-10-08T20:28:20.423185"
+  },
+  {
+    "title": "Solana is about to halve its block times as final 200-millisecond upgrade nears",
+    "link": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
+    "published_date": "2026-10-09T06:51:05.750966"
   }
 ]
