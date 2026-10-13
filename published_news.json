@@ -1,10 +1,5 @@
 [
   {
-    "title": "Live updates: Bitcoin remains locked in range as stocks notch another new record high",
-    "link": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
-    "published_date": "2026-10-06T20:24:45.769326"
-  },
-  {
     "title": "Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week",
     "link": "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
     "published_date": "2026-10-07T09:24:56.180143"
@@ -68,5 +63,10 @@
     "title": "Russia’s largest bank Sberbank secures approval to trade crypto",
     "link": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
     "published_date": "2026-10-13T15:33:17.905855"
+  },
+  {
+    "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+    "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+    "published_date": "2026-10-13T23:59:37.622364"
   }
 ]
