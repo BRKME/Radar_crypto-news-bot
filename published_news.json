@@ -1,35 +1,5 @@
 [
   {
-    "title": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
-    "link": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
-    "published_date": "2026-10-04T18:15:27.028573"
-  },
-  {
-    "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
-    "link": "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
-    "published_date": "2026-10-05T05:56:27.821194"
-  },
-  {
-    "title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
-    "link": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
-    "published_date": "2026-10-05T12:59:27.034877"
-  },
-  {
-    "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
-    "link": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
-    "published_date": "2026-10-05T20:57:28.998431"
-  },
-  {
-    "title": "U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers",
-    "link": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
-    "published_date": "2026-10-05T20:57:30.472187"
-  },
-  {
-    "title": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
-    "link": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
-    "published_date": "2026-10-06T08:12:33.151419"
-  },
-  {
     "title": "Live updates: Bitcoin remains locked in range as stocks notch another new record high",
     "link": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
     "published_date": "2026-10-06T20:24:45.769326"
@@ -93,5 +63,10 @@
     "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
     "link": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
     "published_date": "2026-10-09T23:20:39.288800"
+  },
+  {
+    "title": "Russia’s largest bank Sberbank secures approval to trade crypto",
+    "link": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
+    "published_date": "2026-10-13T15:33:17.905855"
   }
 ]
