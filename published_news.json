@@ -1,10 +1,5 @@
 [
   {
-    "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
-    "link": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
-    "published_date": "2026-10-09T19:05:31.843193"
-  },
-  {
     "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
     "link": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
     "published_date": "2026-10-09T23:20:39.288800"
@@ -63,5 +58,10 @@
     "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
     "link": "https://decrypt.co/381149/cftc-wants-drop-gemini-5m-settlement-judge-said-no",
     "published_date": "2026-10-16T18:12:16.018376"
+  },
+  {
+    "title": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
+    "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
+    "published_date": "2026-10-16T21:25:09.116563"
   }
 ]
