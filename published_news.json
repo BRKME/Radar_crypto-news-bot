@@ -1,10 +1,5 @@
 [
   {
-    "title": "Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round",
-    "link": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
-    "published_date": "2026-10-09T13:53:53.810869"
-  },
-  {
     "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
     "link": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
     "published_date": "2026-10-09T19:05:31.843193"
@@ -58,5 +53,10 @@
     "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
     "link": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
     "published_date": "2026-10-16T09:57:22.508932"
+  },
+  {
+    "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
+    "link": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
+    "published_date": "2026-10-16T14:25:45.732090"
   }
 ]
