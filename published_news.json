@@ -1,15 +1,5 @@
 [
   {
-    "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
-    "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
-    "published_date": "2026-10-13T23:59:37.622364"
-  },
-  {
-    "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
-    "link": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
-    "published_date": "2026-10-14T03:35:04.213649"
-  },
-  {
     "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
     "link": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
     "published_date": "2026-10-14T09:03:46.553521"
@@ -113,5 +103,10 @@
     "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
     "link": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
     "published_date": "2026-10-20T21:44:24.706093"
+  },
+  {
+    "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
+    "link": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
+    "published_date": "2026-10-21T05:02:28.768707"
   }
 ]
