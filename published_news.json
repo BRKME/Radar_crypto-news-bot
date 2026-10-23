@@ -1,10 +1,5 @@
 [
   {
-    "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
-    "link": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
-    "published_date": "2026-10-16T09:57:22.508932"
-  },
-  {
     "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
     "link": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
     "published_date": "2026-10-16T14:25:45.732090"
@@ -113,5 +108,10 @@
     "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
     "link": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
     "published_date": "2026-10-23T07:44:03.711630"
+  },
+  {
+    "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
+    "link": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
+    "published_date": "2026-10-23T12:53:20.798383"
   }
 ]
