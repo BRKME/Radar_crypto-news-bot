@@ -1,10 +1,5 @@
 [
   {
-    "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
-    "link": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
-    "published_date": "2026-10-16T14:25:45.732090"
-  },
-  {
     "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
     "link": "https://decrypt.co/381149/cftc-wants-drop-gemini-5m-settlement-judge-said-no",
     "published_date": "2026-10-16T18:12:16.018376"
@@ -113,5 +108,20 @@
     "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
     "link": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
     "published_date": "2026-10-23T12:53:20.798383"
+  },
+  {
+    "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
+    "link": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
+    "published_date": "2026-10-23T17:31:37.968221"
+  },
+  {
+    "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
+    "link": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
+    "published_date": "2026-10-23T17:31:38.497228"
+  },
+  {
+    "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
+    "link": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
+    "published_date": "2026-10-23T17:31:39.124712"
   }
 ]
