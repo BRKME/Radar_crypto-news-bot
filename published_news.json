@@ -1,20 +1,5 @@
 [
   {
-    "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
-    "link": "https://decrypt.co/381149/cftc-wants-drop-gemini-5m-settlement-judge-said-no",
-    "published_date": "2026-10-16T18:12:16.018376"
-  },
-  {
-    "title": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
-    "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
-    "published_date": "2026-10-16T21:25:09.116563"
-  },
-  {
-    "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
-    "link": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
-    "published_date": "2026-10-18T14:56:08.649684"
-  },
-  {
     "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
     "link": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
     "published_date": "2026-10-18T17:38:16.472650"
@@ -123,5 +108,10 @@
     "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
     "link": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
     "published_date": "2026-10-23T17:31:39.124712"
+  },
+  {
+    "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
+    "link": "https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide",
+    "published_date": "2026-10-25T15:06:01.813582"
   }
 ]
