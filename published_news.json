@@ -1,15 +1,5 @@
 [
   {
-    "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
-    "link": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock",
-    "published_date": "2026-10-20T13:04:11.818074"
-  },
-  {
-    "title": "BlackRock Files for 'Buffer' Bitcoin ETF as IBIT Draws $665M in a Day",
-    "link": "https://decrypt.co/381385/blackrock-files-for-buffer-bitcoin-etf-as-ibit-draws-665m-in-a-day",
-    "published_date": "2026-10-20T13:04:12.243465"
-  },
-  {
     "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
     "link": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
     "published_date": "2026-10-20T18:01:58.783092"
@@ -103,5 +93,15 @@
     "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
     "link": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
     "published_date": "2026-10-27T08:03:04.895812"
+  },
+  {
+    "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
+    "link": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
+    "published_date": "2026-10-27T14:41:49.510919"
+  },
+  {
+    "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
+    "link": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
+    "published_date": "2026-10-27T14:41:50.640363"
   }
 ]
