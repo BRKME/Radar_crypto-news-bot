@@ -1,10 +1,5 @@
 [
   {
-    "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
-    "link": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
-    "published_date": "2026-10-21T05:02:28.768707"
-  },
-  {
     "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
     "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
     "published_date": "2026-10-22T06:11:12.729633"
@@ -88,5 +83,10 @@
     "title": "Live updates: Bitcoin edges higher as Nasdaq surges 1.2%",
     "link": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
     "published_date": "2026-10-27T23:16:09.735247"
+  },
+  {
+    "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+    "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
+    "published_date": "2026-10-28T08:44:56.046069"
   }
 ]
