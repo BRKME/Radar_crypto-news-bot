@@ -1,20 +1,5 @@
 [
   {
-    "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
-    "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
-    "published_date": "2026-10-22T06:11:12.729633"
-  },
-  {
-    "title": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case",
-    "link": "https://decrypt.co/381580/chinese-prosecutors-seek-to-confiscate-5-1b-in-bitcoin-seized-by-uk-in-qian-case",
-    "published_date": "2026-10-22T12:07:45.888934"
-  },
-  {
-    "title": "Italy Busts Mafia 'Secret Bank' That Laundered Money Through Crypto, Seizes $24M",
-    "link": "https://decrypt.co/381589/italy-busts-mafia-secret-bank-that-laundered-money-through-crypto-seizes-24m",
-    "published_date": "2026-10-22T12:07:46.359514"
-  },
-  {
     "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
     "link": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days",
     "published_date": "2026-10-22T17:21:43.752968"
@@ -133,5 +118,10 @@
     "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
     "link": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
     "published_date": "2026-10-29T06:07:47.968825"
+  },
+  {
+    "title": "Tokenized stock venue on Canton could beat OKX–ICE to first trade under SEC framework",
+    "link": "https://www.coindesk.com/business/2026/10/29/tokenized-stock-venue-on-canton-could-beat-okx-ice-to-first-trade-under-sec-framework",
+    "published_date": "2026-10-29T13:22:39.512969"
   }
 ]
