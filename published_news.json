@@ -1,10 +1,5 @@
 [
   {
-    "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on.",
-    "link": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
-    "published_date": "2026-10-22T23:42:07.443066"
-  },
-  {
     "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
     "link": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
     "published_date": "2026-10-23T07:44:03.711630"
@@ -133,5 +128,10 @@
     "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
     "link": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
     "published_date": "2026-10-29T23:24:48.567836"
+  },
+  {
+    "title": "Binance hack drained wallets backing customer assets, reserve data shows",
+    "link": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+    "published_date": "2026-10-30T02:42:36.073562"
   }
 ]
