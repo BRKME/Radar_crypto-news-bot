@@ -1,20 +1,5 @@
 [
   {
-    "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
-    "link": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
-    "published_date": "2026-10-23T17:31:37.968221"
-  },
-  {
-    "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
-    "link": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
-    "published_date": "2026-10-23T17:31:38.497228"
-  },
-  {
-    "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
-    "link": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
-    "published_date": "2026-10-23T17:31:39.124712"
-  },
-  {
     "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
     "link": "https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide",
     "published_date": "2026-10-25T15:06:01.813582"
@@ -173,5 +158,30 @@
     "title": "Israel Extradites Alleged Nomad Bridge Exploiter to US Over $2.8M Theft: Report",
     "link": "https://decrypt.co/382230/israel-extradites-alleged-nomad-bridge-exploiter-to-us-over-2-8m-theft-report",
     "published_date": "2026-10-30T16:02:47.760260"
+  },
+  {
+    "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+    "link": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
+    "published_date": "2026-10-30T20:54:42.840218"
+  },
+  {
+    "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
+    "link": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
+    "published_date": "2026-10-30T20:54:43.910186"
+  },
+  {
+    "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
+    "link": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack",
+    "published_date": "2026-10-30T20:54:45.075624"
+  },
+  {
+    "title": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
+    "link": "https://decrypt.co/382268/secret-service-fbi-binance-hack-probe",
+    "published_date": "2026-10-30T20:54:45.644554"
+  },
+  {
+    "title": "Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
+    "link": "https://decrypt.co/382236/elon-musk-cz-trade-blows-spacex-shares-binance-hack",
+    "published_date": "2026-10-30T20:54:46.177061"
   }
 ]
