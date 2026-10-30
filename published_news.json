@@ -1,10 +1,5 @@
 [
   {
-    "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
-    "link": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
-    "published_date": "2026-10-23T12:53:20.798383"
-  },
-  {
     "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
     "link": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
     "published_date": "2026-10-23T17:31:37.968221"
@@ -153,5 +148,30 @@
     "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
     "link": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
     "published_date": "2026-10-30T09:06:41.545230"
+  },
+  {
+    "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
+    "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
+    "published_date": "2026-10-30T16:02:44.154085"
+  },
+  {
+    "title": "Here's how big bitcoin traders responded after the Binance hack hit",
+    "link": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit",
+    "published_date": "2026-10-30T16:02:45.188788"
+  },
+  {
+    "title": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
+    "link": "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack",
+    "published_date": "2026-10-30T16:02:46.162291"
+  },
+  {
+    "title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
+    "link": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
+    "published_date": "2026-10-30T16:02:47.132235"
+  },
+  {
+    "title": "Israel Extradites Alleged Nomad Bridge Exploiter to US Over $2.8M Theft: Report",
+    "link": "https://decrypt.co/382230/israel-extradites-alleged-nomad-bridge-exploiter-to-us-over-2-8m-theft-report",
+    "published_date": "2026-10-30T16:02:47.760260"
   }
 ]
