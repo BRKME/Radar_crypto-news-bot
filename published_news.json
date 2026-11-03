@@ -1,15 +1,5 @@
 [
   {
-    "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
-    "link": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
-    "published_date": "2026-10-27T14:41:49.510919"
-  },
-  {
-    "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
-    "link": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
-    "published_date": "2026-10-27T14:41:50.640363"
-  },
-  {
     "title": "Live updates: Bitcoin edges higher as Nasdaq surges 1.2%",
     "link": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
     "published_date": "2026-10-27T23:16:09.735247"
@@ -263,5 +253,30 @@
     "title": "Bitcoin’s latest chart signal looks a lot like the ones before its big crashes",
     "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal",
     "published_date": "2026-11-03T11:05:38.736319"
+  },
+  {
+    "title": "Liquid’s bitcoin IOUs are fully backed again after a $320 million exploit",
+    "link": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
+    "published_date": "2026-11-03T18:29:42.764611"
+  },
+  {
+    "title": "Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit",
+    "link": "https://decrypt.co/382397/liquid-network-restores-full-bitcoin-backing-two-months-after-320m-exploit",
+    "published_date": "2026-11-03T18:29:43.384783"
+  },
+  {
+    "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
+    "link": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
+    "published_date": "2026-11-03T18:29:44.680856"
+  },
+  {
+    "title": "North Korea Denies $6.3B Binance Hack, Calls FBI Finding a 'Political Provocation'",
+    "link": "https://decrypt.co/382394/north-korea-denies-6-3b-binance-hack-calls-fbi-finding-a-political-provocation",
+    "published_date": "2026-11-03T18:29:45.313534"
+  },
+  {
+    "title": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
+    "link": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street",
+    "published_date": "2026-11-03T18:29:46.701499"
   }
 ]
