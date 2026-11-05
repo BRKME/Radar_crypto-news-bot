@@ -1,10 +1,5 @@
 [
   {
-    "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
-    "link": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
-    "published_date": "2026-10-29T06:07:47.968825"
-  },
-  {
     "title": "Tokenized stock venue on Canton could beat OKX–ICE to first trade under SEC framework",
     "link": "https://www.coindesk.com/business/2026/10/29/tokenized-stock-venue-on-canton-could-beat-okx-ice-to-first-trade-under-sec-framework",
     "published_date": "2026-10-29T13:22:39.512969"
@@ -248,5 +243,10 @@
     "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
     "link": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
     "published_date": "2026-11-04T23:59:05.627444"
+  },
+  {
+    "title": "Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing",
+    "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
+    "published_date": "2026-11-05T12:56:05.994807"
   }
 ]
