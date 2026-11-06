@@ -1,80 +1,5 @@
 [
   {
-    "title": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
-    "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90",
-    "published_date": "2026-10-30T09:06:37.725465"
-  },
-  {
-    "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
-    "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
-    "published_date": "2026-10-30T09:06:38.658123"
-  },
-  {
-    "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
-    "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
-    "published_date": "2026-10-30T09:06:39.481957"
-  },
-  {
-    "title": "Live News: Binance hack rattles crypto as Intel plunges and AI spending fears hit tech",
-    "link": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
-    "published_date": "2026-10-30T09:06:40.461520"
-  },
-  {
-    "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
-    "link": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
-    "published_date": "2026-10-30T09:06:41.545230"
-  },
-  {
-    "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
-    "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
-    "published_date": "2026-10-30T16:02:44.154085"
-  },
-  {
-    "title": "Here's how big bitcoin traders responded after the Binance hack hit",
-    "link": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit",
-    "published_date": "2026-10-30T16:02:45.188788"
-  },
-  {
-    "title": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
-    "link": "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack",
-    "published_date": "2026-10-30T16:02:46.162291"
-  },
-  {
-    "title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
-    "link": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
-    "published_date": "2026-10-30T16:02:47.132235"
-  },
-  {
-    "title": "Israel Extradites Alleged Nomad Bridge Exploiter to US Over $2.8M Theft: Report",
-    "link": "https://decrypt.co/382230/israel-extradites-alleged-nomad-bridge-exploiter-to-us-over-2-8m-theft-report",
-    "published_date": "2026-10-30T16:02:47.760260"
-  },
-  {
-    "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
-    "link": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
-    "published_date": "2026-10-30T20:54:42.840218"
-  },
-  {
-    "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
-    "link": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
-    "published_date": "2026-10-30T20:54:43.910186"
-  },
-  {
-    "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
-    "link": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack",
-    "published_date": "2026-10-30T20:54:45.075624"
-  },
-  {
-    "title": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
-    "link": "https://decrypt.co/382268/secret-service-fbi-binance-hack-probe",
-    "published_date": "2026-10-30T20:54:45.644554"
-  },
-  {
-    "title": "Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
-    "link": "https://decrypt.co/382236/elon-musk-cz-trade-blows-spacex-shares-binance-hack",
-    "published_date": "2026-10-30T20:54:46.177061"
-  },
-  {
     "title": "TRM and Chainalysis Tie $6.4B Binance Hack to North Korea's TraderTraitor",
     "link": "https://decrypt.co/382224/trm-and-chainalysis-tie-6-4b-binance-hack-to-north-koreas-tradertraitor",
     "published_date": "2026-10-31T00:11:14.786716"
@@ -243,5 +168,10 @@
     "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
     "link": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
     "published_date": "2026-11-06T07:38:16.776090"
+  },
+  {
+    "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+    "link": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
+    "published_date": "2026-11-06T20:57:18.522164"
   }
 ]
