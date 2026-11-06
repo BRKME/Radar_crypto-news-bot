@@ -1,20 +1,5 @@
 [
   {
-    "title": "Live updates: Crypto falls amid report of multi-billion Binance hack",
-    "link": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
-    "published_date": "2026-10-29T23:24:47.958671"
-  },
-  {
-    "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
-    "link": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
-    "published_date": "2026-10-29T23:24:48.567836"
-  },
-  {
-    "title": "Binance hack drained wallets backing customer assets, reserve data shows",
-    "link": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
-    "published_date": "2026-10-30T02:42:36.073562"
-  },
-  {
     "title": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
     "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90",
     "published_date": "2026-10-30T09:06:37.725465"
@@ -253,5 +238,10 @@
     "title": "Binance cuts SignalPlus access after security warning, urges users to check accounts",
     "link": "https://www.coindesk.com/tech/2026/11/05/binance-cuts-signalplus-access-after-security-warning-urges-users-to-check-accounts",
     "published_date": "2026-11-05T20:21:31.184777"
+  },
+  {
+    "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
+    "link": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
+    "published_date": "2026-11-06T07:38:16.776090"
   }
 ]
