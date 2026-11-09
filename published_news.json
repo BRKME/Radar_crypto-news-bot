@@ -1,60 +1,5 @@
 [
   {
-    "title": "TRM and Chainalysis Tie $6.4B Binance Hack to North Korea's TraderTraitor",
-    "link": "https://decrypt.co/382224/trm-and-chainalysis-tie-6-4b-binance-hack-to-north-koreas-tradertraitor",
-    "published_date": "2026-10-31T00:11:14.786716"
-  },
-  {
-    "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
-    "link": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
-    "published_date": "2026-10-31T05:58:37.440132"
-  },
-  {
-    "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
-    "link": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
-    "published_date": "2026-10-31T16:22:12.837034"
-  },
-  {
-    "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
-    "link": "https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion",
-    "published_date": "2026-10-31T16:22:13.476153"
-  },
-  {
-    "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
-    "link": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
-    "published_date": "2026-10-31T16:22:13.925281"
-  },
-  {
-    "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-    "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
-    "published_date": "2026-11-01T02:25:03.695812"
-  },
-  {
-    "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
-    "link": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
-    "published_date": "2026-11-01T16:09:14.073344"
-  },
-  {
-    "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
-    "link": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
-    "published_date": "2026-11-02T12:41:06.865517"
-  },
-  {
-    "title": "Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead",
-    "link": "https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead",
-    "published_date": "2026-11-02T12:41:07.919121"
-  },
-  {
-    "title": "FBI Blames North Korea for $6B Binance Hack as Exchange Reopens Withdrawals",
-    "link": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals",
-    "published_date": "2026-11-02T12:41:08.398130"
-  },
-  {
-    "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
-    "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
-    "published_date": "2026-11-02T12:41:09.270613"
-  },
-  {
     "title": "Live updates: Bitcoin bounce fades as Binance exploit, AI unwind continue to weigh",
     "link": "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings",
     "published_date": "2026-11-02T21:58:00.576808"
@@ -173,5 +118,20 @@
     "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
     "link": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
     "published_date": "2026-11-06T20:57:18.522164"
+  },
+  {
+    "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
+    "link": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
+    "published_date": "2026-11-09T20:54:38.712727"
+  },
+  {
+    "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
+    "link": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
+    "published_date": "2026-11-09T20:54:39.510436"
+  },
+  {
+    "title": "Zcash developers want 20-second blocks just days after major speed upgrade",
+    "link": "https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade",
+    "published_date": "2026-11-09T20:54:40.263730"
   }
 ]
