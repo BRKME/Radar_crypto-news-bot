@@ -1,20 +1,5 @@
 [
   {
-    "title": "North Korea denies role in $6.4 billion Binance hack after FBI points to TraderTraitor",
-    "link": "https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor",
-    "published_date": "2026-11-03T11:05:33.223578"
-  },
-  {
-    "title": "Arbitrum’s council moved $30 million of Binance hack funds without the hacker’s key",
-    "link": "https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key",
-    "published_date": "2026-11-03T11:05:37.445123"
-  },
-  {
-    "title": "Bitcoin’s latest chart signal looks a lot like the ones before its big crashes",
-    "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal",
-    "published_date": "2026-11-03T11:05:38.736319"
-  },
-  {
     "title": "Liquid’s bitcoin IOUs are fully backed again after a $320 million exploit",
     "link": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
     "published_date": "2026-11-03T18:29:42.764611"
@@ -113,5 +98,10 @@
     "title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
     "link": "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures",
     "published_date": "2026-11-10T10:48:46.302699"
+  },
+  {
+    "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
+    "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
+    "published_date": "2026-11-10T18:19:47.044255"
   }
 ]
