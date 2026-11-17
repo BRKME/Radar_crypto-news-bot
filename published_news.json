@@ -1,15 +1,5 @@
 [
   {
-    "title": "Live news: Traders price in fed rate hike for December as bitcoin and gold retreat",
-    "link": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
-    "published_date": "2026-11-10T10:48:45.682266"
-  },
-  {
-    "title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
-    "link": "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures",
-    "published_date": "2026-11-10T10:48:46.302699"
-  },
-  {
     "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
     "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
     "published_date": "2026-11-10T18:19:47.044255"
@@ -83,5 +73,25 @@
     "title": "U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans",
     "link": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
     "published_date": "2026-11-16T21:18:01.918636"
+  },
+  {
+    "title": "Binance hacker moves $63 million in stolen ether after 2 weeks of silence",
+    "link": "https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence",
+    "published_date": "2026-11-17T13:40:08.893492"
+  },
+  {
+    "title": "Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says",
+    "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says",
+    "published_date": "2026-11-17T13:40:09.923120"
+  },
+  {
+    "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+    "link": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
+    "published_date": "2026-11-17T13:40:11.025249"
+  },
+  {
+    "title": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
+    "link": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
+    "published_date": "2026-11-17T13:40:11.589682"
   }
 ]
