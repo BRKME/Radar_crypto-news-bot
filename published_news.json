@@ -1,20 +1,5 @@
 [
   {
-    "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
-    "link": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
-    "published_date": "2026-11-13T02:46:56.208605"
-  },
-  {
-    "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
-    "link": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
-    "published_date": "2026-11-13T02:46:57.289576"
-  },
-  {
-    "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
-    "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
-    "published_date": "2026-11-13T10:09:16.181641"
-  },
-  {
     "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
     "published_date": "2026-11-13T17:54:48.497922"
@@ -108,5 +93,20 @@
     "title": "Live updates: Bitcoin plunges to lowest since July as Anthropic gains, but broader markets tumble",
     "link": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
     "published_date": "2026-11-20T00:57:12.354660"
+  },
+  {
+    "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
+    "link": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
+    "published_date": "2026-11-20T16:27:04.077136"
+  },
+  {
+    "title": "Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K",
+    "link": "https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k",
+    "published_date": "2026-11-20T16:27:04.717230"
+  },
+  {
+    "title": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
+    "link": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
+    "published_date": "2026-11-20T16:27:05.755978"
   }
 ]
