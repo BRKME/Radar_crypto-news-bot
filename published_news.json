@@ -1,15 +1,5 @@
 [
   {
-    "title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
-    "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
-    "published_date": "2026-11-15T00:27:01.985302"
-  },
-  {
-    "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
-    "link": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
-    "published_date": "2026-11-15T14:23:14.106310"
-  },
-  {
     "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
     "link": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
     "published_date": "2026-11-16T21:18:00.884452"
@@ -108,5 +98,10 @@
     "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
     "link": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
     "published_date": "2026-11-21T18:18:57.179307"
+  },
+  {
+    "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+    "link": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+    "published_date": "2026-11-22T18:43:43.899499"
   }
 ]
