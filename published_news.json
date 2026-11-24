@@ -1,30 +1,5 @@
 [
   {
-    "title": "Binance hacker moves $63 million in stolen ether after 2 weeks of silence",
-    "link": "https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence",
-    "published_date": "2026-11-17T13:40:08.893492"
-  },
-  {
-    "title": "Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says",
-    "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says",
-    "published_date": "2026-11-17T13:40:09.923120"
-  },
-  {
-    "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
-    "link": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
-    "published_date": "2026-11-17T13:40:11.025249"
-  },
-  {
-    "title": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
-    "link": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
-    "published_date": "2026-11-17T13:40:11.589682"
-  },
-  {
-    "title": "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
-    "link": "https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks",
-    "published_date": "2026-11-17T21:56:00.814765"
-  },
-  {
     "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
     "link": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets",
     "published_date": "2026-11-18T03:12:03.675130"
@@ -153,5 +128,15 @@
     "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
     "link": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
     "published_date": "2026-11-24T12:41:44.866250"
+  },
+  {
+    "title": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
+    "link": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
+    "published_date": "2026-11-24T22:48:33.856827"
+  },
+  {
+    "title": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack",
+    "link": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
+    "published_date": "2026-11-24T22:48:34.511041"
   }
 ]
